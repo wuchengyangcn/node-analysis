@@ -1,0 +1,1892 @@
+Zhong Lin Wang 212 181704 6770  5219  3678  2580  2549
+Mostafa A. El-Sayed 119 105036 6975  5799  4245  4038  3222
+IAN  F.  AKYILDIZ 114 104038 33843  6876  4916  3793  2702
+Jean-Luc Bredas 140 94283 6619  3070  2242  2127  1622
+Seong-Hee Kim 107 77444 7468  3193  3088  2730  2370
+Walt A de Heer 83 61784 10451  5358  4089  3520  3000
+Naresh Malhotra 60 53741 14229  9706  4464  3744  2225
+Seth Marder 102 51472 2247  2242  1177  1074  1056
+Gregory D. Abowd 78 47041 6379  5938  3762  2078  2015
+Randall W. Engle 75 40575 2999  2294  2231  2051  1960
+George Nemhauser 78 39300 9570  2509  2259  1816  1033
+WIlliam Koros 102 36615 1116  759  610  574  522
+Chin-Hui Lee 83 35379 3023  2795  834  574  500
+M.G. Finn 80 35335 11319  1769  1283  840  725
+Meilin Liu 95 33174 1390  1050  1012  644  597
+Laura Cadonati 94 32902 4145  1408  1213  1076  883
+C. F. Jeff Wu 71 32735 3340  2277  1759  783  779
+Geoffrey Li 71 32380 1768  1341  1171  1171  1036
+Ajay Kohli 32 32282 10719  9339  2922  1143  924
+Wenke Lee 81 32030 1752  1692  1624  1115  1038
+A H Merrill 94 31798 1160  1126  1089  851  723
+Kokmeng Lee 91 30827 909  694  560  463  453
+Juyuan Yang 70 30127 731  406  281  272  272
+Kurt Wiesenfeld 53 28017 8026  5380  1842  1672  1307
+Thad Starner 66 26728 2675  2592  1364  1356  1138
+Peter J Webster 73 26397 2892  2276  1649  1607  1191
+Shamkant B Navathe 56 25948 6960  2633  2526  1775  673
+Vladimir Tsukruk 78 25711 3366  649  588  531  421
+Claire Berger 57 25580 5358  3520  3520  951  812
+Jeffrey Skolnick 83 25228 1415  1033  963  547  481
+Ruth Kanfer 59 23444 5499  2253  1215  1051  948
+seth hutchinson 42 23044 7636  4057  2769  1750  752
+Robert M. Nerem 79 23019 810  798  650  609  596
+Alexander Shapiro 65 22437 1931  1879  1136  1102  1010
+Michael N. Sawka 83 22423 1988  586  487  426  404
+Jay Bolter 40 22383 9222  3904  3659  869  507
+Shuichi Takayama 69 22323 2696  1801  1565  671  627
+Ling Liu 66 22032 2293  982  778  722  612
+Mark E Hay 83 21995 764  651  524  500  403
+Philllip L. Ackerman 67 21626 2253  1758  1215  1143  1065
+Mark Borodovsky 47 20383 3770  2328  2220  1554  1083
+James Foley 37 20195 10425  3221  1017  586  406
+Gleb Yushin 67 19981 2394  1592  1557  1058  894
+Ron Chance 69 19976 1610  1178  812  802  776
+Ronald C. Arkin 56 19935 4118  3043  1422  726  658
+Greg Gibson 49 19768 6020  1654  1272  1249  790
+David S. Sholl 75 19748 932  709  639  437  368
+Patricia Lyon Mokhtarian 69 19416 1060  828  736  655  581
+Thomas Habetler 69 19390 1584  1087  860  686  437
+Phillip N First 37 19282 5358  3520  3520  2010  951
+Mostafa Ammar 73 19244 1533  842  606  528  468
+C. David Sherrill 67 19212 2220  1107  770  673  628
+Christopher W. Jones 70 19180 1661  1649  625  411  346
+Rodney J. Weber 78 19113 550  494  418  407  402
+Christopher Hertzog 74 18986 1182  952  894  689  477
+Gordon Stuber 56 18418 4830  1768  1059  631  604
+Richard Fujimoto 60 18364 2297  2098  615  311  293
+Marilyn Wolf 64 18196 1031  696  597  582  570
+Martin Savelsbergh 61 18172 2259  995  757  553  475
+Hongyuan Zha 査宏远 65 17922 1769  911  689  655  397
+Calton Pu 62 17685 1734  718  611  490  392
+John Stasko 63 17201 994  763  721  673  522
+James M. Rehg 67 17117 2288  628  578  556  475
+Scott J Hollister 65 16992 2672  1128  700  674  521
+Ignacio Taboada 74 16941 863  595  590  569  418
+Greg Turk 49 16816 1656  1655  1206  1092  809
+David McDowell 71 16572 287  275  267  249  226
+John Crittenden 60 16086 1744  591  451  449  438
+Ellen Zegura 53 16015 2126  1533  1285  641  528
+Haesun Park 59 15783 836  546  448  432  358
+Don Giddens 49 15611 2816  1635  1291  630  532
+Armistead Russell 68 15582 545  424  402  348  312
+Deirdre Shoemaker 49 15368 4145  1408  883  738  534
+Howard M. Weiss 37 15359 3842  2154  1634  722  661
+Irfan Essa 54 14996 1656  1364  1136  702  633
+Suman Das 57 14751 1128  565  327  311  259
+Stanislav Emelianov 58 14639 1397  753  378  372  330
+Christina E. Shalley 29 14532 2657  2094  1606  1433  836
+Ellis L Johnson 57 14518 2259  1115  879  744  486
+E.D. Mynatt 55 14500 2015  1364  710  561  515
+Min-Feng Yu 40 14457 4997  2752  1209  478  408
+Marilyn Smith 60 14307 537  383  344  306  234
+James C. Gumbart 32 14222 10682  263  232  227  195
+Magnus Egerstedt 49 14213 1585  839  631  547  506
+Surya R. Kalidindi 65 14125 967  386  383  371  363
+John D. Cressler 53 14066 540  523  510  265  227
+Juan Calderon Bustillo 39 14017 4145  1408  883  755  738
+Tucker Balch 42 13838 3043  1433  903  794  726
+Manos Tentzeris 55 13833 538  491  276  273  214
+Frank T Rothaermel 33 13802 1775  1331  1079  1067  818
+Zhiqun Lin 65 13798 385  347  321  319  307
+Mark Guzdial 52 13696 3363  783  550  456  316
+Veaceslav Coropceanu 46 13603 3070  2127  1133  530  444
+yulin deng 55 13563 301  281  271  200  197
+Satish Kumar 60 13498 780  539  521  438  399
+Zhigang Jiang 25 13405 5710  2711  1006  702  524
+Jarek Rossignac 53 13373 1097  1094  911  771  469
+Chuck Eastman 51 13316 3982  749  395  373  349
+Dr. Fredrik O. Vannberg 29 13160 6810  1073  543  509  502
+A. Nepomuk Otte 62 13095 653  624  553  523  464
+Glaucio H. Paulino 65 13057 394  277  272  254  240
+Hanjoong Jo, PhD 61 12978 565  489  475  422  420
+jc spain 63 12959 950  541  389  339  302
+Nga Lee (Sally) Ng 50 12757 1677  573  508  449  446
+Robert Dickson 44 12683 1331  998  969  750  726
+Jun Xu 38 12682 303  286  241  236  234
+Rebecca E. Grinter 55 12602 721  658  589  544  502
+Matthew T. McDowell 43 12550 1418  1153  1011  990  935
+Constantine Dovrolis 50 12469 964  876  820  684  669
+Ajeet Rohatgi 55 12438 451  425  354  212  181
+Karan Jani 29 12292 4145  1408  883  738  534
+Santosh S. Vempala 51 12259 1236  1115  598  506  458
+Blair MacIntyre 38 12166 2926  1364  1333  1243  757
+Andrew Zangwill 47 12055 2766  1041  774  580  365
+Anthony Yezzi 49 12036 971  947  836  766  535
+Bryan Norton 49 12027 998  875  843  651  651
+Susan Embretson 37 11905 4854  999  463  400  384
+Dr. Farrokh Ayazi 54 11859 2183  368  344  238  198
+Nian Liu 47 11772 1011  990  935  783  592
+W. Keith Edwards 54 11603 721  657  429  418  372
+John P. Walsh 35 11591 3471  2668  900  532  313
+Wenshan Cai 31 11524 2809  1752  1693  656  417
+Chuck Zhang 50 10972 448  380  292  264  263
+David Rosen 47 10747 3153  348  323  304  242
+Thomas F. Fuller 40 10518 1915  1144  878  668  511
+Richard DeMillo 33 10487 2048  1747  985  787  695
+C. Ross Ethier 60 10484 384  301  294  247  229
+Jianxin (Roger) Jiao 50 10171 686  567  532  472  391
+Xiaoli Ma 44 10142 492  379  316  294  277
+Marie C. Thursby 47 10074 1386  989  776  556  430
+Jimeng Sun 52 9993 728  727  554  484  403
+Ting Zhu 48 9914 860  627  509  507  490
+Marvin Whiteley 54 9910 1067  646  535  455  443
+James Hays 30 9840 2663  1497  788  737  477
+Tim Lieuwen 48 9832 916  431  428  413  379
+Alper Erturk 45 9627 933  838  718  646  418
+Amy Bruckman 46 9450 1175  832  476  323  317
+Spyros G. Pavlostathis, PhD, BCEEM, F.IWA, F.WEF 48 9448 1972  574  487  240  201
+Panagiotis Tsiotras 52 9445 358  322  281  280  264
+Nancey Green Leigh 15 9410 6328  2264  186  186  85
+Raghupathy Sivakumar 48 9371 1000  512  464  409  383
+Eric M Vogel 47 9306 1020  872  627  387  301
+Joseph Montoya 49 9262 670  479  470  414  396
+Terry W. Snell 54 9156 379  291  266  249  247
+Amyn Teja 47 9153 922  831  351  287  254
+Mark A. Davenport 33 9137 2251  2155  542  493  445
+Kostas Konstantinidis 41 8986 1317  954  432  404  394
+Lance Fortnow 46 8985 805  727  600  453  366
+Gabriel Alfonso Rincón-Mora 42 8972 1659  706  408  377  303
+William Singhose 47 8964 431  306  301  281  260
+JF McDonald 53 8937 869  319  302  261  215
+Paul Wine 43 8895 3021  375  184  180  156
+Yongsheng Chen 49 8876 583  474  449  409  395
+Madhavan Swaminathan 43 8854 360  276  206  181  168
+Steven W. McLaughlin 40 8845 1768  1201  518  385  356
+Alessandro Orso 51 8706 627  601  459  345  291
+Dimitri N. Mavris 36 8554 392  319  312  166  154
+Srinivas Aluru 38 8553 2682  495  339  335  281
+Long Lin 50 8549 674  617  484  446  345
+Predrag Cvitanović 44 8487 780  620  612  481  427
+Yogendra Joshi 44 8485 254  226  181  156  149
+Saibal Mukhopadhyay 41 8456 2283  484  230  185  169
+Eberhard Voit 46 8410 1016  342  326  287  245
+Stephen P Diggle 43 8398 765  571  475  458  334
+paul verhaeghen 38 8255 1011  693  635  450  410
+Paul W Mayne 42 8204 1416  886  241  225  198
+Vinod Singhal 27 8155 1062  966  846  795  608
+Edward J. Coyle 39 8148 2269  786  410  316  264
+Carlos Silva 46 8127 750  502  439  422  405
+Krishnendu Roy 40 8017 1310  1240  620  379  225
+Dong Qin 33 8012 1671  1140  467  347  326
+sandra slaughter 40 7969 910  571  391  381  348
+Massimo Ruzzene 49 7952 402  345  229  224  207
+May D Wang 34 7938 1311  1210  543  507  337
+Ümit V. Çatalyürek 47 7937 500  267  267  222  196
+Janet Murray 18 7836 4964  1093  385  381  379
+Lewis Gregory Huey 52 7801 425  271  249  224  202
+Zhuomin Zhang 48 7778 837  300  265  220  205
+Yury Chernoff 41 7656 1017  497  435  347  337
+David A. Bader 52 7618 514  283  251  235  213
+Ashok K. Goel 42 7487 372  293  293  241  195
+Loren Dean Williams 47 7465 539  484  239  229  217
+Brani Vidakovic 34 7426 1669  1320  390  315  307
+Moinuddin Qureshi 33 7413 1149  1048  623  588  327
+Nicholas V. Hud 48 7303 750  298  282  208  205
+Andreas S. Bommarius 45 7265 434  358  343  313  255
+Leon McGinnis 32 7257 2074  787  463  290  278
+Kyoung-sik Moon 45 7168 426  352  274  263  251
+Facundo M. Fernández 46 7125 491  343  324  233  228
+Jaydev P. Desai 39 7122 1167  883  864  271  163
+James J. Wray 39 7085 422  379  372  369  302
+Maysam Ghovanloo 40 7047 437  355  293  275  239
+Michael S. Chapman 35 6982 828  453  435  381  317
+F. Levent Degertekin 45 6912 180  160  125  124  124
+Sang Hyun Kim 31 6893 1140  883  281  280  199
+Annie I. Antón 45 6809 759  742  334  302  256
+Jianjun Shi 44 6798 422  279  278  270  244
+Sankar Nair 46 6777 468  411  245  218  217
+Devi Parikh 41 6721 694  671  433  365  236
+Naresh Thadhani 36 6680 459  207  193  192  125
+Srinivas Garimella 36 6626 945  668  461  237  235
+I. King Jordan 40 6587 522  464  279  262  230
+Johnna Temenoff 32 6514 1091  604  536  532  337
+Renato D C Monteiro 37 6452 697  527  432  385  288
+Emanuele Di Lorenzo 43 6427 688  638  308  233  226
+John A. Copeland 40 6400 431  323  262  214  212
+Mustaque Ahamad 38 6395 539  460  386  353  237
+Dave Goldsman 38 6354 1270  629  341  162  152
+Shabbir Ahmed 35 6336 979  346  341  329  274
+Krista S. Walton 37 6311 635  613  436  433  368
+Samuel Graham 40 6309 1177  277  225  166  115
+Scott Bair 44 6301 371  371  290  238  209
+Le Song 45 6232 395  337  225  217  214
+Harold D. Kim 34 6230 556  456  417  379  293
+Alexandra Boldyreva 28 6202 780  729  716  612  449
+John J. Bartholdi III 34 6196 526  524  515  357  340
+Pinar Keskinocak 39 6136 1251  286  249  244  205
+Philip Auslander 28 6086 2577  494  361  300  282
+Craig Tovey 37 6073 524  515  333  314  310
+Craig Zimring 34 5980 885  802  452  242  195
+Mary Frank Fox 36 5947 566  537  414  349  303
+David Ballantyne 40 5914 823  388  292  188  151
+Diana Hicks 34 5886 589  492  468  421  350
+Sung Kyu Lim 39 5877 265  256  165  165  155
+Hang Lu 36 5771 499  473  378  310  294
+Andrei Fedorov 39 5760 433  281  226  156  144
+Eric H. Schumacher 28 5747 903  691  673  630  555
+H. Jerry Qi 40 5670 386  322  272  271  256
+Jacob Eisenstein 34 5625 774  543  323  303  282
+Richard Vuduc 33 5618 759  512  365  351  241
+H. Edwin Romeijn 41 5587 254  254  194  181  169
+Steve M. Potter 34 5574 617  541  384  300  295
+James A. Mulholland 41 5526 424  320  282  221  216
+Min Zhou 36 5489 513  483  257  257  249
+ds Citrin 41 5485 347  211  152  146  128
+P.K Yeung 41 5428 502  351  301  254  207
+Maryam Saeedifard 30 5425 931  808  653  265  264
+Kim M Cobb 31 5416 780  638  526  272  272
+Hamid Garmestani 37 5408 580  456  194  160  144
+Hyesoon Kim 34 5372 600  538  458  272  147
+Colin Potts 32 5356 759  414  382  370  354
+Mark E. Wheeler 22 5335 800  733  525  436  327
+E. Glenn Lightsey 23 5307 3470  238  90  76  64
+Richard Catrambone 35 5191 666  316  290  271  268
+Joseph P. Sadighi 26 5187 878  558  428  352  274
+T Richard Nichols 34 5166 975  321  257  211  202
+Dirk Lennarz 41 5160 300  299  278  242  175
+Ellery Ingall 36 5138 363  359  341  315  283
+Bokwon Yoon 27 5136 1249  599  440  348  345
+Jean Lynch-Stieglitz 34 5054 595  430  306  295  265
+Jean Bellissard 38 5043 555  264  239  229  185
+Soumen Ghosh 29 4987 647  615  531  494  359
+Doug Blough 33 4982 503  385  338  337  176
+FT Durso; OU Vortac 38 4979 318  294  259  249  246
+Christoph J. Fahrni 30 4969 706  408  366  319  311
+Eva K Lee 36 4956 764  480  478  319  256
+Joshua S Weitz 40 4936 546  251  220  205  173
+Mohan Srinivasarao 30 4931 866  497  438  337  281
+Andrew F. Peterson 29 4914 1459  669  135  125  123
+Thomas M  Orlando 36 4909 411  387  155  150  145
+Soojin Yi 37 4889 603  495  271  259  219
+Marilyn A. Brown 33 4861 528  339  323  246  159
+Phillip B Sparling 36 4850 432  243  219  205  199
+todd streelman 36 4846 374  306  298  287  267
+Flavio H. Fenton 26 4835 750  531  384  340  269
+Sam Brown 39 4809 347  244  244  205  203
+Ching-Hua Huang 33 4712 471  359  293  235  225
+Rosario Gerhardt 30 4676 581  328  312  292  164
+Sudheer Chava 18 4673 1214  835  513  322  305
+Alexandre Magasinski 21 4650 1557  894  511  204  202
+Rafael de la Llave 37 4603 269  218  175  166  147
+Xing XIE 22 4579 962  630  533  444  276
+Julie Champion 14 4579 1352  866  569  483  425
+Mindy Millard-Stafford 28 4544 2351  179  157  155  118
+Xiaoming Huo 26 4531 1908  594  383  142  107
+Alex Lomsadze 20 4525 1083  520  520  438  347
+Cyrus K Aidun 30 4518 1295  521  212  165  143
+Marc Stieglitz 33 4492 584  221  220  214  214
+Peter Thompson 28 4446 523  489  489  247  234
+Ying Liu 30 4398 468  346  314  295  276
+Seung Woo Lee 28 4397 779  589  564  274  217
+Benoit Montreuil 37 4396 240  219  208  200  166
+Roger Wartell 37 4389 614  292  220  194  166
+Milton Mueller 31 4375 589  573  368  189  153
+Taesoo Kim 27 4355 177  101  89  77  75
+Scott D. Moffat 27 4309 476  420  347  338  268
+Tom Conte 35 4297 223  219  206  197  150
+Bruce N. Walker 36 4295 423  200  177  171  164
+Matthieu Bloch 26 4286 1215  718  296  157  154
+S. Mostafa Ghiaasiaan 29 4271 845  434  404  268  158
+Erik Verriest 30 4238 700  274  151  128  125
+Farhad Gharagheizi 40 4228 139  118  107  105  98
+Young Charles Jang 24 4223 1043  416  372  269  210
+Edmond Chow 26 4220 880  378  290  267  260
+Mike Sprinkle 19 4216 544  468  385  365  356
+Alasdair Young 25 4214 2264  203  139  117  114
+Evans Harrell 32 4185 1349  251  212  162  151
+Jennifer E. Michaels 32 4183 336  297  241  232  183
+Tushar Krishna 17 4177 2533  534  406  81  77
+Randall Guensler 32 4161 615  407  380  96  87
+Canek Fuentes-Hernandez 31 4115 1177  194  151  140  133
+Mark Riedl 32 4088 288  264  233  206  181
+Hermann M. Fritz 35 4069 275  210  197  173  169
+Matthew Realff 32 4069 358  343  254  201  176
+Lakshmi N. Sankar 33 4067 129  121  105  84  84
+Yu Jeffrey Hu 19 4067 1131  623  528  340  323
+Michelle C. LaPlaca 39 4066 189  162  154  153  151
+Constantine Yannouleas 35 4060 262  219  190  189  151
+Gerald S. Pullman 39 4050 267  182  176  170  166
+Philip Gerrish 19 4029 768  725  436  408  334
+Gregory D. Durgin 30 4012 445  348  254  246  239
+Arijit Raychowdhury 34 3981 230  217  194  176  159
+D.J. Wu 24 3978 978  345  320  290  280
+Jonathan S. Colton 25 3976 578  539  388  322  308
+W. D. Blair 33 3958 237  213  147  131  125
+J. Carson Meredith 31 3956 579  258  253  202  177
+Julia Kubanek 37 3945 227  187  176  167  129
+Taka Ito 32 3912 447  205  191  145  140
+Munmun De Choudhury 32 3901 477  234  210  183  160
+Subhrajit Guhathakurta 20 3893 2288  184  168  167  101
+Faramarz Fekri 35 3888 272  149  145  109  106
+Victor Breedveld 33 3849 785  392  174  153  146
+Sotira Yiacoumi 31 3845 279  272  241  213  207
+Kyril Solntsev 34 3825 591  182  139  133  108
+michael lacey 29 3822 323  323  290  257  133
+Peter A. Freeman 28 3821 1042  299  278  240  142
+Daniel Spieler 23 3803 769  693  534  246  209
+michael lacey 29 3801 323  323  290  257  133
+Jan Youtie 29 3778 482  396  217  187  153
+Thomas J. Burkholder 21 3764 1907  383  219  151  133
+Zhigang Peng 32 3725 371  192  183  165  135
+Ronald Rousseau 29 3717 708  496  138  134  112
+Azad Naeemi 27 3712 336  308  242  208  165
+Umakishore Ramachandran 33 3694 240  220  209  157  127
+Jeff Davis 25 3686 700  459  402  203  196
+Benjamin Hertzberg 14 3676 1557  894  511  282  101
+William L. Melvin 27 3634 605  553  319  188  154
+Angela S.P. Lin 34 3626 404  270  186  174  145
+Todd Sulchek 33 3625 319  248  240  214  173
+Valerie Thomas 30 3623 598  302  228  153  140
+L. Beril Toktay 27 3612 629  614  469  177  153
+Sonia Chernova 25 3589 1814  177  173  156  99
+John E. Taylor 33 3558 178  171  165  153  125
+John Wise 27 3549 345  342  279  236  201
+Karim G. Sabra 25 3541 494  438  377  259  162
+Robert Butera 29 3527 466  361  325  225  139
+Spyros Reveliotis 28 3525 404  206  199  193  161
+David Frost 34 3508 132  131  124  119  116
+Sven H. Behrens 29 3506 685  269  201  188  182
+Peng Qiu 23 3492 1219  485  334  243  158
+Minoru "Shino" Shinohara 33 3484 212  186  165  142  137
+Angelo Bongiorno 26 3454 605  311  272  193  186
+Daniel I. Goldman 31 3427 224  157  156  153  148
+Garrett B. Stanley 26 3416 527  313  261  259  243
+Yuhong Fan 21 3405 452  374  364  337  295
+Charles C. Kemp 33 3392 304  236  161  135  118
+Joe Le Doux 18 3389 1907  179  150  128  124
+Joel M. Hales 29 3376 289  242  240  200  168
+Tim Cope 34 3351 322  143  123  108  97
+Ryan P. Lively 30 3349 237  235  232  177  146
+John Peponis 26 3337 452  345  187  179  176
+Faisal Alamgir 23 3329 1352  422  195  177  173
+Ozlem Ergun 28 3315 697  346  177  170  161
+Steven Van Ginkel 17 3314 791  564  519  360  247
+John-Paul Clarke 29 3294 242  189  143  137  124
+Chuanyi Ji 30 3284 589  249  249  217  155
+bryan church 26 3271 470  382  237  147  145
+Marc Weissburg 35 3245 280  215  215  151  122
+Seung Soon Jang 32 3209 393  212  158  127  120
+David V. Anderson 31 3157 173  148  143  138  125
+Sigrun Andradottir 27 3152 268  244  238  218  157
+Xiaonan Wen 29 3148 428  216  197  189  159
+Itzhak Green 29 3127 466  190  115  101  98
+Michael Goodisman 28 3118 347  271  259  166  156
+Lin Jiang 27 3101 620  244  237  154  122
+Julie Linsey 29 3092 273  166  159  149  109
+Philip J. W. Roberts 30 3080 196  150  144  132  119
+Vijay Madisetti 28 3057 657  148  136  94  91
+Christopher T. Reinhard 23 3048 659  229  209  198  195
+Nanwen Li 30 3027 260  196  166  150  142
+Natashia L Boland 24 3018 389  290  229  192  167
+Milos Prvulovic 26 3012 469  300  257  177  172
+Guanghui (George) Lan 20 2993 1010  236  209  166  150
+Prilutsky Boris 29 2979 237  201  192  167  148
+Huizhong Shen 33 2961 279  279  150  122  118
+Jennifer E. Curtis 20 2960 1341  516  144  121  74
+Jorge A. Laval 29 2935 462  195  164  157  134
+Carsten Sievers 32 2928 212  157  155  147  144
+Kirill Lobachev 22 2915 351  323  303  176  174
+Duen Horng (Polo) Chau 27 2905 351  164  152  147  144
+Huan Xu 27 2888 441  223  155  143  121
+M M Aral 27 2845 146  134  125  121  117
+Frank James Stewart 25 2838 330  262  229  194  182
+Narayanan Jayaraman 21 2825 332  297  263  238  215
+Shan Huang 13 2823 860  490  351  272  151
+Don White 31 2772 200  157  100  90  87
+Thomas DiChristina 30 2765 256  170  158  134  124
+Mu Gao 24 2744 779  203  183  160  120
+Brian Hammer 20 2729 720  406  280  242  192
+Yifan Gao (高一凡) 18 2726 532  439  308  230  219
+Ayanna Howard 23 2721 325  145  69  59  52
+Xinying Li 30 2695 126  106  91  78  73
+Vladimir Kolesnikov 25 2694 432  182  149  136  126
+Greg Eisenhauer 29 2694 318  229  118  113  96
+David Sluss 14 2681 743  442  289  260  257
+Jian Luo 27 2662 247  236  186  160  152
+annalisa bracco 29 2655 205  172  132  121  107
+C. Karen Liu 26 2652 355  309  241  229  110
+David Smalley 21 2651 570  402  275  230  152
+Stuart Graham 23 2625 445  223  217  215  167
+Fumin Zhang 24 2624 226  213  179  165  122
+Atalay Atasu 19 2623 575  297  262  245  156
+Shella Keilholz 24 2600 821  146  124  119  104
+Thomas Ploetz 28 2594 187  156  138  134  123
+Joseph Homer Saleh 29 2589 158  121  121  105  105
+Kalaitzidou K 23 2586 462  406  296  159  106
+Adegboyega Oyelere 26 2580 357  296  221  219  93
+Ruomeng Yu 28 2554 407  314  167  124  120
+Mark Losego 30 2551 317  215  120  117  96
+Julie Swann 24 2545 341  328  233  179  132
+Peter Swire 29 2544 287  213  135  130  114
+Edward Botchwey 29 2540 298  274  180  96  94
+Nagi Gebraeel 19 2535 490  360  171  169  168
+James E. Dahlman 19 2529 668  596  262  222  134
+Steven P. French 24 2528 246  244  240  160  157
+Stefan France 24 2520 441  290  200  171  122
+J. M. Nicovich 29 2510 180  155  151  100  96
+In-Cheol Sun 16 2505 788  322  289  208  148
+Hsin-Chieh Peng 27 2502 317  281  253  170  99
+Andrew J. Medford 27 2499 186  177  173  139  135
+Yang Wang 25 2488 268  227  143  126  90
+Alexander Alexeev 28 2479 282  156  111  90  85
+Philip Santangelo 25 2471 369  279  145  112  110
+Hazel Stevens 24 2469 355  271  213  171  147
+HYUN D SHIN 29 2465 107  73  66  65  63
+Woon-Hong Yeo 19 2452 449  320  306  214  125
+Richard W. Neu 26 2444 212  197  120  100  73
+Evangelos Theodorou 22 2441 375  375  295  189  160
+Colin Parker 15 2439 829  214  206  181  163
+michael schatz 22 2437 464  298  214  140  136
+Donggang Yao 24 2403 234  207  108  96  92
+Baratunde Cola 27 2398 253  177  164  153  131
+Richard F. Salant 28 2392 130  124  120  92  89
+Wei Sun 24 2385 265  186  167  136  132
+David L. Hu 19 2374 543  336  194  184  161
+John O'Mahony 18 2368 1068  263  164  123  88
+Wulin Qiu 28 2368 411  145  127  99  87
+Bilal Haider 10 2367 661  499  328  327  198
+Patrick S McCarthy 26 2352 186  181  170  142  102
+Peter J. Yunker 17 2342 815  244  206  165  159
+Joe Brown 23 2334 483  208  164  143  115
+James S Roberts 25 2319 271  265  187  164  116
+Simon Sponberg 13 2317 1636  136  98  73  63
+Michael Varenberg 21 2313 387  314  214  141  132
+Craig R. Forest 16 2304 1047  218  125  100  98
+Han Zhang 19 2298 357  257  181  174  172
+Pulugurtha Markondeya raj 20 2285 168  109  85  73  69
+Rahul C. Basole 25 2245 441  305  150  93  90
+Lu Lu 11 2239 965  538  256  223  64
+Peter H Rogers 22 2218 267  225  222  85  75
+Andrew Newman 25 2216 193  179  132  128  112
+G. Paul Neitzel 22 2201 298  208  201  198  137
+Dong Liu 17 2198 473  322  262  196  154
+Marco Ceccagnoli 18 2197 493  460  349  224  96
+Vahid Serpooshan 17 2196 925  169  162  144  131
+Thang Le 23 2188 238  189  167  134  121
+Michael J. Leamy 25 2156 402  109  97  96  75
+Hengyu Guo 30 2153 198  120  109  105  88
+Manu O. Platt, Ph.D. 22 2131 344  269  171  147  142
+Asegun Henry 18 2123 413  400  240  131  131
+Susan Burns 23 2114 207  207  140  134  117
+Raheem Beyah 27 2104 132  93  75  72  56
+Jun Ma 15 2099 982  982  579  68  58
+Stephen Balakirsky 21 2097 400  127  109  99  87
+Pamela Peralta-Yahya 13 2094 646  329  308  279  197
+Amy Pritchett 24 2093 109  98  86  71  60
+Tuo Zhao 17 2087 1248  203  89  83  44
+Saby Mitra 16 2086 536  358  270  159  115
+Gabe A. Kwong 14 2080 506  479  261  252  111
+Julia Melkers 20 2077 466  380  211  149  135
+Mike Stilman 25 2071 165  148  146  115  106
+Lewis A. Wheaton 19 2070 851  120  102  97  77
+Naoki Nitta 15 2066 1058  310  127  86  74
+D.R. Webster 28 2052 151  144  119  95  86
+Anthony J Giordano 17 2052 1177  107  89  71  61
+Jun Ueda 22 2047 130  92  89  85  72
+Hailong Chen 20 2046 371  333  141  128  123
+Cheng (Ian) Liu 17 2040 126  97  95  65  64
+Anant Paravastu 17 2035 810  247  201  189  79
+Krishna Naishadham 22 2034 217  163  152  116  77
+David Garton 24 2017 208  157  125  104  99
+Raquel L. Lieberman 21 2010 488  195  187  129  104
+Susan Napier Thomas 19 2009 418  180  152  141  120
+Josef Dufek 26 1997 249  141  72  69  68
+Brian Magerko 25 1996 181  105  98  80  65
+V. Roshan Joseph 24 1996 223  202  180  78  75
+Ghassan AlRegib 21 1990 140  125  120  111  86
+Wenting Sun 24 1988 269  267  142  131  118
+Amir Dindar 18 1985 1177  194  121  46  46
+John Haymaker 23 1978 240  170  130  105  94
+Arash Yavari 27 1978 122  87  81  78  72
+Manos Antonakakis 21 1973 354  305  230  102  76
+Vitali Volovoi 21 1969 293  221  158  140  88
+Ali A Eftekhar 24 1968 234  190  111  88  87
+Mengye Wang 19 1959 319  279  241  178  156
+Omer T. Inan 20 1946 272  170  163  160  74
+Bote Zhao (赵伯特) 26 1941 168  107  99  92  78
+Jamie Gorman 21 1936 294  186  121  114  100
+William Alan Doolittle 26 1928 93  82  56  53  52
+Margaret E. Kosal 14 1921 484  432  203  196  135
+Young Woo Ok 22 1920 335  228  120  106  85
+Dongchang Chen 23 1914 569  135  114  107  86
+John H. Phan 19 1909 543  335  118  88  83
+Andrei Karpiouk 22 1909 372  170  104  93  89
+Robert Chen 9 1898 1044  320  291  75  43
+Agata Rozga 16 1894 627  208  166  129  87
+Preet M. Singh 21 1863 245  167  112  91  79
+Matthew J. Higgins 17 1850 432  290  193  164  91
+Aaron D. Levine 15 1830 1068  138  101  84  55
+Jung H. Choi 14 1822 827  157  125  101  99
+Jenny Singleton 17 1809 311  258  135  135  130
+Martin B Short 19 1802 392  231  142  139  114
+Jinho Park 17 1802 332  317  220  116  107
+Christopher Rozell 21 1797 280  259  163  78  59
+Yang SONG (宋阳) 15 1794 705  264  206  151  92
+Roozbeh Kangari 19 1794 280  263  149  132  89
+Tibor Besedes 13 1790 439  424  375  138  89
+Alan Erera 21 1789 341  201  136  112  110
+Swaroop Vattam 19 1758 293  241  156  124  103
+Cong Xiong 13 1756 706  407  224  64  63
+Talha M. Khan 11 1754 1177  194  151  52  46
+Chunlei Zhu 16 1752 635  412  117  108  62
+Gunter H Meyer 24 1738 213  178  149  81  77
+Aikaterini Bougiatioti 23 1728 203  170  134  111  108
+Michael Hunter 20 1723 615  96  52  52  51
+Ada Gavrilovska 22 1721 212  112  110  102  71
+Adjo  Amekudzi 20 1712 379  110  104  103  66
+Ravikumar Balakrishnan 7 1689 1461  86  36  32  25
+Shyh-Chiang Shen 23 1687 123  119  99  74  68
+Mingfeng Lin 12 1680 676  320  252  136  63
+Matt Kinsey 11 1659 504  436  259  92  83
+Aaron Lanterman 20 1645 215  160  148  86  61
+Yingjie Liu 22 1644 240  122  114  109  102
+Brian Gunter 15 1624 688  140  131  107  78
+Audrey Duarte 23 1616 227  129  113  108  87
+Rafi Muhanna 18 1613 304  195  134  121  116
+Satish Kumar 20 1609 261  110  103  71  69
+Mohit Singh 22 1606 195  135  116  114  75
+jennifer clark 13 1606 826  152  149  89  87
+Todd H. Stokes 14 1601 543  337  118  87  83
+Rosa I. Arriaga 16 1599 271  245  233  125  73
+Al Ferri 20 1593 210  162  96  68  57
+Lawrence Kahn 22 1585 135  124  98  88  85
+Juan D Rogers 20 1585 281  269  150  104  81
+Xuan Yang 19 1583 374  167  121  93  90
+Jeffrey N Valdez 14 1579 501  202  195  108  104
+Sangmoo Choi (Sang-Moo Choi, Sang Moo Choi) 23 1579 141  98  85  79  65
+Alex Endert 20 1570 227  121  110  106  76
+Francesco Fedele 22 1567 154  128  84  82  79
+Emanuele Massetti 18 1566 438  182  156  86  73
+Francis Ulgado 14 1562 311  271  271  265  249
+M. A. Grover 20 1546 157  90  65  57  54
+Yao C. Xie 15 1531 565  235  105  95  63
+Patrick T McGrath 13 1526 371  164  162  153  153
+X. Andy Sun 17 1525 775  120  73  69  61
+Kimberley R. Isett 14 1523 310  271  187  97  95
+Ryan M. Richard 18 1521 770  102  95  81  38
+Steven R. Salbu 24 1521 164  109  89  73  73
+Tony Pan 20 1497 125  87  84  77  75
+P. D. Yoder 22 1493 165  83  79  79  68
+David Scott 14 1477 359  139  134  123  123
+Hans Klein 16 1471 523  192  133  97  75
+Sonit Bafna 16 1469 399  179  139  108  106
+Gil Weinberg 22 1461 164  112  85  71  68
+Peter Loutzenhiser 18 1459 263  133  129  99  96
+Yuanquan Wang 16 1453 194  65  54  48  39
+Molly Ogle 16 1451 498  140  93  81  76
+Karim Lounici 13 1439 393  208  202  196  83
+Ronghu Wu 22 1435 183  120  86  75  62
+Sajanlal R. Panikkanvalappil 18 1432 259  240  99  75  75
+Will R. Gutekunst 9 1430 735  191  157  117  87
+Andrzej Swiech 20 1419 245  113  105  78  72
+Neha Garg 15 1411 247  214  156  136  104
+Young-Hui Chang 19 1410 222  139  136  91  79
+Richard Roberts 13 1409 468  354  110  70  68
+Aleksey Ruditskiy 14 1390 409  281  107  99  92
+Dane Thompson 16 1384 491  276  109  97  54
+Steven R Biegalski 18 1378 317  138  50  41  37
+Catherine Ross 19 1377 144  120  109  104  100
+Melissa Lambeth Kemp 17 1375 499  129  119  91  63
+Yong Kwon Cho 21 1373 89  77  61  60  48
+Dhaval D. Kulkarni 15 1363 421  192  157  126  84
+Alenka Zajic 18 1358 128  108  106  88  61
+Richard Peng 20 1346 210  178  97  77  72
+Jonathan Clarke 15 1338 199  163  161  114  102
+Grant Schindler 13 1331 617  140  104  104  58
+Alexandre Locquet 17 1331 152  146  105  104  93
+Jeremy Hicks 11 1325 385  365  154  99  68
+Mostafa Faghih Shojaei 23 1324 98  92  60  59  53
+Byron Boots 18 1308 174  169  112  95  70
+Wenying Liu 14 1302 310  223  149  103  88
+Jennifer R. DuBose 10 1300 802  149  85  74  42
+Zhitao Kang 14 1298 568  45  41  38  37
+Morris B. Cohen 21 1294 143  84  69  58  55
+Kevin A. Haas 19 1289 135  109  99  91  75
+Anton S. Petrov 22 1284 96  92  90  67  65
+TK Snow 18 1284 199  155  113  96  90
+michael nitsche 16 1283 447  69  58  51  46
+Fan Hu 14 1283 305  269  176  123  99
+Luis M. Rodriguez-R 19 1276 211  126  90  82  79
+Roman Mezencev 20 1270 319  65  63  56  52
+Sven Simon 22 1269 84  72  71  59  57
+Hongyu Guo 18 1266 203  111  87  83  81
+Michael H.G. Hoffmann 19 1264 136  98  85  64  57
+Yuelan Zhang 16 1253 200  152  141  130  90
+Seung-Kyum Choi 14 1244 482  159  80  78  50
+Caroline Genzale 15 1238 209  207  112  93  74
+Saamer Akhshabi 8 1233 602  267  136  117  66
+Yang Zhou 14 1224 569  132  131  80  62
+Jiasen Lu 8 1224 694  214  105  97  36
+David S. Gottfried 15 1216 248  113  104  100  73
+Dazhong Wu 14 1208 304  242  131  94  65
+Liang Han 13 1206 263  248  171  134  92
+Britney Schmidt 18 1196 181  181  126  84  75
+Alexander Oettl 10 1190 300  217  207  130  121
+Christopher A. Le Dantec 17 1176 190  125  118  61  59
+Santanu S. Dey 21 1172 77  69  67  63  61
+Kenny Hicks 9 1171 510  213  198  88  58
+Gordon Kingsley 16 1168 393  156  106  85  42
+Vytautas Valancius 11 1167 367  229  133  107  82
+Shouling Ji 22 1164 53  52  49  47  40
+Edward M Balog 19 1157 240  84  82  77  71
+Nazanin Bassiri-Gharb 15 1153 257  163  81  72  59
+J. Brandon Dixon 18 1146 153  145  84  63  62
+Michael E Helms 15 1140 293  156  124  91  67
+Costas Arvanitis 16 1138 269  148  91  73  64
+Zohreh Razavi Hesabi 16 1136 182  123  106  98  84
+Yuanzhi Tang 19 1131 182  95  85  73  60
+Pallab Pradhan 12 1122 345  162  107  90  72
+Javier Irizarry 19 1119 164  95  75  71  50
+Asif Khan 19 1108 178  164  130  76  52
+Kiryung Lee 16 1103 222  142  88  55  51
+Naga Rajesh Tummala 17 1098 229  180  83  82  59
+Ramakrishna Vedantam 9 1097 433  261  194  43  41
+Vincent F. Fiore 13 1095 260  248  224  69  49
+Ji-Xun Zhou, Jixun Zhou, 周纪浔 17 1094 222  75  75  65  44
+Kwon, Yo Han 17 1092 223  169  91  87  55
+Roman Grigoriev 16 1091 282  140  66  60  57
+Vasileios Lakafosis 14 1088 252  159  108  107  63
+Jorge Hernan Jimenez 17 1081 123  97  91  75  61
+Meisha L. Shofner 15 1072 185  159  132  96  74
+Marta C. Hatzell 20 1060 156  109  82  80  57
+Xiongwu Kang 21 1055 101  97  74  63  63
+Jian Lu 16 1054 103  79  69  63  43
+Yichang (James) Tsai 16 1053 128  54  49  36  34
+Kungang Li 17 1053 156  126  80  69  61
+Fang Zheng 13 1044 229  165  162  140  58
+Anton Bryksin 14 1042 327  293  72  46  38
+Yu Chen 20 1039 111  78  76  66  58
+James Cooper 15 1029 147  146  89  76  70
+Aaron Young 16 1029 151  128  116  106  72
+Bo Yang 14 1026 137  89  60  36  29
+Kari Watkins 14 1025 222  192  85  61  50
+Adam Steinberg 20 1024 170  79  70  64  62
+Nico F. Declercq 18 1021 71  42  38  37  34
+Jihoon Kim 18 1018 182  97  86  71  68
+Manu Venugopal 14 1014 373  135  124  106  33
+Kaitao Li 8 1013 544  117  92  79  46
+Tamara Bogdanović 16 1012 242  110  83  62  57
+Jason Riedy 17 997 141  109  88  86  74
+Haiying Huang 14 997 173  138  138  109  90
+Joseph Lachance 15 992 190  160  132  108  101
+YongTae Kim 16 991 150  105  100  86  65
+Hao Yang 16 991 160  117  63  62  57
+Shannon Yee 10 979 183  142  120  119  102
+Jiangtao Wu 12 976 330  149  104  68  67
+Xianzhi Meng 14 969 260  178  62  58  56
+Karl M Glastad 15 962 166  156  149  136  56
+Devesh Ranjan 17 958 156  102  75  58  56
+Amit R. Reddi 17 954 130  112  88  83  74
+Kesong Hu 12 953 421  157  84  77  40
+Laurie Garrow 17 946 88  52  51  49  48
+Mitchell L. R. Walker 17 945 67  52  45  42  38
+Jingfeng Wang 17 945 114  104  100  78  57
+Greg Blekherman 14 942 303  97  80  59  55
+Vinayak Agarwal 15 941 247  98  73  68  47
+Karen M. Feigh 16 940 102  69  55  44  43
+Melody Moore Jackson 12 939 336  190  60  48  27
+Srikanth Sundaresan 14 937 320  72  65  46  44
+Craig McKay 14 934 273  209  88  52  39
+Sauvik Das 11 932 232  146  138  101  81
+Matthew Torres 15 931 196  103  97  87  62
+Paul Szymanski 19 930 129  90  55  49  48
+Sangho Lee 15 927 182  145  79  77  75
+Yoshiaki Kawajiri 17 925 150  81  81  38  37
+Turgay Ayer 17 924 102  88  77  61  60
+Joshua Jones 17 919 116  84  69  62  61
+Jieying Wu 12 909 290  116  112  91  40
+Charles Turnitsa 16 905 100  97  96  44  35
+Katherine Fu 12 896 273  171  128  55  52
+Shreyas Sen 17 890 54  38  37  34  31
+Weixuan Chen 16 887 180  120  81  51  46
+Brian M. Foley 13 884 314  170  73  64  43
+Andrew Feola 16 883 165  72  68  56  55
+Will A. Overholt 10 881 485  76  70  65  43
+Despina Tsementzi 10 881 386  126  120  94  48
+Aishwarya Agrawal 7 881 694  105  37  15  7
+Tielei Wang 14 880 198  158  120  42  39
+Christina Jones 14 878 265  88  68  56  54
+Sijie Zhang 12 875 373  97  89  41  35
+Richard Todd Lee 12 874 182  150  112  66  63
+Bruce Stiftel 11 874 279  103  69  64  46
+Shuman Xia 14 872 255  119  72  53  53
+Olivier Pierron 17 870 90  71  61  53  46
+Long Gong 16 868 113  94  81  77  59
+Jennifer Leavey 7 859 478  119  103  54  53
+Anton Leykin 16 855 134  133  62  47  38
+Shuai Nie 7 854 391  182  106  67  55
+Christopher F. Barnes 17 844 127  100  78  46  44
+Kathy Roper 12 841 347  91  79  76  35
+Richard  Barke 11 841 245  207  69  59  56
+Ian Yang 7 839 342  181  125  83  52
+Cesar Menor-Salvan 17 836 82  65  56  53  45
+Jeffrey Hales 12 834 206  105  87  75  66
+William C. Ratcliff 14 828 263  93  83  54  38
+Annalise Paaby 11 828 185  138  108  93  88
+Ikhide G. Imumorin 16 824 87  65  55  52  44
+Qaiser Chaudry 10 822 507  104  57  25  22
+Alberto Stolfi 15 819 111  104  81  53  50
+Barbara Ericson 15 814 104  84  67  62  60
+Mark Styczynski 12 814 201  98  86  72  71
+Francisco E Robles 16 813 142  98  84  38  36
+Pooja M. Tiwari 6 812 459  234  40  39  24
+Evangelos Farantatos 13 808 178  157  74  39  31
+Randall Toy 11 802 178  127  123  95  79
+Graeme J. Kennedy 15 800 125  77  69  55  49
+Joel Sokol 16 799 115  86  61  57  52
+Pezhman Arab 9 796 460  145  39  38  28
+Dobromir Rahnev 12 789 206  110  107  88  74
+Taylor (McLachlan) Shapero 6 786 443  144  96  54  21
+Raghuram (Raghu) V. Pucha 15 786 134  80  51  47  40
+Chrissy Spencer 10 779 335  141  55  47  41
+Elisabetta A. Matsumoto 8 777 412  131  125  27  16
+Yacin Nadji 10 776 305  216  57  56  24
+Chaitanya Deo 16 776 122  61  50  44  41
+Shuyi Nie 10 774 253  184  124  49  36
+Yunnan Fang 18 773 73  72  72  63  55
+Omar Isaac Asensio 7 772 316  250  134  27  20
+Jinming Luo 18 772 62  55  54  50  45
+Christopher Saldana 14 767 84  61  58  52  45
+Olga Shemyakina 11 762 377  117  70  51  45
+Luis Barrales-Mora 17 756 63  48  47  47  43
+Barry L. Drake 12 750 164  130  128  88  33
+Dengning Xia 15 747 203  80  65  44  42
+Xin Guo 13 744 143  129  75  51  45
+Kristin H. Loomis 8 741 403  96  74  74  36
+Yuan Dajun 14 740 151  80  61  51  39
+Martin Mourigal 13 740 196  119  60  58  42
+Beibei jiang 12 731 109  99  84  82  54
+Shubha Ramakrishnan 15 730 124  92  74  64  59
+Vicki Galloway 11 729 163  98  77  75  60
+Fani Boukouvala 17 728 109  64  52  48  45
+Luis L Fonseca 13 728 165  127  56  44  26
+Saba S. Colakoglu, Ph.D. 12 727 181  149  110  56  33
+Chloé Arson 16 724 63  47  42  41  35
+Laxminarayanan Krishnan 16 721 95  83  65  44  41
+Bo Song 16 719 66  65  58  55  54
+Evan A Zamir 12 716 121  90  84  75  64
+Vivek Mukhatyar 11 716 156  145  105  63  59
+Josh Kacher 15 713 122  89  45  36  34
+Ajay Upadhyaya 14 710 106  39  37  37  36
+Moongon Jung 13 708 165  122  82  46  38
+Qiao Chen 14 708 170  106  80  61  55
+Jianwei Yang 11 707 214  93  70  66  65
+Samuel Bond 10 705 257  136  84  60  60
+Baabak Ashuri, Ph.D., DBIA, CCP, DRMP 14 703 79  63  59  36  32
+Tao Cheng 11 702 135  131  77  77  76
+Brian Woodall 9 697 273  116  74  71  33
+Xi Liu 13 696 170  116  65  61  38
+Virendra Singh 13 693 131  80  78  60  55
+Bo Li 15 691 84  56  54  53  50
+Liren Xu 13 683 127  78  70  70  61
+roger ball 15 683 96  72  72  52  51
+Hamid Reza Seyf 14 682 90  72  59  56  51
+Jeomoh Kim 11 677 190  79  65  35  32
+Ickhyun Song 11 675 300  89  29  24  23
+Urko M. Marigorta 12 670 191  88  71  70  49
+Seonyoung Yoo 15 669 126  80  53  50  50
+cong shi 10 661 252  119  72  46  27
+Patrick Bardill 11 659 170  165  78  69  46
+Alexander J. B. Trevor 13 656 118  98  92  57  52
+Rui Xiong 11 654 103  97  91  83  77
+Zhengzhi Zhou 8 653 271  197  59  40  29
+Thomas Bougher 12 653 131  122  75  51  43
+Mark Zachary Taylor 10 641 201  138  50  37  37
+Elliot Moore 13 641 145  52  50  46  34
+Sriram Lakshmanan 14 640 136  74  69  54  43
+Yongzhi Qiu 14 638 172  66  41  37  37
+Jason Freeman 15 634 74  42  41  32  31
+Chenyi Pan 7 631 295  117  74  58  56
+CJ Hutto 7 631 439  98  38  15  12
+David Orloff 13 629 64  51  39  28  27
+Nam Vo 7 629 450  41  35  35  20
+Bojan Vukasinovic 13 628 111  80  47  36  23
+Amanda M. Stockton 16 627 74  63  62  43  42
+Iulian Radu 10 625 159  128  74  53  39
+Matyas Kosa 12 625 142  85  71  63  56
+Andrey Gunawan 6 623 433  71  41  28  21
+Huazhi Fang 17 621 80  59  41  32  28
+Deven Desai 13 620 113  113  100  79  67
+Jiangnan Zheng 13 619 112  79  75  49  40
+Alexander Lerch 10 617 156  153  85  23  19
+Shauvik Roy Choudhary, PhD 10 614 141  112  105  75  62
+Hanjun Fang 12 604 85  74  64  58  52
+Peter Presti 10 601 241  59  51  45  42
+Gözde Tütüncüoglu 16 598 64  54  45  43  32
+Satish Bastola 12 595 146  66  42  36  34
+Henry S. La Pierre 13 594 84  76  67  64  57
+Kostiantyn Turcheniuk 12 589 111  82  76  65  45
+Lin Zhiwu 15 589 99  48  46  38  33
+Nishant Dass 9 585 143  132  112  55  24
+Ahmad Humayun 8 583 204  102  87  65  54
+Salah Eddine Boulfelfel 11 580 207  73  56  40  35
+Haibo Rong 13 578 80  73  60  50  48
+Boyi Fu (傅博诣) 12 577 68  66  65  64  47
+A. Ozan Bicen 12 576 104  77  72  56  50
+yonghao cui 13 571 115  83  51  50  33
+Mei-Kwan Yau (Annika Yau) 11 569 250  70  45  31  31
+Mohsen Sardari 15 561 78  63  43  42  42
+Jennifer Glass 13 561 119  116  50  38  32
+Huizhu Wang 13 559 58  39  28  23  20
+Tushar Thrivikraman 13 559 63  52  37  33  32
+Plamen Iliev 16 556 62  51  48  31  31
+taoran le 13 555 83  63  45  40  38
+Ming Zhu 13 553 95  65  64  41  27
+Thomas Berkemeier 14 553 59  49  45  42  38
+Ahmed Saeed 9 549 220  123  72  29  13
+Bo Zhao 12 548 110  94  48  47  32
+Rebecca E. Burnett 11 545 90  84  66  56  42
+Lauren Frederica Klein 7 544 425  28  16  13  11
+Eric L Pierce 11 536 142  133  48  31  27
+Daniel Matisoff 11 534 181  63  48  37  33
+WUN-GWI KIM 9 532 147  102  73  65  44
+Betsy DiSalvo 13 531 84  56  48  37  34
+Himani Sharma 12 530 55  49  39  30  27
+Annabelle Singer 7 527 151  114  107  47  46
+Josephine Yu 12 526 62  52  51  50  50
+Hyung Suk Yang 12 526 36  33  28  27  26
+Moustafa R. K. Ali 10 525 147  132  60  40  27
+Wenwei Xu 8 524 319  81  35  25  23
+Zhi Zeng 7 523 294  94  43  33  19
+Jonathan Suever 10 523 209  85  29  26  17
+Martha I. Betancur 6 523 143  130  109  61  59
+Yong Huang 6 523 169  168  101  36  25
+Jonathan Halcrow 7 522 243  143  74  20  15
+Enlu Zhou 12 519 68  52  35  35  32
+Swapnil Dalavi 7 519 167  118  106  58  39
+Yao-Tsung Fu 10 519 172  81  71  40  37
+Haoyuan Li 11 518 194  65  33  31  29
+Adam Prasanphanich 7 518 210  83  73  64  48
+Jiajia Xue 12 517 105  101  41  37  32
+Ellen Dunham-Jones 8 516 367  20  19  18  17
+Alexander Zook 14 515 81  54  48  41  41
+Mohammad Arjomand 12 515 86  63  45  21  20
+Christopher Hill 6 515 292  148  41  18  7
+Ramesh Subbiah, Ph.D 12 513 172  39  34  30  27
+Mehrdad Farajtabar 12 508 86  86  52  48  40
+Rixiang Huang (黄日祥) 13 507 82  65  60  47  31
+Mohammad Ghomi 12 506 75  47  46  37  30
+Alisha A Waller 8 503 240  54  44  36  26
+Jenny P.S. Wong 10 503 134  104  73  42  30
+Wenbo Ding (丁文伯) 13 501 77  44  42  33  27
+Margaret Loper 12 501 89  80  45  27  27
+Trang Thai 14 500 75  64  36  33  29
+Simon Pak Ho Chung 11 499 120  56  54  47  42
+Jason Borenstein 13 496 110  53  49  25  22
+Ken Ferrier 12 494 84  82  44  43  39
+Changsheng Wu (吴昌盛) 12 494 63  61  55  45  36
+Fred Sieling 6 493 321  66  33  22  20
+Gabriel Altay 10 493 95  88  80  66  47
+Katja Weber 10 493 129  109  92  23  23
+Wenbin Mao 10 490 111  59  56  50  45
+Shruti Agarkar 12 489 64  60  50  45  39
+Yunki Lee 13 488 61  48  41  29  28
+Vishal Acharya 11 485 97  47  39  33  30
+Jesse McDaniel 12 485 81  75  43  41  40
+Dima Nazzal 13 479 56  53  41  39  32
+Yadong Chiang 8 479 171  101  63  51  32
+Jongse Park 11 477 129  65  50  40  36
+Jooncheol Kim 12 476 61  45  34  32  30
+Gang Huang 9 475 142  114  42  41  27
+Feng Wang 8 474 154  99  61  42  29
+Haicheng Wu 10 474 80  80  80  52  50
+Sheng Dai 12 473 76  50  41  36  29
+Sankaran Sivathanu 5 472 178  98  74  63  45
+Nelson E. Lourenco 11 472 140  28  25  22  19
+Simon Pang 13 471 82  81  51  36  28
+Julien Meaud 9 471 180  98  38  26  21
+Nicholas C. Bruno 5 468 262  82  56  44  19
+Angshuman Guin 11 466 76  51  51  51  36
+Hailong Tang 12 466 52  52  45  38  29
+Simon Chung 11 466 120  56  54  47  42
+M. Shakeel Qureshi 11 465 87  72  56  42  29
+Hyun-Ji Park 12 462 59  53  48  41  32
+Xu Chu 11 458 118  80  56  39  35
+Lutz Warnke 9 455 218  72  26  20  18
+Minsuk Kahng 11 455 82  50  37  34  29
+Levi Wood 14 454 69  57  39  35  32
+Lane Thames 9 451 131  94  39  38  36
+Kenneth W. Allen 11 451 54  54  43  42  26
+Nathan W. Moon 12 451 71  69  60  55  19
+Kulsoom Abdullah 6 450 147  126  79  52  21
+Karim Habak 10 449 119  94  50  36  31
+Jeremy Riousset 7 449 186  90  61  47  18
+Paul Benkeser 12 445 61  43  43  42  39
+Michael J Abrahamson, Ph.D. 5 444 188  119  56  52  27
+Thai M. Hoang 8 440 180  57  48  41  40
+Michael Damron 12 438 102  36  29  28  26
+Christine Valle 7 436 102  86  55  48  48
+Julian J. Rimoli 12 435 59  50  39  30  30
+Crystal Chao 9 435 108  70  54  44  39
+Joshua D. Howe 7 435 125  92  87  86  9
+Sonal Kothari Phan 9 434 118  104  57  41  31
+Keith McGreggor 10 433 151  59  51  45  22
+Manjeshwar G. Kamath 11 432 72  63  41  35  32
+Anna S. Erickson 9 431 157  63  55  44  35
+Anuradha Bulusu 10 428 133  46  46  45  36
+Roman Popil 12 426 43  40  31  24  24
+Perry Yang 10 426 119  98  25  20  16
+Edward Clarkson 8 425 102  80  58  49  44
+Christopher R. Valenta 7 423 254  38  29  27  19
+Amol Borkar 10 421 132  96  73  29  19
+Michael Cogswell 8 421 194  69  41  37  24
+Edward Choi 8 421 127  72  71  59  24
+Siva Theja Maguluri 6 417 254  61  50  16  11
+Jessica C Bowman 10 416 107  55  42  41  32
+Qi Zhou 8 414 105  92  36  14  13
+Je Min Chae 11 413 73  64  45  38  31
+Timothy Andersen 7 412 150  99  80  25  14
+Xian-Kai Chen 12 411 69  53  32  30  29
+Amir Yazdanbakhsh 9 407 130  40  39  38  35
+Nagesh B Lakshminarayana 8 407 114  80  51  36  33
+Bo Dai 11 407 111  56  51  31  25
+Wenbin Fu 10 406 79  72  67  51  31
+Dongwon Kwon 9 404 95  59  53  48  48
+Yanxing Wang 10 404 83  39  38  36  36
+Bryan Wiltgen 8 403 156  124  32  17  12
+MENGYAO GE 7 402 109  101  67  53  29
+Cheng Zhang 9 400 202  51  38  23  16
+Thackery I Brown 8 399 86  67  62  51  37
+Isabel Mendizabal 10 396 106  70  48  35  26
+Anyin Li 11 395 72  51  39  33  31
+Jianyong Xie 11 392 114  72  34  26  25
+Shiqiang Zhao 10 392 122  54  42  27  26
+Phanish Suryanarayana 13 390 85  42  26  25  23
+Samuel Coogan 12 390 50  39  33  31  29
+Guoyan Zhang 11 390 96  58  47  44  25
+Hanjun Dai 9 387 75  75  66  56  25
+Marcus J. Holzinger 9 385 35  27  19  19  18
+Oded Green 11 384 70  64  64  42  29
+Bill Winders 8 384 138  80  41  38  38
+sang eun jee 9 380 106  74  59  40  37
+Annamaria Conti 8 379 101  93  86  18  17
+Rahul Jain 10 378 84  54  38  35  33
+Xun Cui 10 377 122  48  36  34  24
+Zahoor Zafrulla 7 376 241  31  28  18  16
+Claire Olingy 8 375 99  59  58  41  30
+Dapeng Zhu 10 375 62  44  44  34  29
+Sean P. Rodrigues 9 375 115  51  50  33  33
+Nisha Botchwey 10 373 149  57  31  21  18
+Zhiling Dun 11 371 60  41  36  30  26
+Sean Donovan 5 368 252  64  17  10  6
+Li Gongjie 10 368 81  56  56  43  29
+Arash Einolghozati 10 367 78  63  43  42  29
+Le Liang 6 367 220  73  17  11  11
+Brian Wile 7 365 262  32  18  17  15
+Carol Paty 11 365 57  36  36  34  21
+Laura E King 7 363 103  87  87  77  49
+Dawei HE 12 363 36  35  33  27  21
+Zsolt Kira 10 362 63  48  27  24  21
+Michael Evans 6 360 239  39  30  15  11
+Alice Cheng 9 360 144  49  48  21  20
+Yunpeng Pan 9 359 131  52  28  24  20
+Wei Liu 10 359 76  59  37  25  25
+Haisheng Lin 10 359 133  35  34  27  25
+Gopal Jha 6 356 206  69  27  12  12
+Yahia Tachwali 10 355 88  57  43  33  29
+Robert Kirkman 9 355 95  61  53  23  19
+Lily Cheung 8 355 95  69  41  39  33
+Venkat Venkateswaran 5 354 200  64  37  30  16
+Lukas Graber 10 352 21  19  16  15  13
+Jose R. Garcia 7 351 161  77  30  25  24
+Jenna Jordan 5 351 236  85  16  8  5
+Scott L Robertson 7 351 81  78  64  35  18
+Jarrod Hayes 7 350 79  71  62  50  45
+Yichen Wang 9 350 86  75  55  34  21
+Stefan Lee 11 349 67  62  37  27  24
+Qian Wang 9 349 74  67  38  34  23
+Ahmet Cecen 10 346 60  56  47  45  43
+clint zeagler 9 345 79  48  28  27  25
+Kan Wang 11 345 65  20  20  16  15
+Akanksha Prakash 8 343 105  58  55  40  29
+Shane Griffith 7 342 100  56  46  44  23
+Yang Jiao 7 342 107  62  55  35  29
+Hernando Jimenez 9 340 30  21  17  16  13
+Brent Harrison 10 338 46  36  34  33  28
+Sourangsu Sarkar 7 338 91  51  47  47  44
+Wenjing Liao 7 337 141  67  44  19  18
+Cory-Ann Smarr 6 336 105  63  58  55  29
+De Wang 11 336 68  37  35  28  24
+Chuanfeng Wang 11 335 53  45  41  23  20
+Han Ting Chou 8 335 63  54  50  46  32
+Justin Biddle 9 331 76  57  56  26  24
+Jose Baltazar 8 331 66  65  47  40  40
+Yanni Loukissas 6 331 233  38  20  9  6
+Scott M Gilliland 10 330 79  39  28  27  25
+Brett Walkenhorst 10 330 45  42  29  29  26
+Cheryl Leggon 10 329 63  48  47  39  33
+Zachary Combs 9 328 69  61  35  34  26
+Sohail Bahmani 8 327 125  46  27  23  22
+Nelson Green 7 327 127  75  36  27  22
+Chengzhi Shi 9 327 136  45  29  23  21
+Igor Belegradek 10 327 33  27  21  19  17
+Brenden Kuerbis 7 326 79  79  64  19  16
+Philip M Campbell 9 326 83  67  37  28  25
+Jessica Pater 9 325 97  55  27  26  22
+Blair Brettmann 9 325 123  33  33  29  22
+Woojin M. Han 10 325 63  45  39  31  31
+Karthik Ramachandran 8 325 83  51  46  40  36
+Brad Fain 8 325 69  64  45  31  24
+Timothy F. Welch 8 324 91  60  54  17  13
+Dhaval S. Patel 5 324 185  63  45  14  14
+Yue Zhang 11 323 47  41  34  26  22
+Cong Zheng 4 322 215  46  29  23  2
+Jie Pan 9 320 65  34  33  28  23
+Jacob Thomas 8 318 113  47  41  28  23
+Marius Florin Niculescu 8 317 82  78  43  33  30
+Weiyang Liu 10 317 93  85  23  15  15
+Cassandra Telenko 10 316 67  56  54  21  17
+Tzu-Ho Wu 10 316 47  45  38  36  34
+Trevor Bright 9 313 60  59  58  49  32
+Sang-in Park 9 313 80  47  43  38  30
+Chien-Hung Chen 7 310 92  74  58  36  20
+Meng-Yen Tsai 8 310 83  67  38  37  25
+ilaria bargigia 9 309 43  43  33  30  29
+Chia-Chi Tuan 9 309 56  50  36  27  25
+Thomas E. Keller 11 308 49  39  38  35  31
+Mengkun Tian 9 306 57  55  38  25  21
+Maria Restrepo 10 306 42  38  35  34  31
+S. Abdollah Mirbozorgi 9 304 61  34  25  24  21
+Mark Lyle 7 303 173  46  28  14  12
+Claudio V. Di Leo 9 302 74  50  44  35  23
+Xuejia Yan 8 301 61  53  31  27  25
+Young Jun Yoon 12 301 44  25  22  19  19
+Karttikay Moudgil 7 300 114  55  45  22  18
+Zaher Hani 11 300 57  38  37  24  24
+Neha Kumar 10 298 38  28  26  25  25
+Musad Haque 8 294 165  16  14  14  12
+Thom McLean 9 293 108  35  31  22  21
+Ketki Sharma 6 293 213  29  20  12  11
+Young Jae Park 9 293 95  33  16  16  11
+Andrew Stark 9 292 34  28  28  19  19
+Carol Colatrella 8 291 96  29  25  22  19
+Prabhakar Gulgunje 11 291 63  35  31  25  24
+Woonhak 8 290 61  48  40  33  27
+Partha Kanuparthy 8 289 69  57  42  31  19
+Christian Hubicki 9 289 65  34  33  30  26
+Joshua Kovitz 8 288 65  45  41  29  13
+Andrew Marshall 8 287 83  40  38  32  16
+Ali Khosravani 10 286 60  43  34  30  25
+Gang Shu 10 285 42  41  33  24  23
+Keith R Bujak 7 285 159  34  33  30  10
+Raj Kumar Pal 10 285 50  47  32  19  17
+Hefeng Zhang 11 281 40  31  29  24  24
+Xiangtong Meng 9 281 75  46  34  30  24
+David Zeb Rocklin 7 280 116  65  34  17  11
+Vivian Chu 8 280 74  42  42  31  26
+Shatakshee Dhongde 8 278 61  44  40  35  23
+S. Ashwin Renganathan 6 278 124  75  31  23  9
+Ibrahim Pekkucuksen 5 276 86  78  49  30  10
+Maureen Linden 9 274 57  35  29  25  24
+Xu Du 8 274 68  57  43  25  20
+Kaushik Subramanian 7 274 100  67  31  20  13
+Yao Yao 11 273 38  33  33  31  24
+Tom Jenkins 10 272 80  37  30  16  15
+Jarret Lafleur 9 271 40  25  24  23  22
+saugata sarkar 6 271 145  62  26  13  13
+Arka Pandit 7 269 127  46  20  19  16
+Cassie S. Mitchell 11 267 39  22  21  19  19
+Eric R Johnston 7 266 88  70  39  22  15
+Chun Hao Lin 9 266 67  28  25  24  23
+Bijan Tehrani 8 265 53  45  39  23  22
+Giovanni Loreto 7 265 74  63  30  29  25
+Xunchi Chen 6 264 93  67  55  23  18
+Jennifer Hom 10 264 41  38  31  29  23
+Nassim Jafarinaimi 5 263 192  18  13  8  6
+SAMI ALMALFOUH 5 262 131  69  35  18  7
+Hao Chen 12 262 29  29  25  22  17
+Alejandro Toriello 10 261 35  29  28  22  21
+Yao Ma 7 261 128  36  32  24  13
+KwangHo Park 6 260 92  80  38  17  10
+Anup B. Rao 8 258 68  64  38  21  18
+Karen Head 9 257 65  60  23  16  15
+Stephen Beckett 6 256 149  32  28  16  15
+Travis Meyer 6 256 77  70  31  26  22
+sihwan kim 7 256 93  64  29  10  10
+Dr Arun K Itta 8 255 67  49  35  29  28
+Hossein Taghinejad 9 254 63  37  30  30  25
+Xingjian Wang 11 254 34  27  23  22  21
+Hyeongeu Kim 8 254 69  35  23  23  23
+Si-Yu Zhang 7 251 66  47  44  35  19
+Rob Callan 4 251 168  48  10  9  4
+Muhammad Arslan Shehzad 8 250 77  26  23  22  22
+Giovanni Liguori 7 248 98  40  33  26  24
+Robert Mannino 8 248 66  31  28  27  25
+Xinyu Lu 10 247 35  25  24  22  17
+Caleb F. Harris 5 247 175  21  19  19  5
+Nafiseh Shams 9 246 62  22  21  16  15
+Nan Hua 8 245 104  36  36  16  12
+Nazia Mojib, Ph.D. 10 245 43  38  18  16  14
+Ruihua Li 7 244 73  60  54  21  13
+vikram appia 10 244 30  30  28  25  17
+Chaowei Feng 8 243 70  30  28  25  24
+Alireza Esna Ashari 7 240 48  39  36  30  16
+Shan Zhou 5 239 106  69  24  18  8
+Balaji Ganapathy 8 239 89  29  17  11  10
+Chaz Lever 7 238 66  66  34  24  17
+Juan Manuel Restrepo Flórez 7 236 87  55  33  19  17
+Wenjun (Wendy) XU 7 233 54  48  32  32  18
+Jiafeng Geng 9 233 50  42  31  23  21
+Weiqing Li 7 233 52  47  40  29  28
+Feng Lu 10 232 17  13  13  13  12
+Mary K. Holder 6 231 66  47  46  30  18
+Yuksel C. Yabansu 8 230 67  37  31  25  22
+Kai Ying 8 230 52  44  26  23  17
+Justin Vaughn 6 229 57  48  41  33  28
+Harshit Gupta 4 229 113  90  6  6  4
+Matthew J Miller 7 229 59  30  25  18  17
+Dalia Arafat 8 229 47  35  33  23  22
+Duane C. Howard 9 228 62  62  62  25  23
+Ming Zhao 8 227 47  41  39  27  11
+Yosuke Hoshino 6 227 83  59  40  18  10
+Anand Louis 9 226 53  27  22  21  19
+Mohammad Taghinejad 8 226 63  30  30  25  20
+Adrienne Little 7 225 94  50  24  10  10
+Azadeh Ansari 8 225 67  38  32  23  11
+David D. Fan 6 225 99  39  36  21  16
+KyungSun Ryu 8 225 39  37  36  31  18
+Eva L. Dyer 8 225 104  26  26  11  11
+Kimberly Weaver 8 224 51  51  45  19  16
+Mashhour Solh 7 224 75  47  47  37  37
+Paul Robinette 9 224 47  22  21  19  19
+Jimmy G.D. Hester 8 224 45  27  20  19  11
+Lei Zhang 7 223 50  44  24  22  19
+Divya Mahajan 8 222 50  40  36  32  19
+Abhinav Parihar 6 221 77  38  30  22  19
+Matthew Gombolay 7 220 71  66  66  13  9
+Ryan Hoffman 4 220 117  63  63  30  7
+Mehrdad Pakmehr 8 219 39  28  16  15  14
+Jean-Pierre Rabbah 9 219 48  32  28  22  20
+Michael Weiler 7 218 64  47  29  26  25
+Hongnan Cao 8 218 60  50  26  20  13
+Youssef Chahibi 7 215 88  38  21  16  16
+Qingsong Wen 8 215 87  26  20  14  13
+Dr. Ajeet K Maurya 8 214 32  30  27  16  15
+Michel De Keersmaecker 8 214 29  27  19  16  12
+Simon Briceno 8 214 83  13  12  12  12
+Thomas James Lodato 7 213 80  38  34  16  11
+Lisa M. McGinley 7 210 82  46  23  22  13
+Andrew Paquette 7 209 56  44  38  20  18
+Billy Lau 6 209 77  42  33  12  9
+Benjamin K. Davison 7 208 54  36  31  30  25
+Rocky Dunlap 7 208 68  45  30  16  9
+Kehuang Li 8 208 32  27  23  18  16
+Yash Goyal 5 208 99  53  25  23  7
+Wei Wang (王巍) 8 208 22  21  16  14  13
+Senthil Ramamurthy 7 207 104  19  17  12  11
+Kelsey Hawkins 6 206 92  35  35  32  13
+Amit S. Jariwala 8 205 41  39  25  14  14
+david jenson 7 205 50  36  29  27  25
+Maria Coronel 3 205 160  31  11  2  1
+Nicole M. Baran 6 204 110  40  16  11  11
+Nate Bunderson 7 203 54  42  35  21  13
+Chris Beall 7 203 75  36  24  22  14
+Bahador Saket 9 202 36  28  26  23  18
+Michelle Gaines, Ph.D. 5 202 84  60  34  11  8
+Corey Joiner 8 202 37  33  28  25  22
+Kazumi Ozaki 5 200 52  45  40  38  21
+Basak Kalkanci 5 199 107  36  29  15  8
+Anirban Mazumdar 7 198 39  30  20  14  9
+Matthew Daskilewicz 7 198 82  27  18  12  9
+Shao-peng Li (黎绍鹏) 9 198 48  36  30  19  18
+Arya Irani 4 198 152  25  9  4  3
+Ali J. Berens 6 197 81  43  28  26  7
+Mi-Hee Ji 7 197 79  32  12  11  9
+Brendan D. Saltaformaggio 7 196 42  28  22  18  17
+Jing Cheng 7 196 75  57  13  12  9
+Pradip Basnet 6 196 69  42  24  20  19
+Ramik Sadana 7 195 52  33  27  26  14
+Enbo Zhao 6 193 70  35  30  19  19
+Greg Byrne 7 191 45  44  38  30  14
+Chenyun Pan 8 190 20  18  17  16  15
+Jiaqi Tan 6 190 87  50  12  9  9
+Jong Seok Park 8 190 33  22  19  15  15
+Justin Permar 8 189 41  40  30  20  16
+Jon Strunk 3 189 133  44  8  2  2
+Xiaojun Sun 9 189 44  24  24  22  16
+Suma George 7 188 64  29  24  23  19
+Sajjad Abdollahramezani 8 187 39  25  21  21  21
+Omar Alrawi 7 186 48  48  42  37  16
+Athanassios Economou 8 186 31  28  21  13  11
+Reetesh Ranjan 7 185 38  28  15  14  13
+Gonghao "Billy" Wang 6 185 84  56  21  9  6
+Rajiv Kumar 7 182 41  27  20  18  15
+Philip Keegan 5 182 45  42  31  28  25
+Varghese Antony Thomas 8 181 38  23  21  16  11
+Saad Bhamla 6 180 44  37  23  22  19
+Izaak D Neveln 7 179 49  45  23  21  16
+Jonathan Kim 5 179 87  28  26  15  5
+Richelle Lyndon 3 179 140  21  14  2  2
+Gyuhyon Lee 6 178 47  33  24  21  19
+Jennifer M Rieser 7 178 81  37  16  13  12
+Johanna Stark 5 177 79  58  15  13  10
+Sarthak Grover 6 177 64  46  22  15  10
+Moran Frenkel-Pinter 7 177 65  45  20  10  10
+Peter Song 8 176 33  22  19  16  13
+Amin Gholami 7 176 42  39  33  15  14
+Yung-Hang Chang 8 175 65  20  16  15  14
+Kisun Song 8 175 34  31  25  18  13
+Elias Khalil 8 174 44  26  25  14  13
+Matteo Carrara 5 173 75  50  25  8  5
+Romain Jobredeaux 7 172 45  35  18  16  9
+byungchil kim 6 172 53  34  21  16  14
+Andac Armutlulu 8 171 36  32  15  14  14
+Umashanthi Pavalanathan 7 170 46  45  21  20  12
+Gregory L. Holst 6 170 65  41  22  14  12
+Wan-Ning Lee 7 169 41  35  28  26  17
+Hong Hu 5 169 76  52  21  9  7
+Junhee Park 6 169 50  49  22  13  9
+Aemen Lodhi 6 168 54  52  24  12  10
+Dragos G Zaharescu 7 168 67  32  13  11  9
+Suneesh C. Karunakaran 6 168 45  44  36  12  9
+Michelle Rhodes 5 168 47  31  29  21  8
+Mohammad J. Moghimi 7 167 21  21  19  18  14
+Sharanya Arcot Desai 5 166 80  41  22  10  5
+Thomas M. Gable 8 166 25  24  19  18  10
+Lawrence Rubin 7 166 42  24  23  22  17
+Mahmoud Dinar 7 165 47  18  15  13  10
+Matthew Conrad 6 165 61  41  24  16  7
+Imon Chakraborty 7 165 21  17  15  13  12
+Majid Sodagar 7 164 58  25  15  15  14
+Inthirai Somasuntharam 5 164 49  33  28  23  19
+Zhen Wang 8 164 30  21  18  16  13
+Lauren K. Stewart 7 163 44  19  18  16  13
+Krishna Chandran Jayachandrababu, Ph.D. 4 163 63  57  23  12  4
+Saiful Alam 4 163 112  22  7  5  4
+Parthasarathi Chakraborti 7 162 60  20  13  13  8
+Florian Foerster 7 162 56  17  15  14  12
+Simil Thomas 7 161 43  25  16  14  12
+Pyungwoo Yeon 8 161 34  21  20  15  13
+Farzad Khorasani 5 160 91  25  13  12  5
+Pedram Samani 5 160 51  51  37  12  7
+Xiao Jiang 6 160 84  34  14  8  7
+Jessica D Weaver 8 158 51  19  16  16  14
+Rakshit Trivedi 7 158 66  27  14  14  14
+Allison Mercer 5 158 51  48  33  10  5
+Ruilong Ma 6 158 77  29  20  9  6
+Alex Godwin 4 157 106  22  12  4  3
+Seyed Reza Ahmadzadeh 8 157 26  21  19  18  12
+Jun Zou 7 157 31  18  13  13  11
+Hyungon Moon 5 156 72  50  14  8  5
+J.G.O. Ojwang 6 156 46  31  27  17  15
+Ryan Bahr 8 156 38  19  15  13  11
+Carrie Bruce 8 155 29  17  14  12  10
+Dennis Zhou 5 155 78  39  17  9  7
+Yu-Ying Liu 6 155 89  19  13  11  10
+Zhenwu Shi 7 154 30  30  24  20  14
+Monjur Alam 7 154 33  24  20  16  14
+Taiyun Chi 7 154 23  19  11  10  10
+Mariam Asad 5 154 61  33  29  9  7
+Giancarlo Valentin 7 152 48  27  12  9  9
+nabankur deb 6 152 43  43  18  14  8
+Bhuwan Chhetri 5 152 71  33  20  7  5
+Jiten Patel 5 151 57  50  18  6  5
+Thomas Sarvey 8 151 21  20  16  11  9
+Patrick Goley 7 151 61  19  15  13  11
+Robert Pienta 7 151 34  20  13  12  9
+Yilin Chen 8 151 27  22  21  16  16
+Naveen Shrivastava 8 150 31  30  27  15  13
+Xiang Gao 8 150 26  26  17  14  13
+Taizhi Liu 8 149 24  14  14  13  12
+Craig E. Green 7 149 25  20  13  11  9
+Yanzhi "Ann" Xu 7 148 33  13  10  10  8
+Li Zheng 6 147 22  20  19  16  10
+Zhibo Yuan (袁智博) 6 147 41  37  19  18  12
+SeungDeok Ko 8 147 39  28  16  9  9
+Zhenyu Tan 5 147 56  30  13  10  6
+Jiajia Li 7 146 41  26  10  9  9
+Yuyu Zhang 5 146 75  22  18  9  6
+Song Li 7 145 41  26  21  19  13
+Brian Pimentel 4 145 103  17  16  6  2
+Jesse G. Beu 8 145 44  26  20  14  12
+Jie Dang 7 145 44  44  21  17  17
+Calvin Ashmore 5 144 69  43  16  9  5
+N. N. N. Yeboah 5 144 54  39  15  9  6
+Nicholas Kovacs, Nicholas A. Kovacs 5 144 67  45  12  12  5
+Zhe Cheng 6 144 56  20  19  9  7
+Ying-Yuan Huang 6 143 59  24  22  12  7
+Siddharth Avachat 7 143 38  31  11  11  11
+Jennifer T. Pentz 4 143 83  32  18  4  3
+Chang-shun Liu 4 143 77  18  9  4  4
+anthony bertagnolli 7 143 38  24  19  14  11
+Vahid Azimi 6 142 26  22  20  14  13
+Alice Favero 6 141 43  33  18  14  6
+Tsz Chun Wong 5 140 70  21  21  19  18
+Ravi Mangal 6 140 48  38  21  9  7
+Sayop Kim 5 140 52  33  18  17  9
+Erdal Uzunlar 8 139 25  21  20  12  12
+Akash Dixit 5 139 90  20  8  6  5
+Abhiram Das 3 139 95  30  11  3  0
+Marmar Mehrabadi 5 139 86  18  14  12  5
+Tom Jones 5 139 43  29  26  20  7
+Cetin Canpolat 7 138 20  19  16  15  14
+Dustin J. E. Huard 4 138 96  18  17  4  2
+Naila Farooqui 6 137 55  26  11  8  7
+Zhenglun (Alan) Wei 6 137 36  19  12  11  9
+Hong Yu 7 136 47  24  16  14  11
+Nan Xing 6 136 41  25  23  21  12
+David A. Joyner 7 135 11  10  10  8  8
+Bopeng Zhang 6 135 83  9  8  8  7
+Li Wang 6 135 33  24  20  18  15
+Deya Das 4 134 53  49  17  7  4
+M Wasequr Rashid 6 133 74  11  9  7  6
+Madhuri Mukhopadhyay 7 133 25  24  22  19  11
+V Behrani 5 133 52  51  7  6  6
+Zhipeng Pan 7 133 31  16  13  13  12
+Audrey Sederberg 6 133 31  26  26  17  15
+David Landgren 3 133 61  61  4  2  2
+RGR Prasath 7 132 33  23  18  15  10
+Chanil Jeon 5 132 51  28  18  18  5
+Bhuvana Krishnaswamy 4 132 62  41  12  7  3
+Wei Li (黎威) 6 132 31  28  20  17  15
+Meredith E Fay 6 132 27  24  21  20  20
+Zhangxian Yuan 8 131 28  17  14  14  12
+Hrishikesh Rao 4 130 87  28  5  4  3
+Xinyi Song 6 130 24  19  17  10  9
+Hamid Reza Hassanzadeh 4 130 82  24  16  5  2
+Ce Yi 6 129 27  12  10  8  8
+Swapnil Bawage 5 129 40  39  8  6  6
+Johnny Lee Worthy III 5 129 47  28  27  7  5
+Jiawei Zhu 7 129 26  22  16  14  14
+Jie He 6 129 36  24  18  14  9
+Sergio Goldenberg 5 128 38  35  20  16  9
+Mostafa Reisi Gahrooei 5 128 34  28  20  10  7
+Benjamin D Lee 6 125 48  16  14  13  8
+Fiaz Mohammed 7 125 22  20  16  15  13
+Gregory Kennedy 6 125 42  17  8  8  6
+Ulkuhan Guler 8 125 22  21  15  12  10
+Michaelanne Dye 5 124 87  11  9  8  6
+Susan J. Robinson 5 124 38  28  22  7  5
+Haobing Liu 6 124 33  31  11  11  10
+Uppili S. Raghunathan 6 124 26  19  18  8  8
+Jenna Fu 6 123 27  26  20  16  13
+Chung Hang John Poh 8 123 17  16  15  13  12
+Arashk Norouzpour-Shirazi 7 123 23  13  11  10  9
+Mingyu Chen 6 123 36  31  17  11  7
+Stevie Chancellor 5 123 42  37  16  14  6
+Anise Grant 4 123 77  24  14  6  2
+Rob Kadel 4 123 76  22  9  6  4
+Olivia J. Pinon Fischer, Ph.D. 6 122 22  16  14  7  7
+Swetha Rathan 4 122 52  47  10  9  2
+Soonyoung Cha 7 122 24  14  12  10  9
+Amir Bakhtiary Davijani 6 122 45  21  12  9  9
+Roxanne Moore 6 121 39  24  13  11  11
+Chih-Pin Hsiao 7 121 18  17  15  10  9
+Mu-Hsin Wei 5 121 59  13  12  12  7
+Sinan Hersek 6 121 27  20  12  11  10
+Shang-Tse Chen 6 120 40  25  16  9  8
+Azhar Hasan 6 120 46  14  10  9  7
+Scott Appling 7 120 42  11  9  9  8
+Olufunmilola (Funmi) Atilola, PhD 6 119 26  24  17  13  8
+Souryadeep Bhattacharyya 6 119 27  22  21  17  10
+Carson A. Wick 6 118 30  24  12  10  8
+P.L. Bonanno 6 118 29  27  16  14  11
+Zhongming Lu 7 118 20  20  13  9  9
+Georgios Kotsalis 7 118 26  19  14  13  12
+Kai Dong 7 118 27  24  14  12  12
+Kathryn "Katie" Cunningham 4 118 51  26  25  7  4
+S. Hussain Raza 6 117 31  25  14  12  10
+Steven Jige Quan 7 117 25  16  16  13  12
+Brian R. Wier 6 117 43  18  8  8  6
+Roby Lynn 5 117 67  6  6  6  6
+Anshuman Vinit 3 116 77  34  5  0  0
+Erkam Uzun 6 116 42  17  17  11  8
+Jingfei Liu 7 115 19  16  14  12  9
+Korak Sarkar 6 114 40  18  16  16  8
+Seyed Ali Tabei 7 114 25  21  12  11  9
+Samarth Brahmbhatt 5 114 49  35  9  5  5
+Chu Han 5 114 31  28  28  17  7
+Shaowei Yang 6 113 38  24  15  14  11
+Giuseppe Trainiti 5 113 46  30  22  7  5
+Zarrin Chua 6 112 20  11  9  9  7
+Taesik Na 6 112 52  9  8  7  6
+Magdalena Slawinska 7 112 18  11  10  9  8
+Sarath Chand Sarngadharan 6 112 23  23  23  13  10
+Wencheng Jin 6 112 28  14  13  10  10
+Aaron Dunn 6 111 20  19  15  15  11
+Gabriel Reyes 7 111 24  15  14  11  10
+Kimberly French 5 111 48  13  13  9  7
+Rouhollah Mousavi Iraei 6 111 32  27  12  10  9
+Hao Lu 6 111 19  19  15  13  10
+Yun-Ho Ahn 7 111 18  14  13  10  7
+Michael McBride 5 111 37  22  17  13  11
+Xuchen Zhang 6 110 20  11  8  8  7
+Yamin shao 7 109 33  14  11  10  10
+Gongchen Sun 4 109 58  21  14  4  4
+Yogesh Luthra 6 109 28  18  13  10  10
+Janani Venugopalan 5 108 30  25  23  11  10
+Perry W. Ellis 3 108 73  29  3  2  1
+Julia Raykin 6 107 43  20  12  9  7
+Huibin Chang 7 106 21  13  11  10  9
+Camilo Ortiz 5 106 31  25  17  16  8
+Alison M. Douglas 6 106 31  19  16  15  9
+Skanda Vivek 6 106 37  22  19  9  7
+Xiaoyang Meng 6 106 33  22  18  13  10
+Yachna Sharma 7 106 20  13  12  12  12
+Edwin F. Greco 5 105 33  22  16  14  7
+Yazdan Raji 4 105 38  30  19  14  2
+F. Brennan Torstrick 5 105 39  32  14  10  5
+Behnaz H. Zaribaf 3 105 89  6  6  2  2
+Shuaidi Zhang 6 105 29  17  13  11  10
+Carla J. Burrus 4 105 40  38  16  8  3
+Ariel Kapusta 6 105 23  19  16  15  9
+He Wang 4 104 35  27  26  7  3
+Sarah Cannon 4 105 61  15  6  5  4
+Anastasia Velalopoulou, Ph.D 6 104 17  16  15  14  14
+Sadra Yazdanbod 5 104 21  17  15  9  7
+Benjamin Knox 6 104 25  19  15  13  9
+Abdul Q Javaid 7 104 16  12  12  11  9
+Kuntal Mukherjee 5 103 31  27  20  13  12
+Chirag Jain 5 103 57  18  8  8  6
+Madhura Joglekar 5 102 41  27  14  10  10
+Guanghui Zhu 4 102 63  15  10  6  4
+Youngrak Park 5 102 18  17  10  7  6
+Jie Wu 5 102 36  20  14  11  6
+Felipe A. Larrain 5 102 45  22  12  11  5
+Mehdi Nourbakhsh 5 101 44  25  8  6  5
+Matthew Guzdial 7 101 23  18  11  10  10
+Ellen Skow 4 101 59  16  6  5  4
+Abhijit Suprem 4 101 69  19  5  4  4
+Jing Dong 6 100 26  21  14  12  7
+Cory Cruz Padilla 5 100 31  24  17  12  11
+Felipe Castrillon 5 100 41  22  16  7  5
+Christopher R. Phaneuf 6 99 24  22  15  9  8
+Can Erdogan 4 99 45  16  15  9  3
+Claus Christmann 5 99 27  14  14  14  6
+Negin Sokhandan 7 99 22  19  8  7  7
+Hao Luo 5 99 26  23  15  14  13
+Oishi Sanyal 6 98 25  18  17  12  11
+Qinpeng Wang 5 97 33  22  14  9  5
+Danny H. Lee 5 97 41  20  14  12  5
+Yanbo Xu 5 97 33  25  8  6  5
+Terrence L. Ogle 6 97 20  17  16  10  7
+Jaesok Yu 3 97 71  10  5  3  3
+Amit Kumar 7 96 15  14  13  10  9
+Morteza Seidi, Ph.D., P.E. 6 96 26  16  13  12  10
+Barry Muldrey 7 96 12  9  8  8  7
+Nickvash Kani 6 96 38  12  9  6  6
+Sanidhya Kashyap 5 96 28  22  20  10  6
+Grady Williams 5 95 36  21  11  8  6
+Christopher Wiese 3 94 57  11  10  3  3
+Julien Herrmann 5 94 42  13  10  6  5
+Ruian Duan 5 94 29  17  16  14  11
+Yuval Pinter 5 93 34  30  13  10  6
+Congshan Wan 3 93 76  8  5  3  1
+Elena Longhi 4 93 41  21  20  7  4
+Akhil Srinivasan 6 92 36  19  11  10  8
+Sabyasachi Deyati 7 92 15  8  7  7  7
+B. Andrew Chupp 4 92 51  16  10  8  2
+Jaeeun Shim 6 92 25  18  9  9  9
+Michael S. Davis 5 92 32  16  13  7  6
+Zhenguan Tang 5 92 34  16  14  10  7
+William Gallagher 5 91 30  14  14  12  7
+Nayef Ahmar 5 91 43  16  14  10  6
+Mohamad H. Kassaee 7 91 19  17  14  13  10
+Maia Jacobs 5 91 26  14  12  11  8
+Xiaochen Zhang 6 91 17  14  12  10  7
+Tushar Kumar 6 91 23  19  16  7  6
+David Kent 5 90 43  14  9  9  5
+Carlos A. Sanhueza 7 90 17  15  11  11  8
+Kevin R Cook 4 90 42  21  7  5  4
+Charles Bloodworth 7 89 13  11  11  10  10
+Amelia Longo 6 89 29  15  12  11  7
+Yubing Jian 4 89 62  8  6  5  3
+Parisa Pooyan 2 88 64  24  0  0  0
+Clarissa Whitmire 6 88 23  21  18  12  7
+Binh Han 4 88 43  20  14  7  2
+Hem Thapa 3 88 49  14  13  3  3
+Zuowei XIE 6 88 29  13  10  10  7
+Harshal Mahajan 5 87 26  12  12  10  6
+Alireza Mahdavifar 6 87 14  12  11  11  9
+Min-gu Kim 5 87 28  18  8  7  6
+Milad Navaei 5 87 29  12  11  9  7
+Yanyan Xing 4 87 58  10  6  5  3
+Aude C. Marzuoli 5 86 18  14  11  6  6
+Rebecca Donegan 5 86 26  18  18  14  5
+Lejun Cen 3 86 62  9  8  3  2
+Daeyoung Choi 6 86 16  14  12  11  9
+Hobson Lane 5 86 34  18  10  6  5
+Xinyan Yan 5 86 27  17  9  6  6
+Ge Zhang 4 85 46  13  10  7  4
+Beverly Wright 4 85 46  16  9  5  4
+Tao Zhu 4 85 49  10  6  6  4
+Iman Dayarian 4 84 29  28  11  10  4
+Alessio Medda 5 84 19  10  7  6  5
+Sungmoon Joo 4 84 37  18  12  8  3
+Mustafa Mukadam 5 84 27  26  6  5  5
+Yifei Wang 5 84 40  13  9  6  5
+Ankit Kumar Singh 6 83 16  14  14  12  8
+Elizabeth S Fleming 6 83 11  11  8  8  6
+David R. Reid 4 83 31  24  11  9  3
+Kristin Siu 4 83 27  23  19  8  3
+Nora Cottille-Foley 6 83 15  14  14  12  11
+Sheng-Sheng Yu 4 83 57  9  7  4  4
+Chingiz Kabytayev 3 83 43  24  15  1  0
+Michael Hunckler 3 83 61  15  3  2  1
+Dai Tang 7 82 22  11  9  8  8
+Chien-An Lai 5 82 22  13  9  8  7
+Dev Minotra 5 82 27  20  7  6  5
+Justin Lars Kirkby 6 82 19  15  11  8  6
+HAKSUN LEE 5 82 21  14  10  9  8
+Chung Yin (Joey) Leung 4 81 27  24  17  9  2
+Arvind Singh 6 81 14  14  12  12  10
+Jeffrey Aguilar 3 81 41  21  19  0  0
+Mason Bretan 6 81 18  18  12  9  8
+Anup Omprakash 4 81 43  14  6  6  4
+James Jamal Thomas 4 80 35  19  18  5  3
+Zero Cho 6 79 21  13  11  11  9
+Tiago Cogumbreiro 4 79 35  16  8  6  4
+R. Michael Winters 5 79 20  9  9  6  5
+Nazneen 6 79 16  14  14  14  10
+Woosang Lim 4 79 53  13  6  4  2
+Yu-Hung Chang 5 79 25  14  12  12  8
+Dr. Davoud Dastan 5 79 19  14  11  10  7
+Karen Milchus 4 78 26  15  13  11  3
+Susan Wells Parham 5 78 28  12  9  7  5
+Jilai Ding 5 78 20  19  15  14  5
+Garry A. Gabison 3 78 24  22  19  3  3
+Cornelia Rosu 5 78 29  12  10  6  5
+Joaquin Chung, PhD 6 78 31  11  9  7  6
+SUNGJIN CHO 3 78 54  5  4  3  3
+Matej Drev 4 77 44  12  12  4  3
+Vlad L. Pop 6 77 21  14  9  8  7
+Lu Wang 6 77 16  15  10  8  6
+Bailey Risteen 4 77 31  26  11  4  3
+Amirreza Shaban 5 75 34  15  8  7  5
+Bradley Burcar 5 75 22  21  13  12  6
+Ching-An Cheng 6 75 8  8  7  6  6
+Alex Bryant 4 75 42  14  13  5  1
+John D. Glass 5 75 15  14  13  9  5
+Mihir Pathak 5 74 27  17  7  6  5
+Firaz Peer 5 74 29  13  11  7  5
+Olivier Mesnil 4 74 32  23  10  5  2
+Jose Luis Rolando 5 74 34  13  9  8  6
+Shefali Harankhedkar 5 74 26  15  9  6  5
+Jae-Kang Kim 5 74 23  12  9  8  7
+Ketan Bhardwaj 6 73 22  17  11  7  7
+Jeffrey Young 4 73 15  7  6  5  4
+Jingdao Chen 5 73 18  11  11  8  7
+Michael Novitzky 6 72 12  11  9  8  7
+M. B. Akbar 5 72 19  10  9  7  7
+Sinan Demir 5 72 27  10  10  8  5
+Luke Yates 5 72 16  13  12  11  5
+Lihua Chen 5 72 16  13  11  10  5
+Kyungwook Chang 5 72 18  17  10  9  5
+Hancao Li 5 71 22  14  11  10  7
+Christopher Lammi 4 71 27  14  14  12  9
+Wenqing Shen 4 71 40  12  8  8  2
+Amir H. Hosseinnia 5 71 14  14  11  9  5
+Ioakeim Perros 5 71 26  16  9  8  5
+Ramy Nashed 4 70 38  11  10  6  1
+Daniel Lorenzini 6 70 11  11  11  10  9
+Sergio García-Vergara 5 70 17  16  10  7  5
+David Pate 6 70 16  9  8  8  7
+Hazar Ashouri 5 70 20  11  10  7  6
+Serife Tol 5 70 21  15  8  6  6
+Zunlong Ke 5 70 19  18  10  9  8
+Pushkar Kolhe 5 69 21  15  10  10  5
+Bige D. Unluturk 4 69 30  21  5  4  3
+Tongran Qin 4 69 27  20  11  6  2
+Emre Yigitoglu 3 69 43  9  5  3  2
+Phillip M. Trusty 4 69 23  12  12  5  4
+Dhwanil Shukla 3 69 38  6  4  3  3
+Geng Sun 5 69 17  16  7  6  5
+Patxi Fernandez-Zelaia 5 69 15  14  13  7  6
+Tanmay Rajpurohit 3 69 54  4  3  2  2
+Sean Wilson 3 69 32  16  12  3  3
+Kennda Lynch 4 68 24  18  11  9  2
+Seyediman Taghavi 4 68 21  11  9  7  4
+Kyu Hwan Han 5 68 19  13  11  7  6
+Daejin Kim 4 68 34  17  5  4  4
+Jong Hwan Ko 5 68 14  12  6  6  5
+Simon Mak 4 68 15  13  12  5  4
+Chih-Wei Wu 4 67 16  9  8  7  4
+Farzad Sadeghi-Tohidi 4 66 33  11  7  7  4
+Dhruv C Hoysall 4 66 20  12  10  9  4
+Juhee Kim 4 66 20  15  11  5  4
+Anosh Daruwalla 4 66 32  6  5  5  4
+Stacey Truex 5 66 15  14  14  13  5
+Mikhail Jacob 5 65 21  11  11  8  8
+Alex Forbes 5 65 16  13  7  6  5
+Leah Courtland 5 65 20  14  12  7  6
+Ashkan Ojaghi 3 65 53  5  3  2  1
+Michael Balchanos, Ph.D. 4 65 12  11  10  9  4
+Zhao Li 5 65 16  14  11  9  6
+In Bae Jeong 5 65 15  14  13  9  5
+Ali Eshaghian Dorche 5 64 20  11  6  6  5
+Lara J. Martin 5 64 28  15  10  10  5
+Hyojong Kim 4 64 22  18  10  8  3
+Xinxin Zhai 5 64 31  11  6  5  5
+Joel M. Mumma 3 64 40  16  3  3  1
+Michel Akiki 4 63 17  10  8  4  4
+Alek Gavrilovski 5 63 15  14  8  6  6
+Marzieh H. Memar (Hajiaghamemar) 5 63 16  13  12  10  6
+Jialing Tong 4 63 15  10  9  5  4
+Xun Tang 4 63 18  15  11  7  3
+Hossein Taheri 4 63 28  12  8  4  3
+Sriraaman Sridharan 4 62 37  12  7  4  2
+Deana Brown 5 62 15  14  12  9  7
+Christopher FRANK 4 62 12  5  5  5  4
+Michael Kummer 5 62 15  12  11  9  5
+H. M. Bharath 2 62 40  17  2  2  1
+Miguel Moises Serrano 4 61 19  18  6  4  4
+Jason Kulpe 4 61 25  10  5  5  4
+Sean A. McGlynn 3 61 44  9  5  2  1
+Franklin Gbologah 5 61 33  8  6  6  5
+David Formby 4 61 30  7  5  5  4
+Ali Hussain Kazim 3 61 24  15  12  3  3
+Christopher Sugino 3 60 23  22  12  2  1
+Efthymios Papadopoulos, Ph.D. 5 59 32  6  6  6  6
+Antonio Blanca 5 59 16  15  12  12  9
+Patrick Smyth 6 59 14  13  9  6  6
+William R Binder 4 58 32  9  8  7  1
+Benjamin Nation 5 58 17  6  6  5  5
+Thomas Igou 5 58 14  10  10  7  7
+Steven Brewer 5 58 11  10  8  8  6
+Anvesha Amaravati 4 58 13  12  9  4  4
+Brendan Dessanti 4 57 11  11  11  9  4
+Vlad Popescu 6 57 11  10  8  8  6
+Nandeesh Hiremath 4 57 6  6  5  5  4
+Nadia Szeinbaum 4 57 28  16  5  4  2
+Miranda C. Parker 5 57 16  9  9  7  6
+Zhe Guang 4 57 29  8  4  4  4
+Chao Chen 4 56 13  13  11  7  4
+Owen N Beck 4 56 15  12  11  9  4
+Akanksha Menon 4 56 14  13  10  7  4
+Prateek Juyal 4 56 12  12  11  6  3
+Richard A. Coogle 5 56 15  13  7  6  5
+Jiuk Shin, PhD 4 55 16  11  6  6  2
+Carlos H. Borca 5 55 15  13  10  9  5
+Matthew J. LeVine 4 55 23  10  4  4  3
+Syed Abdullah Nauroze 5 55 11  8  8  7  5
+Hommood Alrowais 5 55 18  8  8  6  5
+Kavitha Chandrasekar 5 54 17  7  7  7  6
+Chanyeop Park 4 54 12  11  9  5  4
+Syed Minhaj Hassan 3 54 26  9  6  3  2
+Conner Herndon 2 54 43  7  2  1  1
+Heather Humphreys 5 53 11  7  6  5  5
+Francisco Javier Quintero Cortes 4 53 16  14  8  6  4
+Malcolm Macdonald 4 53 17  13  8  8  3
+John Christian Givhan Spainhour 3 53 25  14  6  3  2
+Hyeonsoo Harris Jeong 4 53 20  15  8  4  3
+Fred Hohman 4 53 25  8  7  5  4
+Fan Ye 5 53 11  9  8  8  7
+Marcel Staedter 3 53 29  10  9  2  1
+Apinut Sirirojvisuth 4 52 20  11  7  6  2
+Nazmus Sahadat 4 52 11  10  6  5  4
+Xiaowei YUE 3 52 21  21  3  3  2
+Sam Tonddast-Navaei 4 52 19  12  9  6  3
+Marcelo Bernal 3 52 19  15  7  3  3
+Elisa Boatti 4 52 13  13  9  6  4
+Thomas A. McDermott 3 52 27  8  3  3  2
+Jongmuk Won 3 52 32  8  7  2  2
+Jun Sheng 4 52 12  7  6  5  4
+Melih Turkseven 4 51 21  8  7  5  4
+Yongjia Song 4 51 23  14  8  4  4
+Rui Chang 3 51 29  12  7  2  1
+Hesam Moradinejad 5 51 14  14  9  5  5
+Phanisri Pradeep Pratapa 4 50 18  9  9  5  4
+Ljilja Ruzic 5 50 11  9  9  7  5
+M. Mahdi Roozbahani 3 49 15  15  11  3  3
+Ming Yi 5 49 11  8  7  7  5
+Sebastien Mamessier 5 49 9  8  6  6  5
+Joelle Alcaidinho 4 49 9  9  9  6  4
+Qi Zhou 3 49 23  11  9  2  1
+Haider Adnan Khan 3 49 15  15  13  2  1
+Thomas Ian (T.I.) Mulcahey 4 48 17  8  7  4  3
+Dongdong Yao 5 48 10  10  9  5  5
+Emily G. Weigel 3 48 37  5  4  2  0
+Sourabh Khire 3 48 16  12  3  3  2
+Amadeo Bellotti 3 48 18  15  8  2  2
+Russell Kirkscey 3 48 22  15  6  2  2
+Mohammadreza Nazemi 2 48 38  3  2  2  1
+Haesung Jung 5 48 12  9  7  6  5
+Shing Shin Cheng 4 48 14  8  7  6  4
+Jonathan H. Schuett 4 47 15  8  8  5  4
+Kate Pride Brown 3 47 25  8  6  3  2
+Seong Jun Kim 4 47 22  8  7  5  3
+Chandrasekharan Nair 5 47 11  10  7  6  5
+William Cleveland 5 46 11  10  8  8  6
+Karl Lundquist 3 46 22  14  5  2  2
+Cedric Justin 4 46 8  7  6  4  4
+Ryan D. Coder 4 46 19  8  5  5  4
+Michael Krygier 3 46 34  7  4  1  0
+Adrian Ildefonso 4 45 8  7  6  6  4
+Keenan May 3 45 24  9  7  3  1
+Gabi Steinbach 4 45 25  7  6  4  1
+Matthew E. Oliver 3 45 24  8  5  3  2
+Rachel A Haga 3 44 26  9  5  2  1
+Rui Xu 4 44 13  7  6  6  4
+Zackory Erickson 4 44 16  9  8  5  3
+Oluwadamilola Phillips 4 44 17  12  12  8  5
+Mohammad Faisal Amir 4 43 19  10  4  4  2
+Adrian Lam 3 42 31  6  3  1  1
+Youngjun Choi 4 42 10  8  5  5  4
+Yang Cao 4 42 17  6  4  4  4
+Abouzar Kaboudian 3 42 25  11  4  1  1
+Michele L. Sarazen 3 42 18  16  5  2  1
+Ho Yee Hui 4 41 14  13  6  5  2
+Nahian Rahman 4 41 10  8  5  5  4
+David Torello 2 41 35  2  1  1  1
+Eunhwan Cho 4 41 12  6  6  4  3
+Arkadeep Kumar 3 41 14  5  4  3  3
+Biao Wan 4 41 11  9  7  6  3
+Rosa Romero-Gómez 4 40 10  7  7  5  4
+Tesca Fitzgerald 4 40 10  8  5  4  3
+Liane Tellier 4 40 13  11  7  7  2
+Joshua Shank 4 40 10  9  7  4  3
+Vaibhav Kumar 2 40 27  3  2  2  2
+Lakshmi Subramanian 5 40 8  8  5  5  5
+Matthew K. Hong 3 39 17  14  5  2  1
+Mike Tree 3 39 12  11  5  3  3
+Timothy S Murphy 4 39 10  5  5  5  4
+Maryam Pezeshki 2 39 34  4  1  0  0
+Tiegan E Hobbs 3 39 10  10  7  3  3
+Chandler E Price 2 39 31  5  1  1  1
+Mathias Louboutin 4 39 11  7  6  5  3
+Rachel Dean-Ruzicka 3 38 14  10  4  3  2
+Daniel J. Griffin 4 38 10  7  7  5  4
+Oliver Giraldo-Londoño 4 38 13  7  7  6  3
+Mehmet Emre Gursoy 4 38 13  8  8  5  3
+siddharth varughese 3 38 16  6  5  3  2
+John G. Mooney 2 37 22  9  2  2  1
+Christopher Crowley 4 37 12  11  6  4  1
+Nikita Lauren Burrows 2 37 26  11  0  0  0
+Farzad Poursadegh 3 37 12  10  7  3  2
+Muneeb Zia 4 37 8  5  4  4  4
+Nima Torabkhani 3 36 20  4  4  3  2
+Van Nguyen (Georgia Tech) 4 36 16  9  4  4  2
+Lucas Liuzzo 4 36 12  8  8  7  1
+Yun Wei 4 36 11  10  5  4  4
+Aradhya Biswas 4 36 10  8  6  4  4
+Chandra Khatri 3 36 9  6  4  3  3
+Shilpa Choudhury 3 36 16  15  4  1  0
+Abhinav Malhotra 3 35 19  8  7  1  0
+Srinivas Hanasoge 4 35 10  8  6  5  2
+Alexia Payan 4 35 9  5  4  4  3
+Nichol Castro 3 35 16  7  5  3  2
+Anne Mallow 3 35 16  11  4  3  1
+Yaoyao Jia 3 35 7  5  4  3  3
+Keith Paarporn 4 35 15  7  6  4  2
+Himanshu Sahni 3 34 15  6  6  2  2
+Qianao Ju 3 34 8  7  3  3  3
+Jeffrey Luo 4 34 11  9  5  5  3
+Revant Kumar 2 33 31  2  0  0  0
+Wenchao Jiang 4 32 9  8  6  5  3
+Sajid Saleem 2 32 11  8  2  2  2
+Caitlyn Seim 3 32 14  7  6  2  2
+WOO YONG JEONG 3 32 14  7  5  3  2
+Daniel R. Nascimento 4 32 9  8  7  6  2
+Tejas G. Puranik 5 32 9  6  5  5  5
+Aravind Samba Murthy 4 32 7  6  6  4  4
+Gennaro Notomista 3 32 10  6  6  3  3
+Mehrsa Raeiszadeh 3 31 13  10  4  3  1
+Emmanuel Boidot 4 31 10  4  4  4  2
+Matt Ventresca 4 31 9  8  6  5  2
+Aliaksandr Malokin 3 31 20  7  3  1  0
+Won Tae Choi 3 31 11  10  3  3  2
+Eric Hein 3 31 13  9  6  1  1
+bobin deng 2 30 12  6  2  2  2
+Haoran Wen 3 30 11  6  5  3  3
+Young Jin Kim 3 30 12  12  3  2  1
+H. M. Dewhurst 3 30 15  10  5  0  0
+Mohammad S. Razavi 3 29 16  6  6  1  0
+Tong-Hong Lin 3 29 13  8  3  2  1
+Anthony Hazel 2 29 22  3  2  2  0
+Darshan Pahinkar 4 29 7  6  5  4  3
+Dmitry Bershadsky 3 29 8  4  3  3  2
+Esmaeel Bakhtiary 3 28 9  6  5  2  2
+Minliang Liu 3 28 11  8  5  2  2
+Anto Kavungal Davis 2 27 12  5  2  2  2
+Alice Grossman 2 27 22  4  1  0  0
+Karie Davis-Nozemack 3 27 9  7  5  3  1
+Shani Sharif 4 27 6  6  4  4  3
+Benedikt Brandt 4 27 8  7  6  4  1
+Brandon T. Carroll 4 27 6  6  5  4  3
+Wayne Li 3 27 9  5  4  3  2
+Thinh T. Doan 3 26 8  6  6  3  2
+David Scripka 4 26 6  5  5  4  3
+Fangzhou Liu 4 26 7  5  5  4  2
+Mohammad Sadegh Eslampanah Sendi 3 25 7  5  5  2  2
+Ashley N Ferguson 3 25 8  6  3  3  3
+Alex Schudel 2 25 20  4  1  0  0
+Paul Brian Rose Jr 3 25 10  7  3  2  1
+Richard Sarpong Boadi 3 25 10  5  3  2  2
+Stephen Andrew Schwaner 3 25 13  4  4  3  1
+Zachary Meeks 3 25 12  6  6  1  0
+Lijun Zhu 3 25 6  4  3  3  2
+Qi Li 2 25 14  9  1  1  0
+James P Fairbanks 3 24 8  5  4  2  2
+Kamal Shadi 3 24 7  5  5  3  1
+Yazeed Alaudah 4 24 5  4  4  4  2
+Michael G. Moore 3 24 6  5  4  3  2
+Mohammad Mofidfar 2 24 21  2  1  0  0
+Siniša Kolarić 3 23 12  5  3  2  1
+Jared M Batterman 3 23 8  7  4  3  1
+Marc C. Canellas 3 23 6  6  5  2  2
+Arto Kivila 3 23 7  4  3  2  2
+Arjun Srinivasan 2 23 8  6  2  2  2
+Elliott Gruber 3 22 7  7  3  2  2
+Seokbeom Kwon 3 22 8  4  3  3  2
+RUI ZHANG 3 22 8  7  3  2  1
+Michael J. Wishon 2 22 9  7  2  2  1
+Patricia J. Yang 2 22 18  3  1  0  0
+Rachel E. Stuck 3 22 5  4  4  3  2
+Christina N. Harrington 2 21 8  6  2  1  1
+MohammadSadegh Saadatzi 2 21 12  3  2  1  1
+Fanpeng Kong 3 21 7  5  3  3  2
+Bon Woong Ku 4 21 4  4  4  4  3
+Hanbin Ying 3 21 6  4  3  2  2
+Shuyi Shen 2 21 7  6  2  2  1
+Jason Zutty 2 20 8  3  2  2  2
+Matt Wittbrodt 2 20 17  2  1  0  0
+Pileun Kim 3 20 7  6  3  2  1
+Julia Marie Smith 3 20 9  6  3  2  0
+Kalesha Bullard 3 20 8  4  4  3  1
+Stephen Haviland 2 20 8  4  2  2  1
+Md Imran Momtaz 3 19 8  3  3  2  1
+Aroon T. Chande 2 19 12  3  2  1  1
+Md. Mobashir Hasan Shandhi 2 19 6  4  2  2  2
+Fangru Wang 3 18 8  3  3  2  1
+Brianna Tomlinson 3 18 8  3  3  2  2
+Jacob Joseph Buffo 3 18 7  7  3  1  0
+Stephen N Housley 2 17 6  4  2  1  1
+Kate Holterhoff 3 17 7  4  3  2  1
+Moravapalle Uma Parthavi 2 16 6  4  2  2  1
+Sindhu Kiranmai Ernala 2 16 6  6  2  1  1
+Manik Rajora 3 16 3  3  3  2  2
+David Tan 2 16 10  4  1  1  0
+Achyut Panchal 2 15 6  2  2  2  1
+Diego Dumani 2 15 3  3  2  1  1
+Luwei Ge 2 15 6  6  2  1  0
+Zohaib Mian 2 14 7  5  1  1  0
+Kirsten Parratt 2 14 9  3  1  1  0
+Chen Feng 3 13 6  3  3  1  0
+Leda Sox 2 12 3  2  1  1  1
+Tony PERKINS 2 12 5  4  3  1  1
+Duri Long 2 12 5  3  2  2  0
+Yan Wang 2 12 3  3  3  2  2
+Keaton A. Fletcher 2 11 5  3  2  1  0
+George Tan 2 10 6  2  1  1  0
+Darshan Sarojini 2 10 5  3  1  1  1
+Achintya Sujan 1 10 10  0  0  0  0
+Sriseshan Srikanth 2 10 6  2  1  1  0
+Greg Mayer 2 9 4  2  2  1  0
+Xiaodan Xu 2 8 4  3  1  0  0
+Swaathi Ramesh 2 8 2  2  2  1  1
+Thomas P Cantrell 2 7 2  2  1  1  1
+Zeynab Bahrami Bidoni 2 6 2  2  1  1  0
+Florina Dutt 1 6 2  1  1  1  1
+Bartlet DeProspo 1 6 3  1  1  1  0
+Mohammed Hassan 1 5 4  1  0  0  0
+Lorna I. Rivera 1 5 2  1  1  1  0
+Jiten Chhabra 1 5 5  0  0  0  0
+Saurabh Sawlani 1 5 2  1  1  1  0
+Hyoukjun Kwon 1 4 3  1  0  0  0
+Razi Dehghannasiri 1 3 2  1  0  0  0
+Youngchul Park 1 3 3  0  0  0  0
+Julie McCormick Weng 1 3 1  1  1  0  0
+Dan Fries 1 2 1  1  0  0  0
+Doga Murat Kurkcuoglu 1 1 1  0  0  0  0
+Mohit Gupta 1 1 1  0  0  0  0

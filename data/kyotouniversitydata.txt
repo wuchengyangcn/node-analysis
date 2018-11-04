@@ -1,0 +1,703 @@
+1 Takeuchi Osamu 111 87119 9326 6631 4374 3798 3465
+2 Minoru Kanehisa 81 59129 11130 3193 3079 2982 2725
+3 Susumu Kitagawa 111 58460 8493 1280 1271 1138 1112
+4 Ryoichiro Kageyama 94 30601 1135 870 784 766 726
+5 Y Maeno 82 29264 2266 1615 897 839 553
+6 Hiroshi Imahori 83 25728 848 764 636 547 515
+7 Misao Sasaki 73 21159 1573 1553 847 617 519
+8 miyachi yoshiki 69 20743 792 687 575 449 438
+9 Norio Nakatsuji 76 20436 1893 1031 994 609 567
+10 Kazunari Shibata 78 20229 572 568 527 450 381
+11 Kazuki Nakanishi 68 19728 997 780 770 602 558
+12 Isao Tanaka 61 18001 2218 1151 929 699 425
+13 Akio IKEDA, MD, PhD 67 17671 521 490 457 442 418
+14 Hiroshi Sugiyama 64 16584 759 532 398 352 245
+15 Michiyuki Matsuda 66 16302 1346 970 594 542 500
+16 Nobuhiro Tsuji 55 16249 1888 1235 923 670 591
+17 Yasushi Ishihama 55 15887 1588 1445 1441 703 554
+18 Yoshihiko Kanemitsu 61 14669 772 633 574 479 426
+19 Shiu-Hang (Herman) Lee 54 14654 2958 1745 731 643 505
+20 KOJI OTSUKA 59 14318 2262 1390 322 305 247
+21 Shu SEKI 61 13618 592 393 285 254 254
+22 Tetsuro Matsuzawa 64 13297 569 421 408 397 282
+23 Minoru Takata 56 13285 1260 824 712 521 483
+24 shibata masaru 67 12689 952 326 262 255 254
+25 Hiroyuki Ogata 51 12667 2619 814 713 466 463
+26 Takaaki Nishioka 55 12368 886 801 651 574 512
+27 Kenji Kabashima 55 12292 794 495 449 438 303
+28 Takayuki Kanda 59 12199 739 285 275 270 266
+29 Junji Sugiyama 57 12173 1063 763 762 479 317
+30 Itaru Hamachi 60 12069 523 338 327 311 267
+31 Norihiro Tokitoh 53 11996 506 284 194 193 181
+32 Takashi Asano 45 11977 2477 1278 785 487 477
+33 Yuichi Shimakawa 53 11495 695 479 428 391 363
+34 Hiroshi Kitagawa 56 11382 414 401 400 322 254
+35 Hidetoshi Shimodaira 21 11180 3669 1841 1798 1265 782
+36 Toru Ishida 53 10996 883 485 376 268 261
+37 Junji Takabayashi 51 10436 759 651 496 386 351
+38 Satou Yutaka 56 10424 1518 1234 439 301 280
+39 Motofumi Suzuki 47 10381 436 351 229 186 173
+40 Tadashi Takayanagi 45 10039 1866 1058 700 548 253
+41 藤井聡, Satoshi Fujii 48 9947 395 381 312 280 269
+42 Masashi Shiraishi 50 9500 819 473 467 220 190
+43 Devendra Singh 42 10061 612 424 303 238 173
+44 Koichiro Tanaka 50 9493 555 499 377 255 169
+45 Kenzo Miyazaki 50 9466 278 235 229 194 190
+46 Hideya Fukuzawa 46 9002 1902 1485 277 215 211
+47 Satoshi Horike 44 8801 1280 809 716 502 382
+48 Setsuhisa  Tanabe 48 8813 518 315 309 274 272
+49 Tatsuya Akutsu 41 8679 877 460 402 335 331
+50 Kaoru Kitajima 43 8513 1118 792 622 431 325
+51 Yuji Nakamoto 49 8224 305 252 229 225 225
+52 Takehiro Yamamoto 25 8097 104 55 45 38 36
+53 Kohji Ohno 44 8040 640 559 485 396 304
+54 Hironori Haga 51 7969 260 202 189 182 176
+55 Tomohisa Okada 47 7810 505 335 334 278 217
+56 Shuhei Furukawa 39 7770 809 474 473 404 374
+57 Michihiro Araki 13 7712 3193 2725 615 469 184
+58 Takahiro Fujiwara 32 7676 994 813 456 456 354
+59 Shintaro Funahashi 29 7613 2460 658 635 599 479
+60 Kenji Yamashiro 46 7543 505 426 402 234 215
+61 Takashi Araki / 荒木崇 28 7376 1175 1143 972 418 359
+62 Michael A Huffman 49 7273 309 301 285 184 179
+63 Munetaka Oyama 46 7019 241 216 201 192 183
+64 Masayoshi Nakashima 43 7024 456 264 247 218 200
+65 Ryutaro Tao 44 6782 457 299 297 255 224
+66 Teiji Kunihiro 37 6713 1853 427 275 230 162
+67 Mamoru Yamamoto 44 6600 234 188 176 167 162
+68 Yuhei Miyauchi 36 6487 1243 670 498 367 317
+69 Osamu Tajima 16 6443 3492 1583 243 227 190
+70 Christine Padoch 43 6436 454 375 294 258 217
+71 Akihiko Yoshizawa 27 6429 2124 1014 553 340 260
+72 Shojiro Ochiai 37 6226 194 191 181 134 132
+73 Yutaka Yamamoto 32 6080 1406 423 205 197 133
+74 Yukiyasu Kamitani 26 6050 1550 941 531 395 322
+75 Shinji Nishiwaki 38 6031 540 451 391 163 141
+76 Tatsuya Kawahara 38 5972 722 312 199 138 118
+77 Shiro Tanaka 35 5990 1560 488 179 163 133
+78 Hiraku Nakajima 37 5865 736 566 298 284 276
+79 Yoshiharu Omura 40 5607 480 296 248 212 188
+80 Eiji Oki 33 5579 519 267 186 179 162
+81 Tadashi Isa 40 5440 165 160 156 140 136
+82 Fumitoshi Matsuno 35 5234 400 181 145 141 132
+83 Masatoshi Yoshikawa 27 5144 949 829 294 250 249
+84 Masao Ninomiya 20 4951 1649 1649 866 756 260
+85 Ko Nishino 35 4930 515 240 213 211 210
+86 Manabu Minami 33 4897 456 332 300 279 237
+87 Sotaro Ooto 37 4821 381 282 236 234 151
+88 Masatoshi Sato 34 4813 601 426 419 282 206
+89 Kazuo Nishimura 32 4755 396 389 335 280 267
+90 Teppei Yoshida 23 4692 1372 420 347 337 230
+91 Masayuki Endo 38 4667 287 245 218 164 156
+92 Shigeru Kasahara 35 4644 464 348 245 213 206
+93 Taiji Adachi 32 4632 985 237 191 168 132
+95 Masaki Tomonaga 36 4588 205 204 171 128 127
+96 Manabu Kano 31 4543 378 358 248 212 204
+97 Tetsuya Aruga 35 4478 349 264 212 170 156
+98 Hiroaki Ogata 30 4425 730 174 138 110 96
+99 Mototsugu Eiraku 26 4276 985 597 589 285 204
+100 Toyoaki Nishida 30 4208 74 65 62 59 55
+101 Sadao Kurohashi 29 4166 311 196 183 140 137
+102 Hitoshi Gotoh 33 4124 249 237 234 226 154
+103 Satoshi Nakagawa 32 4066 553 458 205 190 183
+104 Makoto Ouchi 30 4032 1020 500 249 176 134
+105 Teiji Sota 35 4004 196 149 131 125 125
+106 Kazuo Fujita 36 3976 228 139 110 108 106
+107 Noriko FUNAYAMA 20 3950 853 571 369 351 329
+108 Wil de Jong 33 3918 418 304 198 193 150
+109 Yusuke Onoda 26 3862 1118 532 313 213 201
+110 Yasushi Imamoto 38 3838 138 130 128 114 113
+111 Peter Carlton 25 3787 847 832 198 190 185
+112 Aiming Lin 34 3751 287 186 138 112 102
+113 Gonghui Wang 32 3559 286 286 212 183 183
+114 Hisayo Yamane 31 3552 299 297 255 224 177
+115 Tomohiko TSUGE 25 3551 652 353 261 203 182
+116 Ishihara Keiichi N. 33 3536 197 169 149 116 111
+117 Wataru SATO 28 3534 367 308 274 235 190
+118 Tomoaki Kunugi 29 3495 147 124 102 90 87
+119 Nobuhito Ohte 34 3445 177 160 122 112 106
+120 Hirofumi Akari 33 3424 181 161 150 146 123
+121 Ryohei Nakatsu 27 3376 313 285 256 238 178
+122 Riki Matsumoto 31 3375 409 196 189 136 123
+123 Yukiko Uchida 26 3363 475 296 270 231 206
+124 Kazuro Hirahara 30 3313 356 211 153 108 97
+125 Keisuke Koba 34 3294 182 138 134 104 100
+126 Toshiyuki Tanaka 27 3281 461 210 179 172 166
+127 Takuro Furusawa 15 3295 1080 761 233 232 175
+128 Naoyuki Amemiya 26 3271 165 121 87 79 76
+129 Tetsuaki Fujihara 32 3265 298 249 160 102 91
+130 Shohei Saito 31 3263 302 214 214 188 165
+131 Hajime Mase 30 3262 225 195 173 163 149
+132 Shigeru Shinomoto 29 3256 387 219 218 193 167
+133 Hideaki OHGAKI 27 3239 212 117 98 97 91
+134 Y Isagi 31 3200 246 210 179 96 84
+135 Yoshihiko Miyata 30 3203 322 212 146 142 140
+136 Takagi N 28 3187 479 287 245 146 143
+137 Ohgushi Takayuki 28 3165 339 301 98 98 92
+138 Shiro Kohshima 28 3161 406 380 213 163 156
+139 Yi Kuang 27 3158 361 311 253 230 194
+140 Kenji Matsuura 22 3110 1433 246 246 110 109
+141 Maxim Shishkin 15 3111 604 578 486 434 354
+142 Hiroyuki Hashiguchi 28 3093 237 221 220 139 128
+143 Dae Woon Lim 6 3093 2458 360 117 92 53
+144 Norimoto Gotoh 29 3055 426 197 170 148 144
+145 Takane Katayama 31 3061 228 178 177 163 152
+146 Masato Shiotani 30 3051 412 152 140 105 82
+147 Ryoichi Yamamoto 26 3048 420 264 209 118 111
+148 Makoto Ohsaki 28 3036 183 170 146 146 94
+149 Shuhei Nasuda 31 3017 213 189 186 141 136
+150 Tetsu Kogiso 22 2985 454 353 320 208 194
+151 Atsushi Igarashi 24 2971 946 479 267 132 84
+152 Ryuichi Nishihama 32 2971 209 197 197 197 191
+153 Hiromi Imamura 28 2975 486 387 197 139 96
+154 Yoshihiro Ito 30 2942 335 223 162 157 123
+155 hidetoshi kotera 28 2934 183 174 93 90 88
+156 Tetsuya Uda 26 2848 421 304 225 164 97
+157 Akitsu Hotta, Ph.D. 21 2838 790 290 273 210 163
+158 Takashi Hikihara 27 2807 276 160 87 70 60
+159 Shin-ichi Sasa 24 2789 603 327 198 128 114
+160 Miho Inoue-Murayama 29 2783 120 107 103 98 94
+161 Ryoichi Kurose 29 2776 363 124 113 98 96
+162 Tomoya Mori 16 2774 707 422 387 341 186
+163 Takuya Nishimura 24 2764 597 320 165 159 122
+164 Yukinori Matsuo 26 2748 640 191 126 119 83
+165 Noriyuki Miyazaki 27 2695 108 88 87 86 73
+166 Yoichi Shiota 19 2677 819 475 190 184 139
+167 Narutaka OZAWA 24 2663 779 170 169 167 92
+169 Mizuki Takenaka 31 2610 159 142 133 122 108
+170 Atsushi Nakazawa 24 2570 308 264 157 137 134
+171 Kazuhiro Izui 25 2540 391 141 95 88 79
+172 Hiroshi TAMURA 29 2510 227 123 106 97 92
+173 Peiliang Xu 30 2491 210 133 112 107 103
+174 Shigeo Yoden 27 2460 272 154 124 105 102
+175 Kyosuke Kishida 31 2458 137 109 107 91 70
+176 Yoshiki Arakawa 26 2442 217 200 173 140 116
+177 Yoichi Yanase 27 2440 209 160 85 84 84
+178 Hiroki Tokinaga 19 2430 794 194 172 172 147
+179 Daisuke Kan 25 2428 479 239 180 136 104
+180 Takashi Hosokawa 23 2413 257 250 234 144 114
+181 Hiroshi Yamamoto 23 2363 413 242 234 153 141
+182 Tohru Ishihara 19 2353 923 396 102 55 50
+183 Masayuki Funaba 26 2349 186 114 87 85 60
+184 Tatsuhiko Kawamoto 27 2316 417 209 180 137 96
+185 Shuji Matsusaka 27 2299 274 146 102 82 77
+186 Katsuaki Tanabe 18 2279 735 250 206 138 124
+187 土屋　智由 23 2266 475 97 80 75 74
+188 Hideyuki OKUMURA 22 2211 421 152 143 118 84
+189 Takahiro Moriyama 23 2152 689 101 87 67 60
+190 Daisuke Kawahara 22 2132 411 137 137 96 85
+191 Kaoru Takara 22 2122 94 71 67 51 51
+192 Koji Eriguchi 25 2113 85 85 82 52 49
+193 Yusuke Ebihara 26 2110 169 64 61 58 56
+194 Kazuhiro Okamoto 22 2086 366 201 190 119 111
+195 Tamotsu KANAI 23 2080 383 252 154 71 70
+196 atsuhiko ichimura 19 2087 413 304 157 149 121
+197 Masanori Hanada 25 2077 170 117 117 106 84
+198 Takaaki Daimon 26 2067 487 178 87 85 79
+199 Hikaru Komatsu 27 2068 162 101 77 76 71
+200 Masako Kataoka 26 2031 310 134 118 82 81
+201 Shigeru Takata 27 2017 131 129 87 83 79
+202 Benoît Collins 23 2003 295 236 96 92 87
+203 tatsuaki tsuruyama 22 2000 260 188 164 112 89
+204 Shiro Biwa 22 1978 219 176 128 85 76
+205 Takashi Hiramatsu 23 1971 262 232 151 135 125
+206 Ben McLellan 23 1966 434 162 113 77 70
+207 Kenji Fujimoto 21 1946 241 194 86 73 58
+208 Masatoshi Tosaka 26 1945 218 131 86 80 79
+209 Abbas Khayyer 19 1926 237 234 226 153 121
+210 Jan-Dirk Schmöcker 23 1914 129 121 118 114 99
+211 Satoshi Hirata 26 1906 140 137 137 103 97
+212 Yoichi Fukuda 23 1901 132 103 61 54 53
+213 Toshiyuki Ohtsuka 20 1895 527 106 70 65 58
+214 Todd C. Pataky 28 1879 137 107 100 96 82
+215 Masao Kitano (ORCID:0000-0003-1065-8028) 25 1868 135 112 99 83 74
+216 Toshihiko Aso 16 1864 524 247 245 79 73
+217 Dr. Arivazhagan RAJENDRAN 20 1858 486 141 138 124 112
+218 Shin-ichi Nakano 23 1834 106 105 71 61 61
+219 Masako Myowa 18 1826 224 205 171 144 144
+220 Yuki Kurashige 22 1848 175 160 154 150 120
+221 Takeaki Araki 22 1826 304 225 132 111 107
+222 Shimpei Gotoh 6 1817 1254 427 51 36 36
+223 Kentaro Ifuku 25 1803 151 131 123 114 111
+224 Masaki Shigemori 22 1789 298 253 122 122 103
+225 Shingo Yonezawa 21 1773 334 256 106 97 63
+226 Bogdan Enescu 25 1702 83 81 77 74 68
+227 Shigeyuki Oba 20 1694 560 152 115 73 71
+228 Hiroshi Kudoh 23 1707 126 101 94 93 83
+229 Masahiro Marshall Nakagawa 26 1683 103 99 98 93 83
+230 Naoyuki Itagaki 21 1676 241 134 116 102 78
+231 Oku Masahide 19 1669 276 241 123 115 109
+232 Adam Jatowt 22 1657 270 124 75 73 42
+233 Tomohiro Kuroda 18 1629 104 83 63 58 49
+234 Ken-ichiro Kamei 18 1619 388 144 141 111 102
+235 Akifumi Sugiyama 20 1608 215 157 124 114 99
+236 Ke Gao 16 1610 469 186 175 116 96
+237 IWAI Hiroshi 21 1582 348 132 128 99 70
+238 Ebihara Yoshio 21 1576 132 129 88 78 64
+239 Madhab C. Das 14 1571 312 261 210 201 155
+240 Michio Nomura 19 1566 286 217 87 84 75
+241 Koji Koyamada 19 1541 186 95 78 66 57
+242 Hideki Hirori 18 1542 499 499 147 135 77
+243 Wei CHEN 20 1535 208 129 81 60 50
+244 Shiro Suzuki 21 1532 196 134 87 80 67
+245 Naoki Sasakura 21 1524 168 108 99 91 84
+246 安藤裕一郎 24 1526 128 97 75 66 65
+247 Atsushi Matsubara 20 1515 153 120 97 69 68
+248 Takayuki Yamada （山田 崇恭） 18 1512 391 88 74 70 59
+249 Kazuyoshi Yoshii 21 1501 155 131 76 74 69
+250 Izumi Oinuma 16 1497 366 137 125 125 117
+251 Atsushi Kajii 20 1487 285 129 117 51 49
+252 Izuru Ohki 15 1488 295 288 159 133 128
+253 Hisashi Okamoto 20 1482 164 134 133 82 62
+254 Mark Peterson 18 1460 188 170 130 118 108
+255 Katsutoshi Watanabe 19 1460 89 70 70 66 59
+256 Hiroshi Yamakawa 19 1455 232 108 52 51 42
+257 Kei Sato 19 1449 106 86 77 68 55
+258 Shunsuke Murai 18 1435 217 110 90 81 61
+259 Shuichi Miyazaki 19 1415 270 172 108 88 73
+260 Seiji Zenitani 21 1415 210 150 92 74 72
+261 Takashi Nagata 16 1395 546 112 109 64 50
+262 Saeko Nakajima 19 1376 147 104 97 96 85
+263 Hitoshi Mikada 19 1338 116 63 57 53 51
+264 Taketoshi Minato 19 1333 164 142 128 119 66
+265 Akira Kuwano-Yoshida 16 1322 463 113 88 83 82
+266 Hirokazu Toju 18 1322 222 131 112 73 71
+267 Shoji Kajita 18 1311 263 210 94 71 57
+268 Tetsuya Takemi 20 1308 118 91 73 62 61
+269 Takeshi Ise 9 1287 398 252 167 145 126
+270 Tomoki Sekiguchi 14 1280 277 187 136 109 90
+271 Masayoshi Hata 18 1281 283 137 131 111 97
+272 Satomi Shiodera 5 1273 1118 112 21 8 5
+273 Alexis Vandenbon 12 1264 685 142 103 56 47
+274 Shin-Il Kim 17 1251 162 127 120 117 114
+275 Takeshi Enomoto 16 1251 306 192 85 84 62
+276 Naoya Osawa 18 1225 146 125 112 98 92
+277 Cedric Tassel 19 1220 303 128 67 64 51
+278 Ryosuke Uzuoka 18 1221 231 89 68 48 48
+279 Shinya Aoi 19 1214 174 100 86 70 42
+280 Atsuto Seko 21 1212 94 92 85 79 78
+281 Kazuya Otsubo 15 1207 254 142 125 109 93
+282 Takashi Kobayashi 18 1203 104 80 63 61 57
+283 Ryuhei Wakasugi 17 1199 134 90 89 81 80
+284 Zenas C. Chao 16 1192 276 108 90 89 76
+285 Yoshikazu Tabata 16 1174 164 100 91 83 55
+286 Ken Umeno 18 1167 146 88 64 58 45
+287 Takahiro Shimada   (嶋田 隆広) 19 1155 85 56 50 49 47
+288 Ryunosuke Tateno 20 1149 151 118 109 55 54
+289 Shigenobu Matsumura 17 1146 232 170 125 99 82
+290 Takahiro Nakae 14 1135 396 301 76 57 54
+291 chika nishiyama 21 1151 91 90 76 71 64
+292 Koichi KURIYAMA 16 1130 191 191 181 59 58
+293 Itsuhiro Kakeya 16 1121 153 102 75 64 58
+294 Osamu Nishihara 15 1114 222 88 76 68 57
+295 Wan Manan 17 1103 108 105 105 69 65
+296 Kenji Morita 21 1093 75 74 70 60 59
+297 Takanori Ida 20 1087 101 84 65 52 49
+298 EISHI HIRASAKI 16 1072 265 81 73 59 56
+299 Hiroyuki Noda 17 1073 213 162 117 76 53
+300 Tomoyuki Morimae 18 1061 85 75 73 59 58
+301 Haruhisa Nakamichi 16 1053 223 212 78 55 53
+302 Francois Le Gall 16 1051 457 99 35 35 29
+303 Yuki Tobimatsu 16 1041 171 99 91 64 61
+304 Kaoru Sugimura 14 1028 124 118 110 93 91
+305 Makoto Yamada 17 1014 199 87 79 52 52
+306 soyoung park 18 1014 135 81 81 80 72
+307 Katoh Yohei 16 994 180 136 136 111 48
+308 Ganesh N Pandian 20 980 66 54 51 50 50
+309 Hiroshi Nakashima 17 961 139 85 77 64 46
+310 Hao Zhu 14 959 177 175 136 100 90
+311 Masatoshi Miyazawa 15 958 104 99 95 81 73
+312 Cantas Alev 17 955 125 103 93 92 91
+313 Masatoshi Murai 21 934 113 67 55 40 36
+314 Hideaki Shimazaki 10 917 387 219 79 60 48
+315 Ryuji Yokokawa 17 917 93 65 51 50 32
+316 Koji Yamamoto 14 905 53 47 43 43 38
+317 Beaucamp Anthony 18 903 74 67 63 56 52
+318 Ken-ichi Inoue 16 896 154 106 66 61 59
+319 Megumi Nakao 15 894 92 58 47 39 28
+320 Shinya Echigo 16 891 151 138 82 59 55
+321 Tada-nori Goto 14 875 121 78 56 51 45
+322 Masashi Kishimoto 14 872 348 99 63 46 33
+323 Daishi Fujita 13 872 248 104 82 63 58
+324 Hiroaki Mizuhara 10 852 309 139 117 84 78
+325 Katsuhiko Takeuchi 16 839 83 63 55 52 48
+326 Tatsuya Watashige 13 840 184 115 78 77 69
+327 Shuta Nakajima 8 830 202 152 111 101 93
+328 Takefumi Kondo 12 824 224 160 109 76 43
+329 Katsutoshi Sato 14 823 184 114 78 36 25
+330 Takashi Akagi 14 815 135 109 107 70 55
+331 Hidetsugu Komeda (米田英嗣) 11 809 256 240 79 59 37
+332 Shota UONO 17 810 64 62 54 51 50
+333 Satoshi Yamamoto 14 810 222 94 70 67 50
+334 Masayoshi Nishiyama 11 805 273 157 108 37 33
+335 NAOKO TOSA,土佐尚子 16 795 109 103 43 34 29
+336 Sada-atsu Mukai 15 794 116 101 53 53 45
+337 Yuki FURUSE 14 787 127 113 89 69 41
+338 Shohei Nobuhara 14 771 177 64 60 48 43
+339 Gavin A. Craig 12 771 276 84 66 52 40
+340 Takashi YAMANO 12 768 171 108 99 87 82
+341 Satoshi Watanabe 15 761 113 89 57 51 46
+342 Ana Maria Cruz Naranjo 14 759 142 84 78 59 55
+343 Kenji Harada 12 744 115 95 80 78 66
+344 Aki-Hiro SATO 10 739 300 128 28 24 23
+345 Masahito Hasegawa 14 735 141 102 72 38 32
+346 Shinji Takesue 15 732 99 91 78 61 54
+347 Keita Sakakibara 12 727 162 157 52 42 38
+348 Sameh A. Kantoush 13 719 105 72 52 44 38
+349 Marco M Candeias 11 714 193 107 95 78 50
+350 Keisuke Fujii 16 705 85 75 73 45 39
+351 Ryoma Kamikawa 14 698 61 47 42 39 36
+352 Ryohei Seto 12 690 251 153 48 34 27
+353 Shinya Yamamoto 12 694 139 119 75 71 52
+354 Hirotoshi Sato 13 689 222 67 56 50 40
+355 Masahiro Horita 15 687 73 51 43 33 32
+356 Koshi Imami 14 680 131 107 66 60 54
+357 Ikuma Adachi 15 678 139 106 49 44 41
+358 Asli M. Colpan 13 677 204 204 89 36 32
+359 Ichiro Maruta 10 671 233 84 67 38 31
+360 Toshihiro Nakanishi 16 666 112 49 39 38 36
+361 Yusuke Moriguchi 14 662 86 60 57 52 46
+362 Motomu Endo 11 662 122 109 91 82 60
+363 Yoshiaki KAI 13 645 87 44 38 34 28
+364 Takeshi Waki 13 636 63 41 41 38 37
+365 Fumihiro Kano 14 642 137 109 88 49 30
+366 Nilay Kundu 11 633 172 82 61 48 40
+367 Shuichi Yokoyama 11 621 185 67 59 57 49
+368 Takao Kato 9 621 171 95 92 62 31
+369 Masayuki Ushio 12 614 129 75 63 56 38
+370 Akira Igarashi 11 611 40 34 31 21 20
+371 Kazuaki Toyoura 12 608 90 73 52 52 41
+372 Misato Hayashi 12 607 95 88 67 39 33
+373 Shinichi Nishiyama 10 602 212 120 76 35 26
+374 Andrew MacIntosh 14 598 89 63 50 47 40
+375 Yuki Harada 11 590 83 56 52 45 35
+376 Takayuki Miyadera 12 587 123 79 47 34 32
+377 Sachin Gupta 14 585 105 39 34 32 29
+378 Toshiaki Kozuka 8 582 120 120 108 69 56
+379 Takeyuki Tamura 15 573 53 31 26 25 24
+380 Ryo Yoshinaka 13 551 47 46 35 30 27
+381 Koichi Fujiwara 9 551 204 82 41 36 34
+382 Kimiyuki Asano 13 549 69 57 54 53 39
+384 Jun SHIMOKAWA 11 547 103 69 66 52 47
+385 Masayuki Fujihara 10 542 147 61 25 24 18
+386 Tomonari Awaya 12 544 135 82 54 41 33
+387 Katayama Noboru 15 542 48 44 43 38 37
+388 Dr.　Muhammad Shahbaz Anwar 12 537 186 64 32 30 27
+389 Nathan Badenoch 9 538 146 99 96 49 22
+390 Makoto P. Kato 14 535 77 55 45 35 34
+391 Heishun Zen 11 529 32 22 17 16 15
+392 Yoshimitsu TAKAHASHI, Dr.P.H. 13 526 93 61 57 25 21
+393 Behnam Ghalei 13 525 84 58 47 47 43
+394 Yasuhiro Inoue 13 519 77 43 39 36 35
+395 Hiroyuki Hayashi 11 521 107 85 75 45 31
+396 Hiroki Koda 11 518 75 62 44 43 40
+397 Ziya Kalay 9 511 206 85 39 36 32
+398 Qiang Ma 13 504 58 40 30 28 22
+399 K.C. Chang 13 507 98 89 42 40 38
+400 Kazunori Sakurama 9 497 194 33 24 23 17
+401 Torsten Bullmann 9 497 203 78 64 37 29
+402 Menaka De Zoysa 11 496 161 94 49 33 20
+403 Koichi Unami 12 495 51 28 24 22 21
+404 Yoshitaka Nakashima 13 493 86 44 39 36 28
+405 Takanori Sasaki 10 492 90 63 60 42 34
+406 Tran Van Do 8 495 188 128 40 32 20
+408 David Dalsky 8 487 291 81 37 18 12
+409 Wataru Aoki 12 481 84 63 36 35 26
+410 Yuko Hattori 10 481 123 74 56 49 48
+411 Tomohide Shibata 12 470 96 60 44 37 24
+412 Shunji Tanaka 12 469 63 55 48 40 31
+413 Shinsuke OHSHIMA 12 466 35 33 27 24 20
+414 Christian Nitschke 12 462 90 45 44 43 38
+415 Yasunori Kitamura 14 461 40 29 29 28 26
+416 Ryoichi Shinkuma 9 461 89 63 28 27 11
+417 Mami Iima 10 461 106 77 68 48 40
+418 Zichao Lian 8 457 86 79 63 56 49
+419 Masaki Tezuka 9 453 117 115 42 40 36
+420 Stephan Thürmer 11 451 77 70 61 32 31
+421 Yoshikazu HIRAI 10 448 75 25 24 21 15
+422 Hiroyuki Masuyama 11 449 50 25 25 25 24
+423 Ken-ichi Amemori 10 445 129 85 42 38 32
+424 Taiichi Shikama 12 441 44 31 26 23 22
+425 Masahiro Kurata 11 441 73 36 26 25 23
+426 Andhika Kiswandhi 10 428 115 68 53 53 26
+428 Yu Watanabe 9 421 96 62 55 50 50
+429 Donghui Lin 11 415 36 34 32 21 19
+430 Takuya Inoue 7 410 161 94 49 33 20
+431 Yutaka Yoshida 10 410 79 54 51 36 34
+432 Takashi Hamaji 11 406 108 40 38 28 26
+433 KOHEI KUSADA 9 408 114 114 78 58 30
+434 Zeai Huang 9 401 197 44 31 30 28
+435 Chieko Umetsu 8 397 92 89 33 24 22
+436 Michimasa Yamasaki 11 395 63 60 38 31 22
+437 Sunmin Kim 12 393 54 22 21 20 20
+438 Gunawan Setia Prihandana 11 385 115 39 36 22 21
+439 Jaehong Park 11 384 139 50 27 26 23
+440 Akira MURAKAMI 11 382 54 34 31 29 29
+441 Julie Duboscq 8 368 145 55 49 33 21
+442 Guoqing Zu 9 371 79 71 59 49 29
+444 Ryuichi Okamoto 12 371 46 44 37 32 24
+445 Kiyoshi Kishida 9 365 56 56 42 15 12
+446 Masayoshi Shigeta 6 356 201 58 42 22 10
+447 Le Quang Phuong 9 362 127 43 33 31 25
+448 QIN HONGMEI 10 362 155 49 27 20 20
+449 Henrik Skibbe 8 358 97 78 35 25 24
+450 Motoshi Suzuki 8 356 74 60 53 51 41
+451 YOKOO Akihiko 12 354 33 33 30 24 22
+452 Donglin Han 11 355 40 39 37 32 27
+453 Jani Even 11 349 40 22 21 19 16
+454 J.B. Brown 10 349 66 47 43 27 25
+455 Hsin-Yi Chang 9 343 84 51 36 30 26
+456 Xuefeng Liang 9 337 100 38 37 21 17
+457 Asami Nakanishi 11 335 67 35 33 22 22
+458 Honda Naoki 11 335 52 50 35 34 27
+460 Shinichiro Ichino 11 328 73 55 23 19 16
+461 Shuji Hisano 8 322 70 48 23 17 17
+462 Tomoka Takao 9 321 79 51 36 28 28
+463 Remya Nair 10 315 78 41 35 28 15
+464 Lina Koyama 11 312 77 35 30 27 24
+465 Yoshiko Shimono 8 310 75 70 33 32 31
+467 Shigeto DOBATA 11 311 42 40 31 25 23
+468 fareed bhasha sayyed 10 303 47 30 29 26 25
+469 Yusuke Takahashi 9 301 63 49 48 29 23
+470 Tanmoy Chanda 10 301 52 40 24 24 19
+471 Tokiro ishikawa 9 297 61 51 36 35 27
+472 Takahiro Nishida 8 290 38 21 18 18 17
+474 Yohei Mitani 8 288 99 45 29 24 21
+475 Syu Kato 9 289 77 49 32 24 22
+476 Yooun Heo 6 288 173 28 26 25 14
+477 Hiroki Morishita 9 282 81 42 39 37 21
+478 Kenichi Yoshida 10 281 44 29 28 20 18
+479 Afzal Husain 9 277 41 40 37 34 33
+480 Vaijayanthi Thangavel 9 275 61 45 44 30 24
+481 Yasuhito Asano 9 275 26 24 24 20 15
+482 Eita Nakamura 9 274 73 18 17 15 14
+483 TOKUHISA KAWAWAKI 6 275 75 67 60 27 17
+484 Mio Iwasaki 7 273 115 46 38 22 21
+485 Thirapong Pipatpongsa 8 270 22 19 16 11 10
+486 maki norio 7 270 18 13 9 9 9
+487 Masaki Otomori 8 269 70 32 27 25 21
+488 Akhilesh Kumar Sharma 7 266 96 57 31 28 20
+489 Nobuyuki Kukimoto 7 264 129 22 16 15 12
+490 Minji Kim 8 263 107 50 50 23 21
+491 Romain Blanc-Mathieu 8 256 134 29 20 16 15
+492 Naoki Morimoto 8 253 61 54 33 31 20
+493 Takayuki Nishio 7 254 89 27 11 10 8
+494 Hidenori Harada 7 252 64 36 34 32 22
+495 Huawei Huang 9 251 44 32 23 16 14
+496 Daiki Ootsuki 11 305 63 46 35 28 21
+497 Joe Inoue 10 241 38 34 25 25 24
+498 S.Pilar Suguimoto 7 232 98 49 23 15 11
+499 T Bhattacharjee 9 233 54 28 25 24 22
+500 Kohei SUENAGA 8 231 52 40 21 19 18
+501 Naotaka Nakazawa 10 229 98 19 16 15 13
+502 Sho Koyasu 7 226 43 36 34 21 17
+503 Ken Yamada 7 224 53 35 34 32 26
+504 Sanghong Kim 4 223 86 46 43 41 4
+505 Shinokita, Keisuke 5 223 135 30 18 16 14
+506 Satoshi Iwakami 6 218 47 46 41 40 19
+507 Hirokazu YASUOKA 8 216 59 44 16 13 12
+508 Naritatsu Saito 8 218 90 28 17 17 14
+509 Tomoya Shimura 8 216 57 33 26 22 14
+511 Miles Kenney-Lazar 7 214 98 40 15 13 9
+512 Kazuki IDE 8 212 30 18 16 15 14
+513 Yukino Baba 7 211 59 34 15 14 13
+514 Gemma M. Kirwan 5 211 89 41 36 26 7
+515 Canh Hao Nguyen 8 202 52 33 20 18 13
+516 Maiko Uemura 5 203 93 32 30 25 18
+517 Hongsong Hu 7 201 48 24 18 17 16
+518 kazuya KOBAYASHI 9 200 44 26 23 19 16
+519 Ryoji Suno 4 198 134 33 15 4 3
+520 A.K.M. Mahfuzul Islam 9 197 44 20 19 16 11
+521 Takashi Hayakawa 7 196 37 34 30 28 23
+522 Ahmad Tayyebi 9 194 36 27 27 19 18
+523 Hyung Do Kim 4 194 111 53 11 8 4
+524 Hiroyuki Wadahama 6 190 43 42 42 33 17
+526 Bahareh Kamranzad 9 188 41 37 17 16 10
+527 Ryou Kubota 7 187 52 46 25 22 9
+528 Hiroshi Tarohmaru 8 187 23 16 15 12 10
+529 Kengo Soga ��曽厘謙歴�� 7 186 57 33 12 10 10
+530 Kodai Niitsu 8 185 46 21 17 17 16
+531 Hiroki Ohta 4 182 138 17 10 7 3
+532 Takehiro Sato 8 181 27 13 12 10 10
+533 Yasuo Ebara 7 177 15 13 12 12 11
+534 Yuji Ikeda 7 174 26 18 15 13 13
+535 Naoto HORIBE 7 174 38 26 26 23 16
+536 Yunbiao Luo 8 173 53 15 15 14 11
+537 Zhen Liang 8 172 26 25 24 24 21
+538 TAMRAKAR Surendra 7 171 35 21 20 19 11
+539 Hisao Kiuchi 7 169 35 32 31 20 13
+540 Adrean Webb 6 167 62 31 24 23 12
+541 Masahiro Yakami 6 167 56 39 16 11 10
+542 Sho Ohno 6 166 63 41 23 15 7
+543 Takayuki Muranushi 8 163 22 18 16 15 15
+544 Julius Bautista 7 161 27 26 22 16 12
+546 寄優學嵶, Tetsuharu Oba 6 158 15 9 8 8 7
+547 Yusuke MURAKAMI 5 153 52 38 34 34 6
+548 Duncan A. Wilson 6 154 84 21 12 11 11
+549 Angelica Lim 7 154 32 19 18 16 14
+550 Akihiro Suzuki 8 153 19 17 17 16 15
+551 Takahiro Ohde 6 151 36 31 30 20 16
+552 Tomohiko Hayashi 7 149 31 25 12 12 12
+553 Ali Pournaghshband Isfahani 6 148 43 40 20 14 11
+554 Parmeshwar D. Udmale 6 147 73 17 16 14 11
+556 Toshiyuki KANAMARU 7 144 15 10 9 9 8
+557 Md. Habibur Rahman (ORCID ID: 0000-0001-6148-6428) 8 141 30 11 10 10 10
+558 Francesca Pincella 4 138 88 21 16 9 4
+559 Daisuke Kotani 5 137 63 20 14 12 8
+561 Alejandro López-Moreno 7 136 26 25 20 18 15
+562 Toshiyuki Mizota 6 136 36 14 11 10 9
+563 Joseph M. Fedrow 5 134 65 36 20 6 5
+564 Hideki Takase 5 134 57 21 11 10 5
+565 Simon Kaspar Schnyder 5 133 43 25 21 16 7
+566 Atsushi Hashimoto 5 132 54 16 11 9 6
+567 Harufumi Tamazawa 7 132 23 17 12 12 12
+568 Divesh Lala 6 133 17 13 13 12 8
+569 Dr. Fabio Denis Romero 6 129 41 27 19 11 7
+570 Tsuyoshi HIRASHIMA 7 129 29 24 19 17 16
+571 Yue-Wen Fang 7 128 23 17 12 10 10
+572 山田剛史 6 126 28 13 9 8 6
+573 Kuniaki Yanagisawa 7 125 37 19 18 17 10
+575 Shunsuke Yabunaka 7 128 46 15 14 12 8
+576 Toru Utsunomiya 8 124 18 14 11 9 9
+577 Marta Pina 5 123 59 26 14 7 5
+578 Akito Davis Kawamura 7 122 23 17 12 12 11
+579 Song Tong 4 122 69 29 17 6 1
+580 Shoichi Sakaguchi 6 120 36 24 13 13 9
+581 Shuichi Oyama 6 119 20 20 17 8 6
+582 Kim Tae-Hee 7 116 17 14 13 11 11
+583 Toshihiro Kitajima 6 113 28 24 9 9 7
+584 Kyohei Ueda 4 113 68 16 5 4 3
+585 Rina HAMAJIMA 6 110 42 19 13 11 7
+587 Dr. Samir Kumar 6 109 27 24 16 12 10
+588 Koji Inoue 6 110 13 9 9 8 7
+589 Ellen Hidemi Fukuda 6 107 28 25 9 9 8
+590 Jet-Sing M. Lee 5 108 42 35 9 8 5
+591 Yusuke Isono 6 106 33 26 12 10 8
+592 Richard Veale 5 105 46 22 7 6 6
+593 Kourosh Meshgi 7 104 25 12 10 8 7
+595 Md Kamruzzaman 5 104 35 13 13 10 8
+596 Erik Walinda 5 101 32 29 10 5 5
+597 Konstantinos A. Skalomenos 6 100 28 16 11 7 7
+598 Tsuyoshi ITO 6 98 18 17 11 7 6
+600 Yosuke Fujii 3 98 48 28 16 2 2
+601 TRINH Thang Thuy 6 97 24 17 16 16 16
+602 Bhekumusa W. Lukhele 4 96 49 23 11 5 3
+604 Koji Nakazawa 6 95 19 14 14 10 8
+607 和田俊輔, Shunsuke Wada 5 92 51 14 12 8 7
+608 Ryosuke Hiwa 2 92 55 36 1 0 0
+609 Okumura Etsuko 6 90 21 13 10 9 8
+610 Kakuya Matsushima 5 90 14 14 13 7 6
+611 Narumasa Tsutsumida 5 89 19 16 14 12 8
+612 Subhajyoti Samaddar 5 88 11 11 9 8 6
+613 Brendan Flanagan 4 88 19 7 5 5 4
+614 Xiaobo Hua (花晓波) 5 87 23 15 10 7 7
+615 Edouard Lavergne 5 87 27 20 15 10 9
+616 Tetsuya Mitsudo 4 86 52 23 5 4 2
+617 Takahito KAZAMA 5 86 30 18 12 11 7
+619 Atsushi Yao 5 85 27 15 10 7 5
+620 Antonio Lucena-Cacace 5 83 21 15 14 13 9
+621 Ya Tang 5 83 23 18 15 11 7
+622 Monda Yukako 5 81 27 14 10 9 8
+623 Dr. Manisha Sharma 5 82 17 13 8 7 6
+625 Kengo Ogura 5 82 21 16 11 9 5
+626 Giancarlo Flores 5 78 24 15 6 6 6
+627 Yihong Zhang 4 78 49 8 7 4 3
+628 Noritoshi Atsumi 5 79 14 11 7 6 5
+629 Giovanni B. Brandani 4 78 35 15 11 6 4
+630 Dr. Chanchal Sow 6 75 26 10 8 7 7
+631 Christian Wittern 4 75 23 5 5 5 4
+632 Yosuke Sasao 4 73 37 9 9 6 3
+633 Takumi Yokota 5 72 31 10 7 6 6
+634 Masaya Kunimi 5 72 32 8 7 5 5
+637 Shuhei Takahashi 4 70 34 11 10 7 2
+639 Katsushi Kagaya 4 70 29 15 11 11 4
+640 Aleksandar Shurbevski 5 68 9 8 7 6 5
+643 Yugo Murawaki 5 66 24 9 7 5 5
+646 Xerxes Seposo 5 67 18 13 10 9 6
+647 Khairul Azly Zahan 5 65 17 14 9 8 5
+648 Yudi Tu 5 65 14 11 10 9 8
+653 賠邦 圍寔 , Yuma Shimizu 3 62 35 17 3 2 2
+655 Takahito Moriwaki 4 61 22 13 9 7 4
+656 Md Mizanur Rahman 3 61 39 6 3 3 3
+657 Makoto Shibata 4 59 17 12 12 9 3
+658 Tatsuyoshi Ikenoue 5 86 29 19 10 9 6
+661 Mohamed Saber 5 57 10 9 6 5 5
+662 Sunyhik Ahn 5 57 16 12 8 8 6
+663 Satona Tanaka 4 57 15 7 5 5 4
+665 Loic Merckel 5 55 11 8 8 8 6
+667 Dimiter Ialnazov 4 54 23 14 8 7 1
+668 Yingying Sun 4 51 10 8 6 6 4
+670 Yosuke Otani 5 50 13 9 6 5 5
+671 Takafumi Kurosawa (黒澤 隆文) 5 49 13 9 6 6 5
+672 Jiyi Li 4 49 12 9 8 6 3
+673 Hart Nadav Feuer 5 49 9 9 8 7 5
+677 吉？薦屓刔 4 48 14 11 6 6 2
+678 Yoshimi Yashiro 4 47 12 10 7 5 3
+680 Rocky Talchabhadel 4 47 15 13 6 4 3
+682 M. E. Meshkati Shahmirzadi 4 46 10 10 5 5 4
+683 Shun Hongo 3 46 27 11 4 2 1
+686 Jun Otsuka 4 45 14 13 8 6 2
+688 Xinpeng Zhang (張　信鵬) 4 44 9 7 6 5 3
+689 Zhexian Zhang 3 44 17 12 10 3 1
+690 Valéria Romano 4 44 21 10 7 6 0
+691 Babloo Chaudhary 4 44 9 6 5 5 3
+693 Björn-Ole Kamm 4 43 13 13 8 6 1
+694 Kensuke Kojima 5 46 15 7 7 6 5
+696 Yeun-Touh Li 4 43 14 11 8 5 3
+698 Yuta Yaegashi, 八重樫優太 5 42 9 7 5 5 5
+701 田中智大（Tomohiro Tanaka） 3 40 12 6 5 3 3
+702 Ryosuke Kojima 3 40 11 5 3 3 3
+703 Jungryang Kim 4 40 9 8 8 5 4
+704 Yuki Noguchi 3 39 25 5 3 3 2
+706 Yoshitaka Morimura 4 40 18 9 8 4 1
+708 Utako Yamamoto 3 38 12 3 3 3 2
+713 Fengjiu Yang 3 37 25 4 4 3 1
+714 Hirohiko Kohjitani 4 37 13 12 7 4 1
+715 Morie KANEKO 4 33 7 6 5 4 4
+717 Keigo Imai 2 32 22 5 2 2 1
+721 Sayaka OKAHASHI 2 31 25 3 2 1 0
+726 Takuma Kobayashi 3 28 9 7 4 2 2
+729 Kousuke Tsurumi 3 28 9 7 3 3 3
+730 Masaru Nakayasu 3 28 13 7 4 2 1
+731 Subir Kumar Biswas 3 27 8 6 5 3 3
+732 振宇 陳, Chen-Yu Chen 3 27 10 5 3 3 3
+740 Thomas Daniell 3 26 15 3 3 2 1
+741 Tamer ElGharbawi 3 26 12 7 4 2 1
+742 Mizumoto Nobuaki 3 27 11 4 3 3 2
+743 Midori E. Amano Patiño 3 26 8 5 5 3 3
+744 Ken Morishima 4 25 7 5 4 4 3
+745 Tomo Kurimura 2 25 21 2 2 0 0
+747 Mai Xuan Trang 3 24 7 6 5 3 1
+748 Akiko Hanai 3 24 9 7 4 3 1
+752 Yasuo Okabe 3 23 7 4 4 1 1
+753 He Kai 3 22 9 4 3 3 1
+754 W. W. Baber 3 22 7 5 3 2 2
+755 Hisashi Masuda 3 22 6 5 4 3 2
+756 WooJin KIM 3 22 7 5 4 3 2
+763 makoto nishi 2 21 11 4 2 1 1
+766 Yuki Sato 3 20 6 4 3 2 2
+771 Hidekazu Kasahara 2 18 7 3 2 2 1
+774 Maryam Sadat Mirzaei 2 17 5 3 2 2 1
+775 Arbi Haza Nasution 2 17 6 3 2 2 2
+776 Kohei Tada 2 17 11 4 2 0 0
+777 Ryota OKUMURA 2 17 9 5 2 1 0
+779 Arseny Tolmachev 2 15 5 4 2 1 1
+786 Julien Bourdon 3 13 5 4 3 1 0
+787 Rina Takashima 2 14 9 2 2 1 0
+788 Ajay Kumar Mishra 2 13 3 3 2 2 1
+792 Chandana Dinesh 2 12 5 2 2 1 1
+796 Harsha Man Maharjan 3 12 4 4 3 1 0
+797 Adi Prasetyo 2 11 5 3 1 1 1
+803 Naoto Isozaki 1 10 10 0 0 0 0
+811 Shintaro Maeda 1 9 7 1 1 0 0
+812 Shusaku Sasaki 2 9 3 2 1 1 1
+813 Huei-Ru Lin 2 8 5 2 1 0 0
+817 Hsu-Sheng Hsieh; 謝旭昇 2 7 2 2 2 1 0
+818 Masahiko Ueda 2 7 3 2 1 1 0
+820 Masahiro Haze 2 7 4 3 0 0 0
+821 Kento Hoshi 2 6 3 2 1 0 0
+827 Dongyeon Daniel Kang 2 5 2 2 1 0 0
+833 Sajjad Amani 1 4 4 0 0 0 0
+834 Hiroyuki Morita (畢弥隗岻) 1 4 2 1 1 0 0
+852 硬勝臓匯 1 2 1 1 0 0 0
+855 Kazuhei Kikuchi 1 1 1 0 0 0 0

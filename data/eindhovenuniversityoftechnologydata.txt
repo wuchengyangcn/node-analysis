@@ -1,0 +1,685 @@
+1 E.W. Meijer 124 71984 4452 2710 2692 2503 1804
+2 Evangelia Demerouti 78 42859 6162 5209 1840 1831 1562
+3 Henk Nijmeijer 68 25121 3719 817 789 700 504
+4 A.M.J. Koonen 60 24244 695 401 249 236 220
+5 Klaas Nicolay 79 23589 1810 1056 612 553 489
+6 Rint Sijbesma 66 20557 2503 1804 1376 1048 634
+7 Dirk J. Broer 61 15247 608 572 567 469 294
+8 Arthur van Roermund 44 14590 3387 1738 1214 659 270
+9 nico sommerdijk 64 14266 805 664 662 615 585
+10 Mark de Berg 40 14056 8260 967 245 217 216
+11 Meint Smit 52 13572 1032 738 594 580 525
+12 Maurice Heemels 57 13297 768 573 570 535 449
+13 Sebastiaan Overeem 55 12907 1862 1649 970 432 394
+14 Wijnand IJsselsteijn 56 12547 890 679 454 364 331
+15 Jarke J. van Wijk 58 11486 689 612 474 425 414
+16 Josien Pluim 39 11386 3187 1423 933 404 395
+17 Chungeun Kim 53 11330 350 331 304 276 250
+18 Boudewijn van Dongen 45 11159 1303 828 807 612 553
+19 Maarten Steinbuch 49 10732 446 398 330 322 290
+20 Jean-Paul Linnartz 48 10666 1893 449 431 371 342
+21 Bert Blocken 57 10646 917 364 317 284 259
+22 Gerrit W.M. Peters 58 10142 387 253 221 217 215
+23 Xaveer Leijtens 39 9401 1200 1125 976 594 421
+24 Douwe Beijaard 35 9317 2356 1187 1128 341 250
+25 Huug de Waardt 42 8882 738 469 305 249 236
+26 Kees Goossens 48 8697 991 637 237 237 222
+27 Paul De Bra 43 8644 637 610 584 346 318
+28 Eric Verbeek 39 8571 828 807 612 529 392
+29 Eugenio Cantatore 42 8546 1513 591 474 361 347
+30 Jan LM Hensen 43 8497 498 287 278 272 260
+31 Tanja Lange 44 8409 1276 627 490 437 331
+32 Nathan van de Wouw 47 8293 535 347 330 326 288
+33 LPH de Goey 45 8193 497 340 323 264 230
+34 Gerard de Haan 39 8145 551 540 522 194 177
+35 Paul M.J. Van den Hof 41 8019 611 422 381 371 315
+36 Federico Toschi 48 7766 475 289 242 204 200
+37 Kees van Hee 34 7752 2917 470 408 319 294
+38 Marcel A Verheijen 50 7649 563 358 260 242 236
+39 Onno Boxma 49 7634 378 283 283 215 171
+40 Nikhil Bansal 40 7358 1037 451 393 340 338
+41 Cees Oomens 47 7342 368 295 291 214 211
+42 Twan Basten 44 7146 639 392 357 265 221
+43 Andrea Fiore 45 6969 329 302 277 206 183
+44 Peter Hilbers 42 6830 585 341 336 330 278
+45 H.J.H. Brouwers 43 6765 559 334 246 237 179
+46 Jan Friso Groote 45 6588 501 450 253 233 220
+47 Paul van der Schoot 43 6578 610 370 364 242 227
+48 Sem Borst 39 6518 609 511 372 260 153
+49 N.G. Deen 40 6498 598 432 276 256 235
+50 Henk Corporaal 37 6456 346 180 171 164 134
+51 Joris J.C. Remmers 22 6415 4180 265 183 163 161
+52 Ageeth A. Bol 36 6249 751 507 376 343 339
+53 Daniel Lakens 24 6110 2262 1347 413 313 211
+54 Uzay Kaymak 38 6099 575 247 234 234 218
+55 A Hirschberg 43 5968 713 316 273 201 200
+56 Luc Florack 34 5928 714 510 250 216 174
+57 Remco Dijkman 36 5913 630 553 384 313 255
+58 Panos Markopoulos 38 5788 548 251 233 176 146
+59 Paul Koenraad 40 5766 331 246 225 198 143
+60 J.G. Slootweg 27 5685 1012 563 420 385 363
+61 Paul Grefen 40 5622 462 170 165 158 148
+62 Igo Besselink 16 5619 4229 513 115 69 69
+63 Leon E. Govaert 40 5585 292 268 238 217 193
+64 Elena Lomonova 35 5345 187 169 139 121 109
+65 Berry Schoenmakers 25 5274 1101 1027 497 441 239
+66 J. L. Duarte 33 5219 315 297 286 210 210
+67 Sandra Hofmann 28 5143 736 426 342 341 334
+68 Frans Willems 32 5095 966 253 233 222 221
+69 Remco Tuinier 38 5052 432 360 314 216 183
+70 Yvonne de Kort 36 4979 454 272 238 198 196
+71 Ingrid Heynderickx 31 4855 890 220 158 149 142
+72 Tom F. A. de Greef 31 4828 1376 408 330 245 227
+73 Mykola Pechenizkiy 33 4780 656 310 278 269 208
+74 Ton de Kok 40 4752 253 212 177 173 155
+75 Jürgen Kohlhepp 35 4449 524 412 215 167 160
+76 Matthias RAUTERBERG 31 4442 230 191 110 91 86
+77 Mark van den Brand 32 4384 467 333 259 192 163
+78 Corrinus C van Donkelaar 35 4376 291 270 253 214 167
+79 Jacques M. Huyghe 37 4315 347 257 166 152 138
+80 Remco van der Hofstad 36 4226 520 123 108 100 93
+81 kees van berkel 30 4147 343 312 259 247 239
+82 j.e. rooda 33 4142 205 175 117 102 86
+83 Romijn 29 4116 1078 185 185 159 158
+84 Fred Langerak 31 4073 571 301 282 209 205
+85 Eduward Tangdiongga 31 4032 249 191 170 92 90
+86 Ivo Adan 33 4030 332 141 131 122 107
+87 Edwin J. Nijssen 31 4004 397 361 338 300 182
+88 JWM Bergmans 32 4003 327 143 107 91 90
+89 Jean-Bernard Martens 33 3989 526 313 155 120 104
+90 Timothy Noel 34 3970 334 266 248 202 161
+91 Johan Morren 22 3943 1049 753 603 365 117
+92 Martien Hulsen 33 3912 313 290 270 231 171
+93 Varvara Kouznetsova 23 3867 678 603 472 466 338
+94 Herman Clercx 37 3866 158 112 101 91 79
+95 Mark Bentum 29 3724 916 199 135 134 118
+96 Georges (Sjoerd) Romme 30 3646 570 213 212 193 188
+97 Leo Pel 33 3642 265 232 129 104 104
+98 P. Cluitmans 23 3632 2105 127 122 81 79
+99 Chunhui Duan 26 3626 515 360 332 274 204
+100 Alexander Serebrenik 34 3537 182 168 134 128 113
+101 Wendy T.M. Sanders 15 3537 1975 716 166 156 101
+102 René J.M. van de Veerdonk 27 3496 468 303 245 165 160
+103 Mircea Lazar 29 3484 205 183 132 130 114
+104 Alexander Pogromsky 25 3462 551 259 257 249 204
+105 Cornelis Storm 22 3351 1123 694 225 115 101
+106 Christian Ottmann 28 3235 272 214 193 168 152
+107 Sander Stuijk 28 3229 357 265 198 180 178
+108 Simme Douwe Flapper 19 3177 1109 294 288 251 183
+109 Dirk Fahland 29 3123 612 199 149 148 134
+110 nicola calabretta 28 3120 305 170 141 121 69
+111 Jose Pineda de Gyvez 28 3107 327 172 161 107 107
+112 Peter Zijlstra 22 3095 882 438 198 142 138
+113 Frits Spieksma 30 3083 169 161 157 138 126
+114 Barry Koren 26 3062 404 357 260 129 101
+115 Ronny Mans 22 3055 612 347 312 247 189
+116 Sandro Etalle 28 3053 199 137 118 112 102
+117 Alexey Lyulin 32 3017 175 135 111 100 96
+118 Sjoerd W. Rienstra 26 2938 517 224 182 167 165
+119 Myriam Cloodt 11 2863 1360 469 371 183 130
+120 B Skoric 26 2862 339 199 151 136 133
+121 Ad Aerts 25 2802 610 259 143 134 132
+122 Natalia Stash 26 2711 610 189 180 143 114
+123 Stephan Wensveen 23 2708 576 300 207 163 141
+124 Erwin Bente 28 2700 275 166 100 96 88
+125 Eggen 28 2650 196 156 137 129 92
+126 Arris S Tijsseling 23 2625 301 270 210 111 103
+127 Patricia Y.W. Dankers 27 2618 344 191 184 128 111
+128 Bauke de Vries 21 2618 498 298 180 124 90
+129 Natalia Sidorova 24 2575 319 291 182 154 124
+130 Rudi Bekkers 22 2568 628 409 166 125 111
+131 Massimo Mischi 25 2567 146 143 110 88 86
+132 L.M.G. (Loe) Feijs 26 2559 176 128 126 105 92
+133 Nicola Zannone 27 2557 235 131 119 97 95
+134 Reinder J. Bril 21 2534 687 111 94 91 87
+135  Aart Blokhuis 28 2534 153 128 105 104 94
+136 hans zantema 24 2522 226 218 201 79 74
+137 Henk Huinink 26 2521 208 161 121 103 98
+138 I* Voets 28 2506 207 158 132 113 90
+139 M.C.F. (Tijs) Donkers 18 2498 449 422 330 269 147
+140 Christian Stahl 23 2489 402 181 177 157 155
+141 Madeleine Gibescu 22 2469 654 133 65 63 59
+142 Tilde Bekker 26 2436 236 233 155 129 126
+143 Cor Hurkens 22 2434 294 264 239 224 125
+144 Hans M. Wyss 22 2432 352 207 191 190 173
+145 Aarnout Brombacher 29 2396 109 107 105 92 87
+146 Rik Eshuis 24 2360 215 195 195 170 169
+147 Natal van Riel 25 2311 410 249 241 87 62
+148 Erik P. de Vink 24 2308 207 153 118 116 80
+149 Regina Luttge 23 2288 422 232 180 142 115
+150 J.E.M.Haverkort 27 2287 188 171 109 81 76
+151 Rui Castro 22 2268 489 268 133 126 120
+152 Ruud Pellikaan 23 2242 330 152 115 103 103
+153 Akke Suiker 26 2216 184 142 128 128 126
+154 Massimiliano de Leoni 25 2211 612 101 89 64 57
+155 Pieter Harpe 26 2201 193 153 127 119 117
+156 R. P. Jagadeesh Chandra Bose 19 2131 612 163 141 134 102
+157 a.j.m. pemen 25 2116 156 142 88 84 70
+158 Dik J. Hermes 21 2094 390 232 182 98 85
+159 Lech Jozwiak 22 1999 196 113 81 64 54
+160 LMT Somers 26 1979 124 109 96 86 71
+161 L.F.P. Etman 25 1908 205 104 102 74 71
+162 Jaap Ham 25 1899 127 108 98 84 79
+163 Marcel Loomans 20 1891 498 117 115 114 87
+164 Xueqing Zhang 23 1877 130 128 85 66 60
+165 Albert Jan Markvoort 23 1872 330 108 102 91 84
+166 Leda Klouda 9 1872 802 505 206 112 82
+167 Alberto G. Curto 9 1868 1149 304 117 116 64
+168 Johan Hoefnagels 23 1846 206 124 112 77 73
+169 Kevin Buchin 27 1836 103 84 83 74 62
+170 Jacques Resing 20 1800 332 186 99 83 70
+171 Huub van de Wetering 18 1784 371 188 183 155 117
+172 Michel A. Westenberg 17 1784 426 255 236 123 116
+173 Harm Knoops 24 1772 233 133 114 110 73
+174 Roland Toth 20 1765 320 131 104 98 94
+175 Regina Bernhaupt 20 1755 196 110 89 67 64
+176 Peter Baltus 21 1744 143 107 100 95 88
+177 Joos Buijs 16 1726 612 253 148 143 80
+178 Anna J. Wieczorek 16 1723 286 261 227 192 83
+179 Chigo Okonkwo 20 1697 236 71 69 65 64
+180 Remco Duits 21 1654 131 98 91 85 75
+181 Johan van Leeuwaarden 22 1649 75 67 65 60 59
+182 Björn Baumeier 20 1623 241 213 124 107 103
+183 Tom Verhoeff 17 1593 354 261 170 84 61
+184 Floortje Alkemade 21 1569 284 122 99 88 81
+185 I. Reymen 18 1557 254 177 153 110 109
+186 Jun Hu 22 1542 79 51 46 39 38
+187 Edgar Vredenbregt 22 1533 240 143 77 70 69
+188 Marco Slikker 23 1527 217 151 94 90 88
+189 Martijn C. Willemsen 19 1502 361 242 131 79 71
+190 Wouter G. Ellenbroek 18 1500 249 203 159 131 104
+191 David Smeulders 22 1497 109 92 89 79 69
+192 Uwe Matzat 18 1490 416 140 115 97 88
+193 frens 14 1482 312 300 113 98 79
+194 Helianthe Kort 18 1461 156 151 142 104 86
+195 Zizheng Cao 18 1405 75 73 72 67 50
+196 Cornelis Huizing 12 1364 689 109 76 71 68
+197 Bart Gysen 16 1352 187 169 121 104 102
+198 Irene Vanderfeesten 17 1341 186 141 130 122 86
+199 Tim Willemse 19 1315 173 116 113 85 78
+200 Jeroen Voeten 16 1313 198 105 105 93 64
+201 Vincent Wiers 17 1280 195 144 101 89 76
+202 Phuong H. Nguyen 19 1269 103 69 69 63 61
+203 AJH Frijns 17 1268 169 138 99 66 61
+204 AWM (Jos) van Schijndel 17 1268 105 104 97 65 58
+205 Frank Delbressine 16 1266 662 74 47 46 43
+206 Bart Mesman 19 1259 134 108 78 75 74
+207 Theo Hofman 20 1254 151 65 64 63 51
+208 Reinoud Lavrijsen 18 1253 330 330 127 127 115
+209 Marcos H. D. Guimaraes 14 1225 137 136 123 120 115
+210 George H. L.  Fletcher 19 1218 163 102 68 60 56
+211 Jos J.M. Trienekens 17 1191 120 80 60 57 54
+212 Adrie Mackus 19 1169 114 110 100 90 80
+213 Dragan Bosnacki 18 1153 155 120 66 49 45
+214 Erik van der Spek 11 1148 651 199 47 42 33
+215 Tom Oomen 19 1142 89 57 38 37 30
+216 Jeroen H. Franken 15 1141 331 146 142 133 65
+217 oded raz 17 1129 93 78 44 42 35
+218 Emilia Barakova 18 1117 86 84 72 47 39
+219 Rob Broekmeulen 14 1117 182 144 122 110 107
+220 Sander Nijdam 18 1106 116 110 102 65 61
+221 Joe Patterson 20 1099 99 95 76 68 65
+222 Bart Smolders (A.B. Smolders) 17 1098 178 57 46 44 35
+223 Dong-Soo Han 15 1086 208 115 112 111 84
+224 Wybo Houkes 12 1082 161 133 124 112 106
+225 Michiel Hochstenbach 18 1065 123 77 69 49 46
+226 Sonia Heemstra de Groot 16 1063 120 118 115 45 38
+227 Hans Hegt 16 1056 198 112 79 74 73
+228 hans cuypers 18 1040 127 58 48 48 45
+229 Andrei Jalba 15 1019 125 107 91 68 53
+230 Q.L. (Qingliang) Yu 17 1016 136 94 66 65 55
+231 Michael Boot 16 1011 156 88 71 68 61
+232 Joseph Maubach 15 1008 319 94 56 43 38
+233 Albert Poortinga 13 987 368 79 67 62 50
+234 Erik van der Vleuten 17 982 121 96 89 76 59
+235 Rob Janssen 12 980 357 126 77 51 42
+236 Eleftheria Vasileiadou 15 975 138 121 83 63 59
+237 Antal Haans 11 974 223 187 111 106 57
+238 Jesper Nederlof 12 954 226 125 119 104 91
+239 Chiara Rabotti 15 934 146 79 77 62 42
+240 Stals P.J.M. 15 926 139 120 76 63 62
+241 Josette M.P. Gevers 15 908 122 110 86 72 60
+242 Jan Cees van der Meer 14 889 352 78 72 61 46
+243 Tarkan Tan 16 888 230 84 72 60 53
+244 Ruth Cardinaels 17 887 70 67 61 54 46
+245 Dip Goswami 16 875 74 63 56 52 47
+246 P.A.M. (Ad) Kleingeld 11 870 335 176 90 58 52
+247 Nicole Huijts 8 870 363 244 104 44 38
+248 Lachlan Black 10 834 308 186 59 48 32
+249 Sonja Rispens 12 831 237 86 79 71 51
+250 James Pritchard 14 830 135 114 85 71 66
+251 Martijn van Beurden 16 830 148 57 39 37 34
+252 Yuqing Jiao 14 829 275 55 47 45 35
+253 Hamid Montazeri 12 821 118 101 96 94 91
+254 Maarten Hornikx 14 819 100 87 60 56 48
+255 Bart M. P. Jansen 15 816 117 106 75 64 58
+256 Pieter-Jan Hoes 10 816 498 69 40 35 33
+257 Anna Wilbik 16 805 145 42 42 39 35
+258 Ramon R.H. Schiffelers 13 805 175 64 60 37 34
+259 Jan Dijkstra 14 795 170 138 107 38 27
+260 Bas Luttik 18 792 74 64 54 47 47
+261 M.M.R.Peeters 9 791 254 219 109 47 29
+262 Julien Schmaltz 16 790 71 67 66 41 34
+263 Natan Straathof 9 789 248 202 85 75 58
+264 Shaji Varghese 12 787 300 141 93 51 31
+265 Andreas Hülsing 16 760 121 115 58 58 53
+266 Jan Philipp Hofmann 16 760 66 50 48 48 37
+267 R.Yu 13 754 148 119 101 51 51
+268 Jacobus J. van Franeker 12 753 158 155 68 61 53
+269 Mitko Veta 10 748 181 137 127 82 62
+270 Huiye Ma 15 733 130 78 49 46 37
+271 Saskia Bakker 16 729 94 55 55 45 42
+272 Svitlana Zinger 13 725 137 84 61 30 28
+273 Önder Nomaler 9 723 412 81 61 49 24
+274 Alberto Acerbi 14 722 85 85 56 53 51
+275 Hanneke Gelderblom 10 717 216 216 138 95 59
+276 Krist Vaesen 12 714 138 90 82 72 54
+277 Wieger Wesselink 13 694 116 71 55 55 49
+278 Frimat Jean-Philippe 11 691 130 120 96 62 59
+279 Ksenia Podoynitsyna 7 690 429 105 41 34 21
+280 Gerrit Rooks 16 689 138 52 51 43 35
+281 Michel Speetjens 16 684 48 47 47 34 31
+282 W Hoeben 10 680 210 139 73 65 38
+283 AFH van Gessel 10 669 155 124 75 71 60
+284 Nikolaos Paterakis 13 674 134 81 59 51 51
+285 Anton Wijs 15 659 54 47 44 32 31
+286 Oktay Turetken 14 660 60 53 52 49 48
+287 Rik Vullings 14 659 107 65 48 43 42
+288 Tanir Ozcelebi 12 653 72 58 58 47 38
+289 Stef J.L.van Eijndhoven 15 652 50 47 45 39 37
+290 Ivo Roghair 12 634 150 85 68 59 45
+291 Jeffrey N. Murphy 11 633 159 109 93 65 41
+292 Oleksii Rudenko 11 632 149 61 59 49 49
+293 Roel Loonen 13 632 196 47 44 44 44
+294 Alessandro Di Bucchianico 14 620 83 80 45 41 26
+295 Tanya Ignatenko 12 612 109 108 62 36 33
+296 Bruno P S Rocha 8 609 433 48 30 27 22
+297 Jan Blom 8 601 420 55 23 19 15
+298 Ana Pereira Roders 13 597 56 53 52 29 27
+299 Duarte Antunes 13 597 84 71 44 38 38
+300 Bram Verhees 10 592 142 127 83 62 47
+301 Pauline van den Berg 13 588 99 77 47 46 36
+302 Georgios Exarchakos 13 585 50 48 40 38 33
+303 Leander van der Meij 11 581 110 69 68 63 55
+304 Rudie Kunnen 14 574 65 57 55 45 34
+305 Alessandro Saccon 14 572 60 36 30 30 29
+306 Rubina Ramponi 6 549 284 90 75 50 28
+307 J.J.M. Slot 12 545 92 45 41 38 30
+308 Danqing Liu 13 546 90 68 62 60 51
+309 Vlado Menkovski 13 541 90 50 40 38 35
+310 Francesca R. Nardi 13 523 44 42 37 35 27
+311 Pieter Cuijpers 11 522 141 35 25 24 20
+312 Oleg Kurnosikov 12 522 92 75 49 30 30
+313 Rong-Hao Liang 14 517 96 46 44 41 39
+314 Katja Petkau-Milroy 9 515 210 89 74 28 28
+315 Joanna M. van de Mortel-Fronczak 12 514 54 42 36 33 28
+316 Chidambar Kulkarni 13 505 73 72 66 43 37
+317 Diana Car 10 487 80 56 55 49 48
+318 Jingxin Shao 11 487 83 82 67 63 57
+319 Jasen Markovski 11 487 46 39 38 36 34
+320 Pierre Levy 10 481 161 62 44 24 20
+321 Yuan Lu 9 474 109 73 50 30 29
+322 Pim Moeskops 9 477 178 73 45 33 32
+323 Weiyu Song 13 471 52 49 45 33 24
+324 Le Zhang 12 468 81 57 42 40 39
+325 Lucas (Luuk) Veelenturf 7 467 261 55 41 39 20
+326 Kevin Verbeek 11 462 103 60 46 40 37
+327 Xie Jie 10 458 113 97 79 33 31
+328 Anne Driemel 8 456 149 92 58 54 28
+329 Mathias Funk 11 450 32 26 25 15 15
+330 Rob Basten 9 448 81 66 52 40 39
+331 Fausto  Gomez Agis 11 446 56 41 35 31 28
+332 Stefano Galzarano 12 443 104 98 55 20 17
+333 Lawien Zubeir 11 438 76 67 56 36 33
+334 Decebal Constantin Mocanu 12 435 41 31 30 30 26
+335 Shuxia Tao 10 435 147 54 42 29 28
+336 jcd hoenderkamp 12 433 70 45 36 34 27
+337 karin smolders 9 426 122 66 58 46 43
+338 Bedabrata Saha 11 425 149 50 44 32 31
+339 Josephina Cornelia Catharina Maria Huijben 7 423 217 99 37 26 26
+340 Weiming Yao 7 422 275 35 21 16 15
+341 Egor Bondarev 11 415 65 39 37 33 26
+342 Lenneke Kuijer 9 411 76 69 62 41 41
+343 Chris Geurts 11 406 63 27 25 21 18
+344 Dusan Milosevic 12 405 36 30 27 25 24
+346 Claudia-Melania Chituc 9 400 79 65 56 50 39
+347 Liesbeth M. C. Janssen 11 394 100 50 37 37 32
+348 Mani Diba 8 394 94 63 62 50 36
+349 Marcel van Amstel 12 390 69 36 36 35 35
+350 Ana Sobota 11 389 47 38 38 37 36
+351 Rob Mestrom 7 386 175 57 30 26 17
+352 Artur Palha 10 383 109 49 37 23 18
+353 Freddy E Oropeza 9 382 76 50 48 47 36
+354 Maarten Schoukens 12 384 55 30 26 20 19
+355 Anthal I.P.M. Smits 10 377 138 38 35 34 26
+356 Zumbul Atan 6 378 268 39 17 8 8
+357 Victor Land 12 372 56 43 35 26 25
+358 Maryam Razavian 10 370 72 46 41 28 22
+359 Richard Verhoeven 10 367 44 32 32 17 16
+360 Andrea Fuster 10 365 81 51 34 28 19
+361 Roeland Scheepens 7 364 118 86 39 30 28
+362 Tao Feng 冯涛 9 362 108 26 23 21 19
+363 Rianne Appel-Meulenbroek 9 360 96 52 35 34 32
+364 Wang Miao 10 361 59 31 28 22 22
+365 ANAGNOSTIS TSIATMAS 9 359 126 126 65 48 29
+366 Bart Macco 9 357 56 35 34 32 32
+367 Georgi Radulov 12 355 45 34 24 21 20
+369 Tom van der Sande 4 350 166 104 64 6 4
+370 Andrew Nelson 9 348 80 44 30 28 24
+371 Marion Matters-Kammerer 10 348 40 30 22 19 16
+372 Rudi Pendavingh 10 343 72 22 21 20 19
+374 Yingchao Cui 6 339 109 72 68 37 26
+375 Nikolay Kosinov 11 336 101 29 28 28 23
+376 Jan Vleeshouwers 3 333 311 12 5 3 2
+377 Maarten Kuenen 6 326 88 58 53 35 32
+378 Wouter Duivesteijn 9 324 69 60 40 26 19
+379 Sahel Abdinia 8 321 63 58 42 35 35
+380 Stefano Di Lucente 9 316 59 58 35 25 23
+381 MVA Florea 9 314 87 38 33 25 19
+382 Wouter Meulemans 9 315 76 43 25 21 15
+383 Rick Kramer 7 311 97 65 45 35 8
+384 Marko Boon 8 307 110 31 30 28 17
+385 B. E. McKenzie 10 305 68 51 37 27 26
+386 Erik J Bekkers 10 303 68 39 25 23 19
+387 Simona Turco, PhD 5 302 244 18 11 10 5
+388 Feilong Liu 11 301 56 22 22 21 20
+390 Matthijs Cox 10 299 69 47 44 22 20
+391 Qi Han 12 297 41 38 21 19 18
+392 Iris Soute 9 292 83 75 24 23 11
+393 Veronika Cheplygina 10 291 47 28 24 23 23
+394 ward cottaar 8 288 81 52 42 14 13
+396 Josefine H.E. Proll 9 284 78 40 38 29 25
+397 Philip Nickel 8 281 64 51 35 25 23
+398 Güneş Nakiboğlu 10 280 58 46 28 18 17
+399 Maria Vlasiou 11 278 33 29 25 21 15
+400 Jorn Bakker 7 277 124 47 27 24 18
+401 Bart Hengeveld 8 274 37 35 34 28 21
+402 vassilis-javed khan 9 274 38 33 18 18 16
+403 Martijn Anthonissen 7 273 49 39 26 24 22
+404 M. Babar 9 272 41 36 23 13 13
+405 Antoine Van den Beemt 9 267 52 33 28 28 22
+406 Vladimir Ćuk 9 268 38 29 21 15 13
+407 Radu Stefan 9 264 74 39 26 24 23
+408 Gert-Jan van den Braak 8 264 72 47 37 32 24
+409 Abhinav Rohit 11 261 30 27 23 18 16
+410 Elena Torta 9 260 48 47 39 20 15
+411 Hao Gao 9 261 35 31 30 21 15
+412 sachin bhardwaj 8 258 60 38 32 20 18
+413 Luca Allodi 9 257 56 37 27 26 21
+414 Gijs Dubbelman 10 256 36 27 21 21 20
+415 Kiamars Vafayi 7 256 78 49 48 25 17
+416 Martijn M.H.P. van den Heuvel 9 251 50 21 20 19 18
+417 Georg Prokert 9 251 47 30 24 16 15
+418 Miguel Bruns Alonso 8 246 53 37 29 23 22
+419 Stefan Frijters 7 246 66 54 43 32 12
+420 Federica Eduati 9 239 57 36 30 22 18
+421 Dirk Jan Mulder 6 240 69 63 61 14 11
+422 Recep Firat Tigrek 8 236 36 34 30 28 19
+423 Xiao-Jing, Wei 8 235 70 64 31 22 15
+424 Jimmy Melskens 8 234 37 33 32 22 18
+425 Willem van Jaarsveld 7 237 81 48 20 19 18
+426 Joost Bolder 9 233 57 37 24 22 18
+427 Dmitry Krushinsky 9 230 57 25 22 21 20
+428 Luc Engelen 9 226 40 35 17 15 14
+429 Ehsan Warriach 9 226 49 45 21 16 13
+430 Giulio Bottegal 8 224 36 18 17 14 12
+431 Yifan He 9 223 36 32 21 16 12
+432 A.C.H. Pape 6 220 112 47 20 15 10
+433 Alberto Lazaro 7 218 59 37 29 28 15
+434 Tao Tan 8 218 57 43 17 16 14
+435 Emanuela Bosco 8 218 47 33 30 30 20
+436 Frank Stappers 5 216 116 55 15 8 7
+437 Rob J.B. Vanwersch 6 215 89 54 21 18 16
+438 Maurice Peemen 5 217 137 24 18 14 8
+439 Emilia Silvas 7 213 64 36 31 21 16
+440 Erik van Kemenade 9 212 34 21 20 12 12
+441 Georgios G. Vogiatzis 7 208 55 53 38 10 9
+443 Hailong Che 6 211 104 38 30 16 12
+444 Daniel Ricardo dos Santos 8 206 59 26 19 16 16
+445 Rosalinda Gaudio 7 206 88 40 24 14 11
+446 Elisa Costante 9 200 39 36 26 23 20
+447 Veaceslav Spinu 7 198 78 21 21 16 14
+448 I.M.H. Vliegen 8 199 44 32 26 19 15
+449 Laura Astola 11 197 27 18 18 16 13
+450 Elham ramezani 6 194 94 36 27 12 10
+451 Subham Bhattacharjee 9 193 44 32 23 18 16
+452 Longfei Shen 8 192 35 25 21 15 14
+453 Nicolai Brodersen Hansen 6 191 103 36 14 11 8
+454 Elena Mocanu 8 193 42 24 18 17 13
+455 Bram van der Vlist 8 190 34 28 26 23 19
+456 Bin Yu 6 198 114 21 11 10 9
+457 Shahrzad Faghih Roohi 7 188 52 30 30 28 16
+458 Mykhailo Vybornyi 8 187 52 28 26 19 15
+459 Niek Tax 7 183 37 32 31 22 13
+460 Stella Kapodistria 8 182 42 31 26 15 15
+461 A.N.M.M. Haque 8 181 79 14 12 11 9
+462 Christine van Vredendaal 7 178 45 38 25 13 11
+463 Remco Magielse 6 175 75 44 18 11 7
+464 A.A. (Alex) Alblas 9 176 56 26 14 13 11
+465 Dannie van Osch 6 172 67 36 25 22 15
+466 F.M.J.H. van de Wetering 5 172 117 16 11 7 5
+467 Nicholas Tito 5 170 54 35 27 25 7
+468 Frank Veraart 7 169 47 12 10 10 9
+469 Evelien Ketelaar 5 168 104 13 13 12 12
+470 Ramiro Serra 6 165 33 13 12 8 7
+471 Irina Kostitsyna 7 165 33 20 18 11 10
+472 Yasin Toparlar 5 166 94 24 14 12 11
+473 Katrien Vandoorne 8 162 29 24 20 18 16
+474 Dr. Adam Taylor 5 161 65 39 27 17 7
+475 Florian Janoschek 7 160 54 49 12 11 11
+476 Baris Ozkan 6 160 37 20 19 17 16
+477 Nick Thissen 6 160 36 32 30 26 10
+478 Luc Starmans 7 158 44 29 20 18 18
+480 Elke Klaassen 7 158 60 16 16 11 7
+482 Isabella Gaetani 6 158 70 28 21 11 10
+483 Komjáthy Júlia 8 154 22 14 14 14 11
+484 Serge Offermans 7 154 34 17 14 10 9
+485 Mark Vis 7 156 39 29 25 16 11
+486 Maxim Pisarenco 7 153 33 30 22 9 9
+487 Dongrui She 9 152 32 21 20 10 10
+488 Paulo Serra 7 153 55 55 25 12 11
+489 Susann Katrina Julie Ludwig 7 150 35 30 20 17 17
+490 Roel Jordans 7 149 34 23 18 14 12
+492 Alessandro Corbetta 7 148 27 21 18 17 14
+493 Fernanda Neira D'Angelo 8 147 39 18 15 12 11
+494 Maaike Koopman 8 145 23 20 16 15 13
+495 Janne-Petteri Niemelä 8 144 22 20 18 18 15
+496 Shuaiqi (Phil) Guo 6 143 41 38 21 17 17
+498 Duygu Keskin 5 141 93 22 7 6 5
+499 Serguei Roubtsov 7 140 25 20 17 13 13
+500 Yoeri van de Burgt 5 142 90 14 11 9 7
+501 Murat Firat 4 140 64 34 27 9 4
+502 Mehdi Khoshgoftar 8 139 27 17 16 15 14
+504 Rajendra Dangol 6 138 41 30 24 21 8
+505 R.H.J. Vervuurt 7 140 37 26 15 13 13
+506 Tess Homan 5 136 69 39 7 6 6
+507 Daniel Tetteroo 8 135 19 13 12 11 10
+508 Shubhendu Sinha 5 134 80 24 7 6 5
+509 Thijs Peeters 3 135 126 4 3 1 1
+510 Laura Iapichino 6 132 52 19 13 12 11
+511 She Chen 8 134 20 16 15 12 11
+512 Kashif Kamran 7 132 44 21 19 14 12
+513 Abdolrahim Rezaeiha 7 131 38 25 13 12 11
+514 Robin E. M. Willems 4 131 61 30 26 14 0
+515 Mila Davids 6 128 13 11 10 8 8
+516 Simon Rommel 6 125 15 10 9 8 7
+517 Sudhir Srivastava 6 121 34 23 18 16 11
+518 Andrea Donini 6 121 38 20 16 7 7
+519 Bob Walrave 6 119 62 17 8 7 6
+520 Pooyan Sakian 6 119 42 17 13 12 10
+521 J.C. Vanegas-Acosta (Juan) 7 119 27 13 11 11 9
+522 Evgeny A. Uslamin 5 120 31 28 22 21 10
+523 Sokratis Vavilis 7 118 53 15 11 9 8
+524 Tim Hulshof 6 118 46 20 18 9 8
+525 Dr. Chen-Ket Chai 5 118 52 34 15 10 6
+526 Farideh Heidari 6 116 26 23 18 16 16
+527 Nour Assy 8 114 15 15 11 11 11
+528 Clara Stegehuis 6 115 32 29 12 10 8
+529 J. M. Schellekens 6 112 35 13 9 8 8
+530 Wang Yuyang (王昱扬) 6 112 22 22 19 17 13
+531 Firew Siyoum 6 111 28 23 14 11 10
+532 Samaneh Abbasi-Sureshjani 7 111 19 17 13 11 10
+533 Joey van Angeren 6 109 38 21 13 9 9
+534 M Nijhuis 7 110 23 11 10 10 9
+535 Alfredo Bolt 5 110 26 24 16 15 11
+536 Rudolf H. Mak 5 106 13 12 10 7 5
+537 Chunguang Chen 6 104 26 22 15 13 12
+539 Maikel Leemans 5 101 33 25 21 6 5
+540 Bart van Dijk 5 101 42 27 13 7 6
+541 Meilof Veeningen 6 99 20 17 9 7 6
+542 Mahir Asif Mohammed 5 99 30 22 16 14 10
+543 T.V. Raziman 6 99 25 20 12 12 11
+544 Michele  Chincoli 6 98 26 14 12 10 10
+545 Abhineet Gupta 7 98 11 10 10 9 8
+546 Oliver Tse 5 98 25 22 14 9 9
+547 M.Mohsin Siraj 6 97 38 13 10 7 7
+548 Jurgen van Zundert 6 94 24 22 10 9 7
+549 Cristina Caresio 4 92 45 22 18 5 2
+550 Prometheus Das Mahapatra 5 91 23 16 14 8 6
+551 Ashwin Sridhar 4 91 41 24 12 9 2
+552 Erkan Diken 4 90 34 18 11 10 4
+554 Oana Druta 3 88 32 29 15 3 3
+555 Ruben Chavez 6 88 39 10 10 9 7
+556 Rogier Wildeboer 3 88 74 6 5 1 1
+559 Maikel L. van Eck 4 86 50 14 8 5 3
+560 Harm Weerts 5 87 24 12 12 11 8
+563 Carl Megens 5 84 29 10 8 7 5
+564 Lily Frank 5 84 27 11 9 7 5
+566 Jacobus W. Portegies 6 82 18 16 14 13 8
+567 Dr. Ir. A.C.J. de Korte 5 82 26 16 12 8 6
+568 Marcel Roeloffzen 6 82 16 11 10 10 8
+569 Luyi Xu 5 81 23 19 16 13 6
+571 Wouter Engelen 4 82 30 20 13 7 4
+572 Ludo van Meeuwen 5 80 22 10 9 8 5
+573 Zhenyu Ye 4 79 36 16 9 6 4
+574 Alejandro Montes García 5 79 24 9 8 6 5
+575 Zhuozhao Zhan 4 79 29 25 11 5 4
+576 Arianna Mauretti 5 79 30 25 8 6 5
+577 Zahra Fahimi 3 78 36 23 14 3 1
+578 Shaya Pourmirza 6 78 16 15 8 8 7
+579 Raúl Pagán Muñoz 5 78 23 18 10 7 6
+580 Nikolaos Sotiropoulos 5 76 12 12 11 7 6
+583 Mark van Gastel 4 75 37 16 15 4 3
+584 Mohammad ali heidari jozam 5 75 30 13 13 6 5
+585 Erfaneh Allameh 5 75 30 13 13 6 5
+586 A.R. van Dommele 4 74 35 11 8 5 4
+587 Ruud JG van Sloun 5 74 20 16 10 5 5
+589 Gabriel Tibola 4 73 44 7 6 5 3
+590 Isja de Feijter 5 72 24 13 12 8 6
+591 Bart Hompes 4 72 22 17 10 8 4
+593 John van Weerdenburg 5 72 41 8 6 6 5
+594 Fons van der Sommen 4 71 17 16 11 7 4
+595 Hamid Reza Pourshaghaghi 5 70 18 16 11 5 5
+596 Qing Wang 4 70 14 13 10 7 4
+599 Arthur van Goethem 4 68 15 13 9 5 4
+601 Antonio Aloi 5 67 18 13 13 8 6
+602 Huaichen Zhang 5 66 12 11 9 7 5
+603 Ivo van Hooijdonk 6 66 25 12 7 7 6
+606 Sharon AM Dolmans 4 64 27 14 13 5 1
+607 M. Imran Kazim 5 64 11 9 9 6 5
+608 Arpita De 4 63 23 14 12 8 2
+609 Didem Mumcuoglu 4 61 21 15 15 4 1
+611 Özlem Gezici-Koç 4 61 25 16 11 7 1
+612 Christian Eggermont 3 59 22 17 12 3 2
+614 Yahya Jan 5 58 12 11 11 9 9
+618 Vinh T. Bui 5 57 12 8 8 6 6
+619 C.R.Prins 5 57 18 11 9 6 5
+620 Julia Efremova 5 57 11 10 8 8 7
+621 Luv Sharma 3 58 24 19 15 0 0
+622 Lesley G.A. de Putter-Smits 3 57 28 17 7 2 2
+623 Syed Rehan Afzal 3 56 27 10 9 3 2
+625 Michiel Beijen 4 56 14 10 10 6 4
+626 Feihu Zhao 4 55 24 15 7 4 2
+627 Lennart Blanken 5 55 12 10 9 7 5
+630 Chi Zhang 4 54 25 8 5 5 3
+632 Peter Ruijten 4 53 11 9 6 6 4
+633 Koen Eppenhof 5 54 17 11 9 6 5
+641 Samaneh Khoshrou 5 49 11 11 7 7 5
+642 Alok Lele 4 49 18 8 6 4 4
+643 Fabio Cecchi 5 49 13 13 6 6 5
+645 Amin Delparish 4 50 34 5 4 4 3
+647 Josh Mengerink 4 47 11 8 6 5 4
+648 Noud Maes 3 47 20 12 5 3 2
+649 Ali Al-Rawi 4 46 16 6 6 6 4
+650 wanshu zhang 4 46 19 9 5 4 4
+653 Akhil Sharma 3 45 26 13 3 2 1
+654 Priscilla Brandão Silva 3 43 11 10 5 3 3
+655 Önder Babur 5 43 9 7 6 6 5
+656 Samaneh Tadayon Mousavi 4 43 17 14 5 4 3
+659 Javier Quevedo Fernández, PhD 4 41 14 10 8 4 2
+661 Karin Niemantsverdriet 3 40 19 9 5 2 2
+662 Jori Selen 3 40 15 8 5 3 3
+663 Maximiliano Udenio 2 40 29 4 2 2 1
+665 Sándor Kolumbán 3 39 16 4 4 3 3
+667 Giuseppe Belgioioso 4 39 13 9 7 6 3
+668 Naseh Hosseini 3 38 11 7 7 3 3
+669 Alifah Syamsiyah 3 38 18 8 5 2 2
+671 Elisabeth van Dijk 4 38 11 9 7 5 4
+672 Pepijn B. Cox 3 38 16 6 6 3 2
+673 Karel Antonie van Laarhoven 4 37 13 11 6 4 2
+674 Eduardo González-López de Murillas 2 36 20 12 12 2 1
+675 Xiong Deng 3 36 16 7 6 3 2
+676 Chetan Belagal Math 4 36 10 5 5 4 3
+679 Dzmitry Pustakhod 3 35 6 6 4 3 2
+682 Bin Chen 4 34 6 6 6 6 6
+683 uğur göktolga 3 35 13 12 8 2 0
+684 Sangye Lungten 4 34 8 8 6 5 4
+686 Zobenica Žarko 3 34 20 4 3 1 1
+690 Marcella Porru 4 33 8 6 5 5 2
+694 Rohan Joshi 3 32 9 8 3 3 2
+696 Hrishikesh Salunkhe 3 32 11 8 4 2 2
+699 Renata Medeiros de Carvalho 3 31 7 5 5 3 3
+700 Stefan Heijmans 3 31 6 6 4 3 3
+701 Tiago M. Fortunato 3 31 12 9 7 2 1
+702 Guruprasad Krishnamoorthy 3 31 11 10 7 3 0
+703 Shauvik De 4 31 11 8 5 5 4
+705 Yuti Ariani Fatimah 3 30 8 7 6 3 2
+706 Sava Marinkov 3 30 7 7 5 3 3
+707 Britt Mathijsen 4 30 7 5 4 4 4
+710 Viyathukattuva Mohamed Ali Mohamed Mansoor 3 29 13 10 4 1 1
+711 Abdelkerim Amari 3 29 11 6 3 3 2
+712 Nick Brettell 3 29 8 7 4 3 2
+713 M. Curti 3 28 16 7 3 1 1
+715 Rohit Maitri 2 27 14 3 2 2 2
+716 Siddique Baig 3 27 7 6 6 2 1
+719 Marija Nakevska 3 26 9 6 6 3 1
+723 Elena M Tur 2 26 16 5 2 1 1
+724 Minou Weijs-Perrée 3 26 9 9 3 2 1
+726 Diptanil DebBarma 3 25 4 4 3 3 3
+727 Bram van der Sanden 3 26 8 6 4 3 2
+728 Willem P. Sanberg 3 25 9 8 6 1 1
+729 Yifei Xu 3 25 14 5 4 2 0
+730 Solomon Wassie 3 25 11 7 3 3 1
+731 Shan Nan 3 24 10 5 4 2 2
+732 Tijn van de Ven 2 24 22 2 0 0 0
+736 Chao Wang 3 23 7 5 4 3 2
+739 Sarmen Keshishzadeh 2 22 10 5 2 2 1
+740 Leo Hatvani 3 22 7 4 4 2 1
+741 Pierre Nyquist 3 22 9 6 5 1 1
+742 Mendel Broekhuijsen 3 22 9 5 5 1 1
+743 Nikhil Kumar 3 22 8 6 3 3 2
+744 Joke Keijsers 2 22 15 3 2 1 1
+746 Ulyana Tikhonova 2 22 10 4 2 2 2
+752 Anil Yaman 3 20 7 4 3 2 1
+754 Alejandro Osses 3 20 7 5 3 2 1
+756 Florent Gauvin 2 20 8 8 2 2 0
+759 B.J.H. de Bruyn 3 19 4 4 3 3 2
+760 Ankit Kumar 2 19 10 4 2 2 1
+761 Willem Michael Sonke 2 19 14 3 1 1 0
+763 Valentina Bonito 3 19 7 4 3 3 2
+766 Ravi Shankar Singh 3 18 6 5 4 2 1
+771 Bas Vermulst 3 16 5 4 3 3 1
+773 Mustafa Ümit Arabul 3 15 4 3 3 2 1
+775 misha croes 2 15 7 4 2 1 1
+782 Robin de Rozario 2 14 3 3 2 2 1
+789 Fanyu Meng 3 13 4 3 3 2 1
+791 Gabriele Papini 3 12 4 4 3 1 0
+796 Stepan Lorencik 2 11 8 2 1 0 0
+801 Roger Fonolla Navarro 2 10 7 2 1 0 0
+810 Qadeer Alam 2 9 3 3 2 1 0
+817 Xipei Ren 2 8 4 2 1 1 0
+820 Miguel Botto-Tobar 2 7 3 2 1 1 0
+853 T.T. Veeger 1 4 1 1 1 1 0
+865 Freek Meulman 1 3 3 0 0 0 0
+872 Alvaro Morales 1 3 1 1 1 0 0
+875 Maqsood Ameen 1 2 2 0 0 0 0

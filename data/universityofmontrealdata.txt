@@ -1,0 +1,760 @@
+1 Yoshua Bengio 117 123959 13310 8620 5611 4108 4008
+2 Legendre P* 98 91516 16162 16067 6264 3614 3373
+3 Rouleau J 117 87621 8792 6664 5215 3818 2744
+4 Richard E. Tremblay 117 48878 1679 1469 1129 998 740
+5 Gilles Brassard 57 44650 12416 7498 2645 2210 2155
+6 Jacques Montplaisir 114 44100 2700 2700 1372 1372 1071
+7 John D. Rioux 79 41529 2832 2736 2491 2415 2028
+8 Frank Vitaro 95 29788 1679 1229 740 574 513
+9 Michel Bouvier 93 29128 848 841 727 666 633
+10 pavel hamet 84 26684 660 644 575 492 491
+11 Marc Prentki 86 26552 2942 1462 868 722 700
+12 Hervé Philippe 86 26046 1242 991 911 817 628
+13 Isabelle Peretz 84 25017 893 806 699 622 553
+14 Aaron Courville 50 24311 4108 3879 3495 1893 1387
+15 Richard Martel 57 22829 3453 1489 1450 1009 944
+16 Stephen Michnick 52 22404 11115 748 714 621 435
+17 Maxine Sun 65 20836 328 279 277 270 259
+18 Pascal Vincent 33 20110 3641 3495 2600 2443 1387
+19 Sébastien Roy 36 19956 719 191 138 104 93
+20 G Lavigne 74 19329 1372 913 782 609 519
+21 Daniel Gaudet 61 18545 2053 1452 1070 889 668
+22 Jason Rowe 72 18510 1590 879 823 704 564
+23 André Blais 69 18370 1515 733 660 483 462
+24 François Lespérance 47 18087 2609 2098 1097 827 732
+25 Pierre Thibault 72 17106 773 573 495 467 311
+26 B. Franz Lang 64 16960 1907 630 629 573 494
+27 Damian Labuda 60 16093 5098 519 444 314 286
+28 John F. Kalaska 56 15789 1873 779 719 639 636
+29 André Lacroix 58 15036 1716 1193 1178 721 661
+30 Réjean Hébert 65 13982 1227 687 412 407 376
+31 Christopher Rudd 64 13663 789 572 569 486 473
+32 Pierre L'Ecuyer 60 13202 784 684 475 377 352
+33 Philippe P. Roux 37 12689 2267 1271 1036 710 684
+34 jennifer o'loughlin 60 12656 1177 492 331 329 254
+35 David London 57 12581 1116 1019 523 461 423
+36 Guy Sauvageau 50 12457 1578 749 660 599 541
+37 Louise Potvin 55 12371 614 591 406 362 357
+38 Gertraud Burger 51 12336 1907 630 629 573 494
+39 Jane Jenson 56 12252 690 649 422 301 298
+40 Rene Doyon 52 12105 1479 769 670 455 408
+41 Vincent Poitout 52 11785 880 874 818 535 523
+42 Pierre Rainville 43 11723 2655 647 585 527 515
+43 Belleville, Sylvie 52 11039 1968 377 373 335 296
+44 Jean-Louis Denis 47 10952 909 647 629 506 407
+45 Sébastien Sauvé 53 10923 1005 720 383 383 330
+46 Kouaouci Ali 12 10917 5655 3358 914 337 218
+47 Katherine Borden 56 10722 759 525 481 393 379
+48 Yves Joanette 51 10226 999 755 449 322 306
+49 daniel sinnett 56 10079 941 314 283 280 259
+50 François Audibert 50 9732 778 475 360 317 291
+51 Alexandre Prat 51 9642 1207 423 367 337 318
+52 Janusz Kaczorowski 50 9497 503 335 309 257 251
+53 Trang Hoang 43 9476 4269 432 218 191 189
+54 Sebastien Jacquemont 47 9366 792 623 522 463 442
+55 Benoît Mâsse 43 9318 846 826 583 501 389
+56 Dzmitry Bahdanau 13 9325 4008 2943 1039 363 254
+57 James D. Wuest 49 9196 720 526 447 435 255
+58 X. X. Zhu 47 9130 1231 682 321 269 143
+59 Patricia Conrod 50 9123 340 307 287 276 262
+60 Kevin J. Wilkinson 52 8759 529 424 392 390 267
+61 Jean-Claude Lacaille 55 8732 399 335 322 299 298
+62 Pierre Chaurand 43 8675 1096 625 344 334 322
+63 Julio C Fernandes 45 8351 1061 528 463 430 388
+64 Jian-Yun Nie 42 8284 533 516 516 397 383
+65 Christian Stapf 45 8242 795 551 469 336 318
+66 Maria Victoria  Zunzunegui 46 8236 511 276 243 208 194
+67 Josee Harel 52 8154 299 226 217 200 183
+68 Luc Leger 33 8058 1831 1418 567 481 340
+69 Marie-Pierre Dubé 43 8071 1020 385 385 349 296
+70 Jean-Philippe Gratton 36 8032 2567 553 522 338 304
+71 David Lafreniere 41 7930 1479 670 455 283 253
+72 Elie Haddad 47 7758 665 294 281 261 259
+73 Prince Francois 37 7730 1279 913 757 412 376
+74 Pascal Lamblin 10 7734 3107 1875 1148 660 257
+75 DC Roy 42 7697 947 804 473 450 388
+76 Vincent Larivière 41 7223 561 393 359 344 267
+77 Nicolas Chomont 41 7120 1316 970 403 269 217
+78 François Cooren 40 7087 571 544 378 353 348
+79 Jocelyn Dupuis 38 7062 975 761 697 359 317
+80 Francis Rodier 24 7063 1572 1144 1068 373 372
+81 Sylvana COTE 47 7000 538 291 264 236 228
+82 Jean Séguin 45 6985 1073 998 350 338 246
+83 Jean Grondin 33 6930 1333 768 633 345 241
+84 Richard Nadeau 48 6876 364 282 266 242 221
+85 Caglar Gulcehre 19 6842 2943 1450 460 332 238
+86 Frédéric Gosselin 36 6747 1345 599 501 385 370
+87 Bruce Murphy 43 6716 300 274 185 182 171
+88 Daniel Lajeunesse 45 6643 1028 419 338 224 199
+89 Marc Amyot 40 6563 1393 340 330 303 253
+90 Deal C 41 6482 527 464 419 240 227
+91 Gerardo Ferbeyre 38 6472 694 615 560 376 326
+92 Paul Allard 38 6426 1643 757 314 234 187
+93 Luc DesGroseillers 44 6391 387 287 232 228 221
+94 Guy Cloutier LBUM-CRCHUM 43 6361 260 173 164 152 133
+95 Christine Vande Velde 23 6301 1292 1214 622 489 323
+96 Trevor Drew 48 6283 289 280 264 238 197
+97 Genevieve Mageau 29 6191 1264 1130 409 331 274
+98 Michel Cote 32 6102 1847 1436 256 178 164
+99 Tore Nielsen 43 5942 428 374 260 212 189
+100 Thierry Alquier 23 5899 2554 1530 250 238 143
+101 Normand Mousseau 45 5884 411 231 221 214 206
+102 Paul Cisek 33 5827 779 719 628 443 281
+103 Pierre Pagé 40 5747 281 264 262 245 215
+104 Affar El Bachir 29 5723 1984 613 449 360 332
+105 David Morse 39 5684 801 243 235 199 192
+106 Puttaswamy Manjunath 43 5677 271 269 229 224 218
+107 Lucie Richard 35 5664 758 614 312 297 296
+108 Daniel Bourbonnais 43 5624 341 279 265 259 193
+109 Laurent Lewis 36 5529 463 320 297 284 244
+110 François Péronnet 37 5499 794 243 233 190 186
+111 Louis Gaboury 36 5472 491 390 370 353 319
+112 Guy Lapalme 35 5388 1343 238 163 152 150
+113 Sophie Bergeron 40 5389 552 277 245 227 209
+114 Jean DaSilva 39 5345 405 272 255 243 239
+115 Claude Perreault 44 5329 266 210 176 157 118
+116 Annie Bernier 36 5315 895 301 290 264 226
+117 Daniel Lamarre 34 5220 993 342 280 255 227
+118 Pierre Haddad 39 5036 252 161 158 151 151
+119 Devendra Amre 35 5017 1642 225 204 188 144
+120 Raynald Bergeron 22 4957 1498 585 524 372 359
+121 nathalie grandvaux 33 4944 1293 436 226 223 204
+122 Garry Hanan 37 4944 340 264 264 213 202
+123 Nathalie Arbour 34 4841 1207 603 367 305 161
+124 Walter Bossert 35 4798 352 235 202 182 176
+125 Luc Vinet 37 4779 216 178 155 135 111
+127 Sherjil Ozair 5 4671 4108 521 17 7 7
+128 Sheila Laverty 36 4594 601 279 170 152 142
+129 Pascal Chartrand 32 4563 1078 615 206 200 142
+130 Michel Janosz 29 4566 565 420 412 360 340
+131 Christopher Bryant 29 4528 448 430 371 319 211
+132 Ryszard Grygorczyk 35 4485 358 323 279 256 244
+133 Etienne Laliberté 31 4507 1020 449 385 319 124
+134 Louis-Eric Trudeau 40 4479 395 218 210 144 129
+135 Thierry Karsenti 33 4481 427 216 214 189 177
+136 Alain Tapp 23 4442 996 610 358 273 246
+137 Bernard Charlin 36 4359 405 329 313 181 156
+138 Jean-Marc Lavoie 36 4343 212 183 131 126 121
+139 Tania Lecomte 29 4327 945 376 201 181 169
+140 Andrea Bianchi 34 4250 584 297 295 253 122
+141 Claing, Audrey 31 4226 630 583 316 265 187
+142 Marc St-Arnaud 34 4232 424 317 302 197 169
+143 Daniel Martineau 36 4214 276 245 239 236 205
+144 Naglaa H. Shoukry 28 4130 820 595 331 254 226
+145 Christian Baron 36 4116 380 205 190 179 162
+146 Jean Proulx 39 4083 187 186 178 173 170
+147 José Côté 21 4012 1556 1090 182 96 92
+148 Yan Kestens 34 4005 357 195 156 147 142
+149 Miklós Csűrös 22 3941 1474 1067 179 150 102
+150 Daniel Zenklusen 28 3937 535 509 352 326 189
+151 Antonella Badia 30 3929 402 360 333 311 232
+152 Lan Xiong 26 3919 601 356 332 296 244
+153 Frédéric Bastien 11 3887 1875 1148 253 238 150
+154 Bernadette Pinel-Alloul 35 3870 220 205 172 146 132
+155 Sebastien Lemieux 29 3856 390 347 255 217 210
+156 Houari Sahraoui 32 3858 240 175 168 140 122
+157 Jacques Brisson 31 3830 563 256 214 196 178
+158 Alan S. Hazell 35 3821 367 321 244 151 136
+159 Pascale Lehoux 33 3824 294 219 178 174 173
+160 Marek Jankowski 32 3811 295 242 226 192 185
+161 Stefan Parent 34 3786 226 185 185 128 119
+162 Jean-Yves Lapointe 35 3742 257 150 136 118 108
+163 Katherine L. Frohlich 26 3733 591 406 357 295 256
+164 Christophe Faure 34 3695 339 222 138 122 106
+165 Pierre McDuff 30 3673 470 228 197 197 168
+166 Pascale Legault 30 3671 548 354 271 211 179
+167 C Elaine Chapman 37 3630 212 197 183 179 147
+168 Luc Proteau 34 3634 291 239 222 160 144
+169 Simon Warby 25 3587 619 354 310 200 189
+170 Bruce G. Allen 37 3555 203 162 157 138 122
+171 Susan R Stock 25 3554 381 361 301 252 215
+172 Joelle N Pelletier 31 3496 459 413 231 226 142
+173 Soudeyns Hugo 27 3472 711 321 273 241 206
+174 George Ross 27 3465 993 173 158 153 134
+175 Serge Brochu 27 3458 631 327 192 155 137
+176 B. Jesse Shapiro 18 3438 2045 275 227 167 102
+177 Franca Cortoni 26 3428 662 524 305 196 166
+178 Bernard Chapais 34 3424 451 302 153 126 124
+179 Maryse F. Bouchard 24 3412 454 409 383 301 228
+180 Pierre Poulin 30 3330 378 287 279 175 130
+181 Benjamin H. Kwok 16 3323 951 493 485 215 201
+182 Roger Lippé 18 3286 1045 563 384 270 199
+183 Alexandre Poppe 15 3299 2432 154 154 136 77
+184 Trottier Helen 22 3271 800 303 265 192 168
+185 Anne Bruneau 34 3257 254 207 185 129 124
+186 Christopher F. Rose 34 3246 259 184 180 141 140
+187 Andrés Finzi 27 3241 891 185 177 141 132
+188 Sylvie Lesage 23 3192 786 342 302 284 200
+189 Antonio Zadra 32 3167 273 230 144 143 135
+190 Forget Robert 33 3161 414 186 175 138 103
+191 Claude Frasson 27 3159 148 132 98 94 72
+192 Patrick Dufour 29 3070 233 209 208 139 134
+193 Hijri Mohamed 27 3059 327 314 224 217 169
+194 Dave Ellemberg 28 3021 352 218 181 173 170
+195 Simone Dalla Bella 26 2965 425 381 310 197 194
+196 Max Mignotte 29 2958 264 217 185 160 123
+197 Mira Johri 20 2941 612 358 357 311 194
+198 Eric Lacourse 27 2909 271 247 217 207 191
+199 Marcel Boyer 28 2833 242 180 120 111 110
+200 Francois Courchesne 26 2797 229 187 148 123 115
+201 jean-francois masson 32 2788 124 101 99 94 91
+202 Isabelle Contant 25 2769 370 271 232 150 148
+203 Karim Jerbi, PhD 26 2754 262 217 177 123 120
+204 Sven Joubert 24 2738 605 211 184 153 118
+205 John M. Pascal 26 2712 281 251 225 191 162
+206 Carlo Morselli 24 2706 473 238 150 143 141
+207 Dindial Ramotar 28 2692 227 209 107 105 102
+208 hafid 25 2667 240 188 80 73 71
+209 Geneviève Boucher 19 2657 970 448 197 158 141
+210 Thierry Maris 28 2613 234 150 141 127 98
+211 Céline Fiset 25 2610 528 171 157 145 128
+212 Sophie Parent 21 2611 618 337 224 164 119
+213 Miriam Beauchamp 26 2611 349 154 152 150 114
+214 Andree Demers 25 2557 324 212 188 171 160
+215 Alain Marchand 27 2534 212 199 173 171 167
+216 Richard Leonelli 24 2534 425 204 189 111 65
+217 Miguel Chagnon 22 2532 1237 103 95 65 65
+218 Simon Lacoste-Julien 21 2478 490 392 236 221 126
+219 Alexis Vallée-Bélisle 27 2427 430 210 142 115 110
+220 May Faraj 21 2404 550 495 172 158 80
+221 Jason Andrade 26 2380 373 317 112 104 100
+222 Roxane Maranger 24 2371 269 216 196 180 119
+223 Bettina Mucha 15 2341 509 450 378 179 157
+224 Jean-François Bouchard 29 2328 208 173 147 142 137
+225 Karen C Waldron 22 2294 1035 103 101 81 74
+226 Guy Grimard 25 2263 225 209 144 102 97
+227 Yves Sprumont 23 2258 446 321 230 132 95
+228 suzanne laberge 26 2253 300 139 125 119 106
+229 Numa Dancause 20 2243 597 276 237 121 113
+231 Marine Carrasco 19 2208 502 284 251 146 121
+232 Arlette Kolta 24 2201 459 189 149 93 90
+233 Rafael Najmanovich 23 2166 302 213 207 188 131
+234 Guy Lemay 25 2108 173 171 114 103 97
+235 Johnny Deladoey 24 2100 204 199 133 122 121
+236 Esma Aimeur 27 2073 148 132 88 75 73
+237 Rene Carbonneau 17 2065 498 231 191 140 137
+238 Stephanie Fulton 19 2054 542 416 199 136 123
+239 Yves Charles Morin 24 2005 167 89 86 67 65
+240 Natalie Castellanos Ryan 22 1999 258 220 183 175 122
+241 Frederick Aardema 28 1997 177 132 127 106 92
+242 Sami Haddad 24 1983 203 107 102 101 101
+243 Vincent Dumoulin 14 1962 500 270 269 262 158
+244 Bryn Williams-Jones, PhD 23 1926 144 131 127 112 80
+245 Isabelle Royal 15 1922 298 272 264 210 194
+246 Marie Lordkipanidze 22 1914 509 144 97 73 71
+247 Francis Beaudry 25 1914 100 83 77 75 70
+248 Denis deBlois 24 1984 166 127 106 104 102
+249 Stephane Molotchnikoff 22 1838 130 95 80 61 52
+250 Jean-Philippe Thérien 19 1833 296 219 174 163 147
+251 Guylaine Le Dorze, G Le Dorze, G LeDorze, G L Dorze, Guylaine LeDorze 25 1823 270 83 73 72 68
+252 Marta Massanella 21 1818 474 155 96 90 82
+253 Julie L Lavoie 19 1814 487 321 321 117 84
+254 Marc Ouimet 21 1817 173 157 113 90 90
+255 Nathalie M. G. Fontaine 15 1807 248 242 192 174 147
+256 Benoît Dupont 20 1782 213 193 147 106 91
+257 Patrick L. Hayes 26 1777 223 223 126 86 73
+258 Gilles Hickson 20 1773 289 263 160 136 119
+259 Nadia Gosselin 23 1766 206 157 101 94 94
+260 Philippe Comtois 21 1757 186 149 148 126 118
+261 Xavier Banquy, Ph.D. 22 1737 179 140 137 119 110
+262 Shu Qin Wei 22 1722 270 206 205 131 128
+263 Frédérick A. Mallette 19 1714 376 225 195 122 102
+264 Benoit Perron 14 1710 808 134 120 84 57
+265 Beatrice Godard 21 1704 174 121 90 87 78
+266 Anne Crocker 23 1674 213 119 107 78 63
+267 Vincent Jacquemet 22 1673 121 118 102 101 83
+268 Jo-Anne Wemmers 22 1671 192 146 102 77 76
+270 Frank Schaper 24 1653 139 117 82 62 62
+271 El Mostapha Aboulhamid 22 1643 100 75 73 57 54
+272 Bernhard Thomaszewski 24 1610 154 128 101 98 80
+273 Patrick Fournier 20 1611 159 149 144 120 113
+274 Simon Joly 19 1602 262 130 129 117 97
+275 Pierre L. Levesque 15 1582 425 253 253 229 106
+277 Frédéric Mérand 18 1546 296 192 95 86 82
+278 Lachaine Jean 20 1536 175 118 96 74 65
+279 Salah Rifai 11 1516 666 166 130 119 117
+280 Christopher B. Cameron 17 1514 370 230 202 79 78
+281 Lauren M. Weiss 15 1515 333 310 173 122 105
+282 Bernhard Lehnertz 7 1505 1090 114 85 82 59
+283 Daniel Robichaud, Ph.D. 14 1492 348 331 263 149 71
+284 Gérard Gaudet 19 1488 170 126 125 100 94
+285 Nathalie Alos 21 1484 271 186 118 88 71
+286 Gregory Emery 16 1453 287 274 152 93 85
+287 William Witczak-Krempa 16 1445 486 256 86 81 61
+288 Isabelle Ouellet-Morin 19 1433 190 169 120 112 101
+289 Dana Schlomiuk 23 1427 193 168 65 62 58
+290 Marc Lavoie 19 1409 291 148 133 118 100
+291 Maxim Moreau 24 1404 191 80 79 58 51
+292 Francois Tournoux 17 1379 281 224 220 67 66
+293 Dany Gagnon 21 1378 116 68 60 59 57
+294 Johanne Collin 20 1372 179 124 114 67 65
+295 An Tang 21 1375 173 95 73 59 57
+296 Serge Sultan 21 1371 116 108 88 63 59
+297 Iulian Vlad Serban 13 1375 381 269 166 160 127
+298 Jean-Sébastien Boudrias 20 1367 165 93 89 73 65
+299 Elvire Vaucher 21 1349 178 114 104 90 78
+300 emanuela cardia 17 1347 214 196 141 134 101
+301 Kelley Kilpatrick 24 1354 99 78 67 64 64
+302 Grégoire Mesnil 10 1348 246 238 198 176 130
+303 Marie-Pierre Sylvestre 19 1341 154 129 97 86 80
+304 P. A. Mathieu 20 1331 109 108 79 72 72
+305 Timothée Poisot 19 1334 169 138 112 107 107
+306 Roberto Araya 15 1321 243 229 152 128 93
+307 Serge Lecours 17 1302 259 227 98 94 72
+308 Roxane de la Sablonnière 17 1289 335 93 78 69 69
+309 Samaha Anne-Noel 14 1280 218 187 176 110 90
+310 Christian Pellerin 21 1267 133 107 44 44 42
+311 Vardit Ravitsky 17 1259 268 126 92 62 48
+312 Daniel Sznycer 11 1251 390 176 156 147 145
+313 Jérôme del Castillo 17 1228 317 90 79 54 48
+314 Guillaume Alain 13 1226 238 237 212 185 99
+315 Jinqiang Zhang 13 1216 365 356 201 51 49
+316 Bertrand Routy 10 1219 584 163 118 90 77
+317 Gonzalo Lizarralde 17 1211 329 107 86 71 45
+318 Isaac Jacques Kadoch 19 1201 191 127 79 69 68
+319 Gareth Lim 14 1198 237 179 141 127 122
+320 Ana Ines Ansaldo 20 1195 123 73 62 61 56
+321 Mickael Begon 18 1183 112 110 66 50 48
+322 Roch Roy 18 1181 115 108 97 84 72
+323 Veronique Dupere 18 1187 184 113 90 82 75
+324 Adrian Serohijos 18 1179 349 115 96 67 57
+325 Julien Riel-Salvatore 15 1172 278 151 132 90 62
+326 David Laperrière 10 1172 516 270 106 84 69
+327 sophie breton 16 1171 206 118 116 94 82
+328 Olivier Boucher 15 1172 171 154 116 111 68
+329 Laurent Dinh 10 1173 336 238 192 108 90
+330 Naeem Bhojani 18 1165 260 101 74 58 51
+331 Sylvie Cossette 16 1158 166 139 96 88 65
+332 Malek Batal 18 1149 110 89 81 66 64
+333 michel Alain Danino 17 1144 81 73 45 43 39
+334 Hiroyuki Kobayashi 15 1138 316 131 98 96 81
+335 Eric Montpetit 19 1131 60 59 55 54 52
+337 François Desmeules, PT, PhD 18 1106 165 127 99 79 60
+338 Soledad Miranda-Rottmann 10 1100 410 180 157 118 49
+339 Dmitriy Serdyuk 8 1105 363 292 254 128 18
+340 Gregory Lodygensky 16 1089 174 157 124 77 76
+341 Kathryn Furlong 15 1088 300 110 110 90 76
+342 Dominique Scarfone 17 1083 119 91 71 62 59
+343 Michael Huberman 16 1072 183 145 113 107 81
+344 Buczinski 16 1071 91 49 46 45 44
+345 Martin Chicoine 17 1069 215 213 77 44 33
+346 Jean-Pierre Guay 14 1063 316 121 75 67 61
+347 Jean-Philippe Reid 13 1060 186 181 160 129 111
+348 Daniel Valois 14 1056 348 144 87 48 44
+349 Daniel Fortier 18 1046 140 128 85 68 45
+350 Marie-Eve Mathieu 16 1047 106 100 94 73 72
+351 Simon-Pierre Gravel Ph.D. 13 1046 262 136 96 84 78
+352 Julie Talbot 14 1040 170 151 148 88 73
+353 Douglas Shiller 15 1040 281 120 117 95 59
+354 Antoine Strugarek 17 1038 117 84 66 64 64
+355 Boris H. J. M. Brummans 14 1039 152 149 120 64 62
+356 Richard Warren 15 1023 196 109 98 95 81
+357 Liam Paull 16 1019 340 85 59 50 50
+358 Jaana Vapaavuori 14 1016 465 101 63 47 46
+359 Jean-Marc Chauny 15 1016 267 97 80 50 41
+360 Patrick M.A. James 14 996 290 160 86 69 57
+361 Andre Ravel 15 973 367 70 49 41 40
+363 Daniel Gagnon 19 958 88 74 55 52 47
+364 Carl Chartrand-Lefebvre 13 947 142 99 81 70 70
+365 Tania Saba 15 947 129 128 76 64 58
+366 Olga Overbury 17 945 84 72 50 49 45
+367 M. B.  Paranjape 17 942 74 64 63 53 50
+368 Hugo Bouchard 16 932 134 122 93 70 62
+369 Daniel Curnier 15 920 337 69 48 35 31
+370 Daniel Kierzkowski 11 923 175 123 120 103 75
+371 Bertrand Allard 14 914 151 109 94 82 75
+372 Simon Lefrancois 15 911 299 117 99 61 42
+373 PANAYOTIS SOLDATOS 12 908 276 234 74 53 36
+374 Guillaume Emeriaud 14 900 177 83 71 58 49
+375 Sylvie C. Cartier 16 897 98 80 55 44 39
+376 Eugene Syriani 16 887 102 96 71 46 45
+377 Khalid Laaziri 9 880 215 213 211 111 42
+378 Matthew J. Smith 15 877 253 97 76 66 59
+379 Jean-François Lapierre 16 877 137 94 88 81 56
+380 Levon Abrahamyan 12 870 97 90 88 86 76
+381 Pierrich Plusquellec 12 865 175 171 111 84 73
+382 sebastien talbot 16 864 226 72 62 58 45
+383 Pedro M. Aguiar 17 865 71 69 45 44 44
+384 Nicolas Bousette 16 854 149 70 64 64 54
+385 Li Yao 8 858 371 237 121 37 23
+386 elsa rossignol 15 854 131 102 88 72 62
+387 Vanessa Harrar 16 846 123 89 79 72 72
+388 Olivier Blarquez 16 838 112 72 68 61 58
+389 isabelle daigneault 13 837 126 119 93 63 59
+390 simon dufour 13 833 130 125 98 78 52
+391 Alain Gagnon 18 823 104 64 49 48 46
+392 Dr K Shivaji Sharma 14 814 121 116 102 96 76
+393 Syed Ahsan Raza 12 795 279 113 72 58 43
+394 Marcio Costa 13 788 138 91 61 45 39
+395 Ruth Dassonneville 15 781 54 51 43 42 39
+396 Mylène Jaccoud 13 772 126 100 96 57 48
+397 Frédéric Bouchard 13 764 133 119 78 68 65
+398 Durand Claire 15 741 139 64 45 39 37
+399 Patrick Drouin 10 730 278 71 62 38 36
+400 Eric Plante 17 730 107 65 48 46 39
+401 David Décary-Hétu 14 728 115 68 66 44 37
+402 Pierre Duchesne 14 725 136 82 53 37 29
+403 Aarlenne Z Khan 14 710 111 110 63 44 42
+404 Bastien Gerby 11 703 153 151 80 53 52
+405 Louis-André Dorion 14 696 84 60 53 42 41
+406 Aristide Baratin 12 695 119 103 91 86 60
+407 Oscar M. Saavedra, Ph. D. 16 692 62 57 56 49 42
+408 Nathalie Bier 14 690 82 52 52 51 42
+409 Bénédicte Amilhon 9 677 149 140 110 63 58
+410 Bruno Dufour 11 676 201 97 80 75 57
+411 Patrick A. Leighton 13 671 128 95 63 54 54
+412 Ali Dirani 15 673 169 46 36 31 27
+413 marc prentki 4 651 395 181 57 17 1
+414 Marie Josee Levert 13 646 130 93 65 38 38
+415 Vincent Michalski 8 643 299 105 83 61 29
+417 Alexandre Favron 7 626 425 95 32 24 20
+418 James King 14 623 75 70 70 63 47
+419 Ying Zhang 7 608 308 79 61 60 57
+420 Gabriel Chan 13 604 88 63 58 58 54
+421 Paula W Rushton 14 603 120 78 38 35 33
+422 Harm de Vries 7 602 307 157 49 24 22
+423 Véronique Daneault 7 598 245 181 62 35 32
+424 Heng Luo 7 598 340 112 41 32 16
+425 Frederic Pitre 12 597 104 78 48 47 46
+426 Mathieu Courcelles 10 589 181 124 62 55 33
+427 Francois Perron 15 586 44 42 40 37 36
+428 Gabrielle Page 15 585 96 68 51 36 33
+429 Maryline Sicotte 10 581 185 135 96 46 34
+430 Julie Hussin 11 577 169 68 57 49 37
+431 Sonia Cellot 11 576 114 109 52 42 40
+432 Ali Ouni 14 577 87 87 76 60 38
+433 Eric Savoy 12 567 130 120 48 29 25
+434 Mathieu Dehaes, Ph.D. 13 565 127 66 63 54 38
+435 Lisa Carlesso 12 564 72 69 64 52 38
+436 Cyril Duclos 12 561 70 57 49 38 37
+437 Sandra A. Binning 15 551 68 54 54 36 26
+438 Fabian Bastin 11 547 87 79 47 42 35
+439 Laurence Bherer 15 545 65 34 31 29 23
+440 Christos Boutopoulos 15 545 72 71 49 43 33
+441 Bruno Poellhuber 10 544 117 92 51 40 37
+442 Pierre Bonnechere 11 540 155 85 34 28 27
+443 Lisa Merry 13 540 56 54 49 44 44
+444 Maxime Veillette 12 531 126 73 62 37 27
+445 Sylvie Hamel 13 522 83 67 35 33 33
+446 Kathrin Schmeisser 8 521 145 103 79 57 55
+447 Simon Rigoulot 12 522 170 45 43 39 38
+448 Sebastien Hetu 10 516 255 43 41 38 33
+449 Daniel J. St-Cyr 10 510 124 89 70 58 42
+450 Dominic Arsenault 9 507 128 105 51 39 27
+451 Jean-Pierre Marquis 10 498 88 81 64 60 46
+452 Lee J. M. Seymour 9 488 165 155 41 21 17
+453 Walter Wittich 12 485 53 35 33 29 23
+454 Guichi Zhu 14 485 79 57 46 43 40
+455 Md Ekhtear Hossain 15 484 61 59 51 39 26
+456 Mohammad Pezeshki 7 485 238 76 57 49 31
+457 roland vergilino 8 476 183 137 43 39 26
+458 Marie-Odile Benoit-Biancamano 12 473 159 39 36 32 32
+460 Michelle McKerral 13 471 60 38 37 36 27
+461 Erick Lachapelle 10 469 81 76 63 63 51
+462 Sara Tremblay 9 467 94 79 69 58 52
+463 Till van Rahden 10 464 117 60 45 41 30
+464 Marc J Lanovaz 14 459 49 48 42 35 35
+465 Antoine Payot 8 460 117 72 71 35 29
+466 Juste Rajaonson 5 457 335 63 21 14 9
+467 Arnaud Sales 13 454 68 61 38 30 26
+468 karen callahan 9 456 134 83 52 48 43
+469 Sarah Tsao 7 452 116 84 78 67 61
+470 Anne Gallagher 12 454 63 55 51 28 28
+471 Sarath Chandar 10 452 166 55 49 36 23
+472 Frederic N. Briere 13 451 86 55 45 42 36
+473 selim rashed 13 445 62 45 36 32 30
+474 Kyle Kastner 5 447 192 95 74 44 39
+475 Jean-Francois Godbout 10 438 105 60 50 45 33
+476 M. Florencia Iulita 10 435 91 63 54 49 35
+477 grisell vargas 6 432 299 28 16 9 8
+478 Milton N. Campos 9 430 102 82 46 25 21
+479 Francois T.H. Yu 10 422 82 57 51 50 29
+480 Nathan Ménard 8 420 225 46 33 21 18
+481 Jeanne Leblond 11 420 79 57 46 40 31
+482 Natalie Clairoux 5 415 246 110 24 18 7
+483 Buddha Ratna Shrestha 10 415 160 41 30 27 27
+484 Adriana Munoz 6 409 229 85 39 20 8
+485 Mathieu Coutu 10 409 126 73 37 36 27
+487 Christoph B. Stamm 8 407 127 126 35 31 26
+488 Pamela Lirio, PhD 9 405 97 67 59 52 38
+489 Tomas Dorta 10 398 113 48 26 15 13
+490 Dana F. Simon 7 391 168 85 50 32 28
+491 Sébastien Côté 7 391 206 73 64 14 10
+492 Benoît Melançon 9 387 65 40 26 17 15
+493 Cynthia E Milton 11 387 68 52 47 44 35
+494 Loes Knaapen 8 383 124 69 61 40 37
+495 Michel Coutu 9 376 64 21 19 17 16
+496 Etienne Blais 11 376 58 53 45 30 22
+497 Franziska Marie Heydenreich 8 375 125 73 62 31 29
+498 Sina Honari 7 376 238 49 26 13 11
+499 jean leclair 10 366 63 44 33 28 18
+500 Cecile Hryhorczuk 8 368 136 46 43 38 37
+501 Madjid Hadioui 8 365 89 58 45 36 33
+502 Ioannis (Yannis) Mitliagkas 10 362 89 67 34 31 19
+503 Bruno Rousseau 6 356 126 61 47 39 35
+504 Gabriel Dumouchel, PhD 12 353 58 39 33 28 26
+505 Andrée-Anne Grosset 9 352 115 58 43 26 26
+506 Arnaud Duhoux 11 350 68 41 35 31 20
+507 Brian J. Potter 10 346 77 57 35 27 19
+508 Mar Costa Hurtado 10 346 113 39 33 33 22
+509 David Thura 9 350 101 90 30 28 28
+510 Guillaume Desroches 11 342 47 39 33 31 31
+511 Jonathan Jarry 7 338 90 76 55 47 28
+512 Line Grenier 10 335 66 55 30 28 24
+513 Hani Abdeen 10 335 69 48 42 33 23
+514 David Vizcaya 8 335 118 72 35 23 22
+515 Michalis Famelis 9 331 93 52 34 27 19
+516 Matus Valach 9 328 70 56 56 30 25
+517 Christophe Abrassart 6 328 209 33 27 16 14
+518 Marc-André Ethier 10 327 21 19 17 17 13
+519 Serena Corsini-Munt 9 329 79 46 44 36 28
+520 sung vo duy 10 326 32 28 28 26 25
+521 Andrea A.N. MacLeod 10 321 49 39 34 30 28
+522 Christopher Fernández Prada 11 321 36 35 31 27 26
+523 Pullen Sansfacon Annie 11 321 43 31 29 26 22
+524 Antoine Duquette 7 318 117 86 29 28 23
+525 David Scott Krueger 6 320 90 76 47 43 41
+526 Nazmul Alam 10 314 66 64 28 28 22
+527 Scott G. Harroun 11 315 54 47 27 25 23
+528 Anne-Marie Turcotte-Tremblay 8 314 87 72 35 18 18
+529 Baudouin Forgeot d'Arc 9 307 138 33 24 18 15
+530 Gyslain Giguere 9 306 89 44 34 27 26
+531 Adèle Paul-Hus 7 301 174 28 22 13 11
+532 Guillaume Guénard 9 300 64 49 37 27 20
+533 Paolo Vitali 6 298 123 82 32 25 11
+536 Khalil Bouyakdan 6 283 169 43 30 17 16
+537 Anirudh Goyal 4 282 109 79 76 9 4
+538 Flora Luigi 7 274 67 67 58 58 49
+539 Hoda Eid 8 268 123 42 22 15 14
+541 Hudson Pacífico da Silva 9 266 46 43 17 14 13
+542 Jaakko Kauramäki 5 265 106 81 50 12 11
+543 Pierre Chalfoun 9 263 42 39 32 31 25
+544 Bal Ram Adhikari, PhD 8 259 62 42 37 24 24
+545 Liliana Perez 5 252 144 42 21 17 9
+546 Sami Benzina 9 253 74 39 31 18 16
+547 Phaedra Royle 10 249 23 22 22 21 15
+548 Caroline PEYROT 7 250 63 61 45 42 14
+549 Véronique Dagenais-Desmarais 6 241 93 58 27 17 16
+550 Marie-Pierre Bousquet 9 240 22 20 18 16 14
+551 martine therrien 6 239 92 61 27 25 24
+552 Ahmad Hamdan 10 238 37 27 20 17 16
+553 Isabelle Brault 9 241 77 27 26 24 14
+554 Zhiyuan Ma 9 235 39 32 29 27 27
+555 Francoise Provencher 7 225 95 70 17 14 8
+556 William McCausland 8 227 58 23 19 18 18
+557 Yong-Guang Jia 8 224 71 31 17 16 13
+558 Audrey Laplante 7 219 55 44 29 24 11
+559 Hamed Heidari-Vala 10 219 33 23 19 18 14
+560 Christoforos Pappas 8 218 55 39 31 29 19
+561 Fabien Dal Maso 9 214 32 27 25 19 14
+562 Eleonora Vella 10 214 45 24 22 20 19
+563 Karine Cote-Boucher 5 213 83 77 17 16 11
+564 Taraneh Javanbakht 9 212 30 29 27 26 23
+565 Nicolas Sallée 7 211 38 30 27 16 15
+566 Maher Chaouachi 9 211 42 42 26 23 20
+567 Baris Kaymak 8 212 54 44 39 21 19
+568 Phuong Nguyen Tri 9 207 35 29 25 21 16
+569 Bruno Cecyre 7 205 65 40 38 30 13
+570 Imène Jraidi 9 204 42 26 20 20 17
+571 Marc-André Deniger 8 204 44 31 25 21 18
+572 Enrique Pato 7 203 22 12 12 10 8
+573 Simon Labbé St-Vincent 5 200 110 39 15 7 5
+574 Theodore McLauchlin 5 198 58 58 57 38 20
+575 Amy E Baxter 5 196 63 60 48 7 7
+576 Yves MARCOUX 9 192 18 18 17 16 16
+577 Laure Cauchard 4 192 90 77 18 4 1
+578 Roger Gaudreault 7 193 43 33 15 14 12
+579 Anthony Estienne 5 193 78 69 20 9 7
+580 Nicholas Brereton 8 191 45 32 27 26 19
+581 François Lareau 8 184 36 26 18 16 12
+582 Guofu Xie 6 184 76 44 30 10 10
+583 Tonino Esposito 7 179 34 24 17 15 14
+584 Ben Seamone 6 178 56 43 24 22 15
+585 Tariq DAOUDA 5 177 46 44 39 30 8
+586 Audrey Roy-Lachapelle 9 178 36 25 20 19 17
+589 Chantal Gagnon 7 176 64 25 22 13 8
+590 Anne-Lise Saive 6 175 48 40 37 18 12
+591 Devansh Arpit 7 176 43 37 18 16 12
+592 Alexander Fribergh 8 176 40 21 20 15 14
+593 Delphine Bouilly 7 172 50 43 23 18 12
+594 Valérie De Rop 3 172 96 64 12 0 0
+595 Maximilian Ebert 5 172 112 15 14 10 7
+596 Afshin Jamshidi 6 172 40 29 27 12 10
+597 Philippe Poullaouec-Gonidec 9 170 35 26 17 15 15
+598 Edeline Gagnon 6 169 70 25 24 17 14
+599 Nicolas Klein 4 171 108 27 16 13 4
+600 Eric Norman Carmel 8 166 21 21 20 20 19
+601 Etty Bitton 7 165 56 29 16 13 10
+602 Marcello Vitali-Rosati 7 168 34 31 25 24 24
+603 Davide Guerra 5 163 45 43 41 10 9
+604 Aurélien Fiévez 6 163 58 38 31 16 8
+605 Frédéric Ouellet 6 161 41 22 13 12 10
+606 Edward Ou Jin Lee 5 159 71 33 16 16 6
+607 Francis Fortin 7 157 51 16 12 12 11
+608 Rasheda Arman Chowdhury 6 157 59 31 21 20 16
+609 Matthieu Ruiz 6 157 87 13 13 11 10
+610 Jean-Philippe Meloche 4 157 75 38 10 5 4
+611 Christian Nadeau 7 154 43 25 18 14 10
+612 Anastasios Maniakas 8 153 37 20 15 14 13
+613 Olivier Drouin 5 154 70 35 19 14 9
+614 Olivier Levasseur, PhD 7 151 53 19 16 11 10
+615 Morgan Solliec 8 150 36 25 19 17 14
+616 Pan Du 5 149 44 37 30 10 9
+617 Megha Sharda 6 148 59 28 16 11 9
+618 ME Schnitzer 7 142 35 22 16 15 14
+619 Daniela Quaglia 7 141 40 36 17 15 14
+620 Christine Brabant 7 140 34 19 17 16 14
+621 David Ogez 4 139 74 29 15 15 6
+623 François Graham 6 140 36 31 22 18 8
+624 Guy Lanoue 6 138 30 25 17 9 7
+625 Hanie Edalati, PhD 7 138 25 22 19 13 13
+626 Taesup Kim 5 137 31 24 23 20 14
+628 Arunprabaharan Subramanian 6 133 41 39 18 10 10
+629 Christine Dufour 6 132 31 25 16 8 8
+630 Samuel Tanner 6 132 19 19 12 11 10
+631 Haifeng Zhou (周海逢) 7 131 32 25 17 14 12
+633 basile pinsard 5 129 46 30 22 17 10
+634 Yanick Noiseux 7 127 21 19 15 11 8
+635 Maude Laliberté 7 126 37 11 10 9 9
+636 Lotfi Derbali 7 124 26 19 16 14 12
+637 Julien Bengui 6 124 43 26 17 14 8
+638 Maxime Montembeault 4 125 75 27 8 4 3
+639 Nancy Beauregard 5 123 38 25 24 11 9
+640 Sarah Cattan 8 123 24 17 16 15 10
+641 Josiane Bourque 8 122 21 16 12 11 10
+642 Stephane Moulin 6 121 16 10 10 9 8
+643 Marie-Pier Vaillancourt-Morel 6 121 32 31 16 15 8
+644 Nicolas Dupuis-Roy 5 118 54 20 12 5 5
+645 Joseph Paul Cohen 8 118 27 13 13 11 10
+646 Kaojin Wang 6 117 46 18 17 15 8
+647 Maxime Chevalier-Boisvert 6 112 51 16 14 11 9
+648 Jérôme Gauvin-Lepage 6 111 38 23 23 10 10
+649 Patrick Lavoie 6 111 45 20 13 11 9
+650 Benjamin Ducol 6 108 28 15 14 13 11
+652 Mohamed, Ibrahim 7 109 15 13 13 12 10
+654 Françoise Montambeault 6 105 27 17 11 10 9
+655 Normand Cyr 5 103 28 19 17 14 11
+656 Denis Gagnon 6 101 22 14 9 8 6
+657 Dimitris Koukoulopoulos 7 102 14 14 11 9 8
+658 Sébastien Rioux 6 102 26 17 17 16 7
+659 Paula Negron 6 99 13 11 10 9 7
+660 Evan Racah 5 102 31 19 13 10 7
+661 Vikki Ho 6 100 35 18 10 9 8
+662 Rodolphe Gonzalès 5 96 32 28 17 9 6
+663 Sébastien Giguère 5 95 27 18 12 12 10
+666 Dominic Ponton 5 95 23 22 17 17 8
+667 Caitlin Murphy 4 94 60 11 10 4 3
+668 Jérémie Prévost 6 94 21 16 10 8 7
+669 Mélanie Perroux 5 96 26 24 14 11 7
+670 Jessica A F Thompson 7 93 21 16 15 10 9
+671 Valérie Courchesne 3 90 34 29 23 2 2
+674 Andriana Bellou 5 88 31 19 12 10 9
+676 Sundaramoorthy Srinivasan 6 86 26 17 16 12 8
+677 Yassine Benhajali 5 86 31 18 13 12 9
+678 Paul Daly 4 87 25 19 17 9 4
+679 Nada El Ghorayeb 5 87 33 26 10 8 6
+683 Patrícia Dias da Silva 3 81 36 31 5 3 2
+685 Tamsin Higgs 4 81 27 19 14 8 3
+686 Naeem Komeilipoor 6 80 12 12 10 10 8
+687 Vincent Arel-Bundock 5 79 24 23 8 7 5
+688 Brigitte Stanké 4 77 29 10 6 5 4
+689 Mithra Zahedi 5 76 28 8 7 7 6
+690 Simon P. Landry 6 78 14 13 11 10 8
+691 Ngoc Duc Trinh 4 76 40 24 4 4 2
+692 Marie-Ève Daspe 6 76 20 15 10 8 7
+693 Lara Gautier 4 75 41 11 9 4 4
+694 Thibault Brulé 5 76 25 17 9 8 6
+695 zanaty marc 4 77 28 16 8 4 4
+696 Sai Rajeswar 4 78 20 20 18 5 4
+697 Shirin Behyan 5 75 34 14 6 6 5
+698 Kim Thibault 4 72 41 13 9 9 0
+699 Alexandra Bourque 2 72 62 62 6 2 1
+701 Eugene Belilovsky 6 71 17 17 11 8 8
+702 Adrian Paz Ramos 5 72 38 9 9 6 6
+705 Benjamin Michaud 3 67 45 12 8 1 1
+709 Lin Chen 5 70 16 14 12 9 8
+712 Eugen Lungu 4 65 19 17 16 7 3
+713 Gabrielle Bardall 4 64 25 12 11 6 3
+714 Iulia Badescu 5 64 16 13 11 6 6
+716 Jonathan Tremblay 4 63 25 16 12 5 3
+718 Ian Thomas MacDonald 5 62 22 13 8 6 5
+719 Marie-Jeanne Blain 5 61 15 11 10 6 6
+721 Manouchehr Zadahmad 5 60 14 10 10 7 7
+723 Guillaume Lajoie 4 60 27 10 10 4 3
+724 Eric Habib 4 59 23 13 10 5 4
+726 Antoine Leblond 1 59 57 1 1 0 0
+727 Alexandre Morin-Chassé 5 58 18 10 9 8 7
+728 Christopher Rauh 5 59 13 11 9 7 6
+729 Yaniel Torres 4 58 15 14 12 7 4
+730 Simon Bissonnette 5 56 14 13 12 9 5
+732 Stéphane Paquin 3 56 37 7 4 3 2
+733 Diane Mercier, Ph.D. 4 55 16 13 12 5 4
+734 Anindya Ghosh 3 55 26 22 3 3 1
+735 Anne Mai Walder 4 55 14 13 6 4 4
+736 Luna Vives 5 55 11 10 8 6 5
+737 Mohamed Aymen Saied 4 56 20 13 11 7 4
+738 Yasmine Yousef 5 54 14 11 7 6 6
+739 ramla ghali 5 53 8 8 8 7 5
+740 Jean-François Chartier 3 52 28 7 4 3 2
+741 Jacopo Profili 4 52 11 10 8 7 4
+742 Jordan Isenberg 2 51 34 11 2 1 1
+743 Bianca Bier 3 52 27 18 6 1 0
+744 Alexis Cournoyer 3 51 18 11 8 3 3
+745 Nayan Chanauria 4 50 18 9 9 7 3
+748 Pauline Leveille 4 49 18 9 7 4 3
+749 Dominique Grimard 3 48 24 9 6 3 3
+752 Yikang Shen 3 48 31 7 5 2 1
+753 Luc Farinas 4 48 13 10 9 4 3
+755 Arthur Lalonde 4 46 19 16 5 5 1
+757 Stefano Rezzonico 5 44 9 8 8 7 5
+762 Jonathan James 2 42 34 8 0 0 0
+764 Neil James Cook 3 42 23 6 6 3 3
+766 Mickaël Trochet 3 42 17 11 10 3 1
+773 Hermès Karemere 3 39 12 5 4 3 3
+776 Mahmood Fayazi 3 37 10 7 7 3 3
+778 Mathieu Lalumiere 4 37 17 12 4 4 0
+779 Sergio Crespo-Garcia 3 37 12 7 5 3 3
+781 Valérie Mahaut 3 37 13 10 9 2 1
+782 Régis Trapeau 4 36 18 8 4 4 1
+783 Lazhar Khelifi 3 36 10 10 5 3 3
+790 Gabriel Fauveaud 4 34 8 7 6 6 4
+792 Kevin Nolet 4 33 12 6 4 4 3
+794 Cristina Bostan 3 33 19 7 6 6 1
+798 Rémy Besson 3 30 8 5 3 3 2
+803 Marta Boni 3 28 8 7 6 3 2
+808 Simasadat Noorbakhsh 3 28 7 6 4 3 3
+809 Chaumillon Romain 3 27 14 4 3 2 1
+810 Philippe Fournier 3 26 7 6 5 2 2
+814 Annaëlle Winand 2 26 14 9 2 1 0
+816 Simon Côté-Lapointe 2 25 9 3 2 2 2
+817 Ghislain Thibault 3 25 7 5 4 2 2
+818 Laureline Chiapello 2 24 14 5 2 2 1
+822 monique clar 2 22 18 2 1 1 0
+826 Andréanne Lapointe 3 22 9 7 4 2 0
+829 Gabriel C Goyette 3 21 8 5 3 2 2
+830 Thierry Gagné 2 21 7 6 2 2 1
+832 Christiane Bailey 3 20 5 3 3 2 2
+833 Agathe Lorthios-Guilledroit 3 20 7 4 3 2 1
+835 Yves Monette 2 20 9 6 2 1 1
+841 Shamir Cassim 3 18 7 5 3 3 0
+848 Bechara Helal 1 16 16 0 0 0 0
+850 Antoine Fournier 3 16 5 4 3 3 1
+851 Amelie Therrien 2 16 8 5 1 1 1
+852 Yiorgos Alexandros Cavayas 2 16 8 3 2 2 1
+857 karine geoffrion 2 14 5 3 2 2 1
+860 Nicolas Zorn 2 14 3 3 2 2 1
+863 Nicole Valois 2 13 3 2 2 2 1
+865 Marc Pomerleau 1 13 10 1 1 1 0
+867 Lauren Fromont 3 13 4 3 3 2 1
+870 Laurent Caplette 2 12 6 4 1 1 0
+873 Katerine Grandmont 2 11 4 3 2 1 1
+876 Guillaume Fontaine 2 11 6 2 1 1 1
+881 Jean-François Daoust 2 11 7 3 1 0 0
+887 sarem sarem 3 9 3 3 3 0 0
+888 Eric Guntermann 1 9 4 1 1 1 1
+901 Elena Kulinich 1 7 5 1 1 0 0
+913 Marie-Christine Parent 2 6 4 2 0 0 0
+918 Olivier Jacques 1 5 2 1 1 1 0
+919 Maxime Berube 1 5 3 1 1 0 0
+932 Sarah Paquette 1 4 4 0 0 0 0
+953 Marc-André Maheu-Cadotte 1 3 2 1 0 0 0

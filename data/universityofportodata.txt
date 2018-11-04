@@ -1,0 +1,887 @@
+1 Alirio E. Rodrigues 74 24489 832 622 554 472 369
+2 Nuno Santos 81 23872 849 562 500 462 431
+3 Raquel Seruca 70 18259 703 674 658 548 513
+4 Manuel Sobrinho-Simões 73 17797 674 658 548 503 403
+5 José Luís Fontes da Costa Lima 54 16055 1145 669 403 385 349
+6 Andrade, P.B. 66 13946 394 331 329 316 303
+7 Jose Carlos Machado 47 13817 2917 2917 2798 2798 674
+8 Pedro G. Ferreira 22 13741 7277 2481 1293 907 437
+9 Manuel Fernando R. Pereira 53 13251 2360 580 517 494 385
+10 P P Camanho 57 12463 894 847 799 626 489
+11 Joao Morais Cabral 20 12342 6641 1902 767 704 561
+12 Jorge Mota 56 12205 310 273 230 226 196
+13 jose pais ribeiro 47 11771 1010 664 591 480 445
+14 Adelino Leite-Moreira 46 11683 2751 1042 254 253 242
+15 Antonio Amorim 53 11622 653 503 268 238 232
+16 David Pereira 35 11610 1253 1220 1131 989 857
+17 Orfeu Bertolami 54 11516 1626 454 374 344 299
+18 Félix Carvalho 55 11404 708 592 316 280 265
+19 Carla Oliveira 55 11356 775 513 503 442 332
+20 José Alberto Ramos Duarte 54 10611 708 316 313 205 180
+21 Joao Gama 47 10455 737 656 607 290 284
+22 Jaime E. Villate 12 10024 9234 264 175 65 47
+23 Fernanda Borges 51 9718 697 465 349 301 296
+24 Rui A R Boaventura 50 9617 345 282 247 226 210
+25 Maria João Ramos 43 9568 874 771 563 213 206
+26 Paula Soares 50 9553 658 404 403 398 300
+27 Victor de Freitas 56 9212 318 297 192 191 169
+28 Bruno Sarmento 44 8618 1146 440 315 304 239
+29 susana silva 38 8313 385 153 150 128 109
+30 Fernandes, P. A. 39 7736 874 771 563 206 162
+31 Carlos Vale 51 7699 195 187 152 145 143
+32 João Barros 38 7644 1202 727 592 289 256
+33 Celso Reis 48 7611 484 385 304 232 215
+34 Jorge Sequeiros 45 7603 404 398 274 239 204
+35 Luisa Peixe 45 7565 646 630 439 373 272
+36 Vitor Vasconcelos 45 7489 262 210 181 175 151
+37 Santos C OR Santos CV OR Santos MVC OR Santos MC OR Lopes Vieira C OR Vieira CL OR Vieira Santos CL 44 7268 281 256 202 191 158
+38 Eduarda Fernandes 44 7267 1145 301 280 160 158
+39 M.F.S.F. de Moura 46 7226 847 237 212 176 168
+40 Ceu Figueiredo 40 7177 701 674 548 503 499
+41 Vítor Santos Costa 32 7108 1645 461 385 187 145
+42 D. James Harris 42 7061 302 280 236 186 171
+43 João P. S. Catalão 41 6677 345 176 174 153 134
+44 Renato Natal Jorge 43 6537 275 273 268 231 190
+45 Renato Natal Jorge 43 6477 275 273 268 231 190
+46 Nuno Ferrand 45 6265 344 305 209 181 154
+47 José das Neves 37 6232 1251 687 577 482 296
+48 Aires Oliva Teles 44 6098 318 251 213 200 191
+49 Cristina Freire 42 6019 385 231 208 124 110
+50 Luisa Pereira 40 5824 653 419 308 184 174
+51 Claudio Sunkel 41 5820 575 425 232 226 187
+52 J. P. Araújo 35 5529 265 208 152 137 127
+53 M. Natália D.S. Cordeiro 41 5385 296 156 81 77 75
+54 Ana Azevedo 34 5269 713 660 230 226 197
+55 Albano Beja-Pereira 29 5265 935 356 344 305 279
+56 Eugenio Oliveira 31 5142 210 197 193 134 122
+57 João Manuel R. S. Tavares 34 5122 315 275 171 166 121
+58 Humberto Varum 37 5013 165 104 101 97 96
+59 Vítor J.P. Vilar 39 5007 226 172 165 155 129
+60 José Oliveira 41 4959 180 156 152 152 139
+61 António Augusto Areosa Martins 17 4882 3985 154 134 62 53
+62 Valdemar Máximo 35 4829 658 403 398 256 254
+63 Alexandre Santerne 38 4759 479 310 272 238 213
+64 Susana Casal 41 4739 233 221 203 183 123
+65 Aurora A.C. Teixeira 35 4733 156 139 117 110 96
+66 António S. Barros 41 4733 168 160 160 158 155
+67 São Luís Castro 26 4730 1910 542 221 187 178
+68 Luis Almeida 34 4714 394 213 178 175 110
+69 Helder Maiato 32 4684 567 486 420 384 264
+70 Carla Lopes 34 4633 302 230 174 168 142
+71 Luis F. Melo 38 4622 217 215 190 176 147
+72 Manuel Fernandes Ferreira 37 4606 238 200 161 157 140
+73 Manuel Pestana 25 4593 1585 780 425 115 113
+74 Margarida Cunha 33 4308 562 479 366 184 164
+75 A. Pedro Aguiar 33 4298 547 185 158 152 143
+76 Paula A. C. Gomes 33 4262 336 258 156 117 110
+77 João A Fonseca 30 4254 1510 135 127 109 107
+78 Álvaro Cunha 33 4147 228 219 203 193 161
+79 Pedro Beja 32 4138 776 236 167 151 144
+80 Francisco Rocha-Gonçalves 21 4090 2145 429 165 113 67
+81 J. Paulo Vilas-Boas 32 4006 142 130 115 97 95
+82 Cláudia Gomes Silva 27 3981 722 362 353 333 291
+83 Luis Paulo Reis 27 3923 302 210 182 94 75
+84 Raquel Soares 33 3918 425 320 125 116 112
+85 elsa caetano 32 3891 228 219 203 193 161
+86 Pedro L. Granja 34 3888 224 171 170 160 153
+87 M. Dulce Madeira 32 3858 709 204 131 129 126
+88 Manuel Castelo Branco 21 3791 1211 573 448 366 139
+89 Manuel António Moreira Alves 33 3769 347 210 144 141 132
+90 Rute Santos 34 3703 230 226 196 156 146
+91 José Carlos Brito 33 3674 384 131 121 121 93
+92 Carlinda Leite 29 3613 388 274 253 253 231
+93 Carla Roque 32 3533 306 273 231 218 190
+94 Pedro Pina Avelino 34 3516 161 119 118 117 104
+95 Sónia Carabineiro 35 3437 281 163 156 146 89
+96 M.A. Araújo 29 3436 160 116 109 93 84
+97 Paulo Célio ALVES 33 3379 279 181 174 129 101
+98 Fernando Noronha 28 3353 356 286 243 130 95
+99 Maria Lopes 31 3283 171 148 147 142 136
+100 Carlos Soares 24 3279 401 386 184 153 152
+101 Sergio F. Sousa 24 3231 874 771 128 124 119
+102 jorge eiras 26 3206 387 307 228 209 151
+103 Sara Cunha 33 3174 225 130 126 123 120
+104 Joao Relvas 27 3055 317 282 231 151 148
+105 Ana Camanho 26 3052 1176 238 170 115 91
+106 João M. P. Cardoso 26 3019 328 157 123 113 96
+107 maria sao jose nascimento 31 2943 385 194 170 140 135
+108 João Massano 20 2935 703 507 482 226 163
+109 Pedro F. Oliveira 30 2928 169 125 114 96 96
+110 Jose Fernandes 32 2921 225 135 126 123 120
+111 José Ferreira Gomes 30 2912 465 157 99 96 91
+112 José Fernando Gonçalves 21 2907 630 320 283 272 247
+113 Adelio ASC Machado 28 2904 345 165 141 137 126
+114 Jaime Cardoso 27 2867 222 182 141 130 108
+115 João Bernardes 29 2769 215 175 137 91 84
+116 Aurelio Campilho 23 2752 753 135 99 86 85
+117 Armando C. Oliveira 27 2743 241 202 135 133 129
+118 ana isabel pinto 26 2632 194 111 88 84 82
+119 Filipe Magalhães 23 2627 219 203 193 146 138
+120 Isabel Menezes 21 2587 696 95 85 79 76
+121 Cidália Botelho 29 2581 172 167 165 155 129
+122 Francisco Vasques 23 2556 250 122 113 100 90
+123 Pedro Nobre 29 2535 211 150 104 103 103
+124 Sandra Macedo Ribeiro 26 2527 334 269 128 118 111
+125 José F. Oliveira 27 2525 203 196 194 160 126
+126 Ana Paula Pêgo 25 2452 252 173 171 150 119
+127 Conceição Nogueira 27 2451 132 118 105 101 97
+128 Helena Peres 27 2392 318 176 149 146 125
+129 Milton Severo 23 2349 129 109 106 96 82
+130 Luís Filipe Azevedo, MD PhD 24 2344 429 347 152 120 101
+131 Alexandra Matias 25 2337 342 248 188 166 86
+132 Ricardo Jorge Lopes 19 2332 935 411 124 66 57
+133 Ines Dutra 13 2329 1645 76 57 39 37
+134 Helena Carmo 26 2307 316 256 213 97 79
+135 Isabel Cardoso 24 2300 331 278 115 114 107
+136 Fernando Lobo Pereira 25 2285 155 111 94 77 65
+137 Luís Cunha-Silva 27 2274 146 97 87 86 79
+138 Luisa Lima 23 2264 142 121 109 89 78
+139 Margarida Bastos 26 2263 331 95 84 81 81
+140 Carlos Conceicao Antonio 25 2253 310 141 129 93 84
+141 Ana Paula Rocha 17 2249 1252 210 84 72 54
+142 Pinto, AMFR 29 2230 190 125 102 87 85
+143 Cristina C. Barrias 25 2227 235 153 136 125 111
+144 Pedro Pereira Rodrigues 19 2217 737 233 183 172 126
+145 Maria D. M. C. Ribeiro da Silva 23 2211 217 199 67 51 43
+146 João Caramelo 8 2192 1992 56 29 15 14
+147 Nuno Queiroz 19 2191 595 237 212 132 103
+148 Manuel Vilanova 25 2169 255 130 117 108 82
+149 M M Santos 29 2158 140 87 85 83 82
+150 Luis Moura 13 2135 897 429 334 116 66
+151 Bárbara Peleteiro 20 2098 454 302 159 146 119
+152 Joao Freitas 18 2045 1119 97 91 70 65
+153 João  Falcão e Cunha 20 2044 320 312 181 114 96
+154 R. Faria 22 2042 401 289 155 138 98
+155 José Pires 21 2039 426 241 213 119 92
+156 José Manuel Amarante 22 2019 228 158 125 100 79
+157 Pedro Gomes 23 2012 130 93 77 63 55
+158 Ricardo João Cruz-Correia 21 2007 541 122 95 83 79
+159 Sara Cristina Antunes 26 2005 153 146 86 80 78
+160 Lia Patrício 15 1997 473 320 312 208 181
+161 Paulo Correia-de-Sá 25 1993 154 134 125 77 74
+162 Octávio Figueiredo 12 1991 651 379 338 202 183
+163 M I Carvalho 17 1970 803 303 152 143 70
+164 Pedro J. B. Pereira 23 1961 334 102 95 83 82
+165 Pedro Oliveira 25 1949 235 132 92 85 83
+166 Luis Lopes 22 1935 95 88 76 63 58
+167 Gleb Kakazei 22 1894 216 130 101 99 90
+168 Joao Oliveira Ventura 24 1874 111 81 70 60 56
+169 Andre Pereira 22 1869 208 137 111 85 83
+170 José Paulo Andrade 26 1863 111 108 91 76 72
+171 Bernardo Almada-Lobo 27 1848 138 123 90 88 85
+172 João Paulo Cunha 20 1830 179 126 110 78 64
+173 P. A. S. Jorge 25 1819 148 113 93 87 67
+174 Abilio M. P. de Jesus 23 1818 184 85 82 66 65
+175 Elisio Costa 22 1755 114 93 58 56 55
+176 Paula Sampaio 21 1754 248 180 125 125 111
+177 Bruno F. Machado 19 1753 640 161 125 84 74
+178 Deolinda Flores 22 1745 258 120 106 80 66
+179 Pedro Ribeiro 25 1737 106 90 87 77 72
+180 Ana Mendonça 18 1737 753 99 85 71 63
+181 Natividade Vieira 24 1731 87 85 76 65 55
+182 Alexandra Moreira 17 1685 425 168 167 131 97
+183 Michel Ferreira 19 1672 289 142 138 89 80
+184 José António Sarsfield Cabral 14 1669 676 445 443 115 55
+185 PALS Martins 18 1656 306 268 218 122 65
+186 Carla Novais 20 1638 439 119 98 77 76
+187 João Tiago Guimarães 23 1616 168 98 74 74 56
+188 António Arêde 21 1601 71 53 53 51 49
+189 Salomé S. Pinho 17 1592 484 176 125 116 85
+190 Luis M. Cunha 22 1580 187 111 98 96 96
+191 Nuno M. F. S. A. Cerqueira 24 1579 120 107 87 81 80
+192 Cláudio Monteiro 17 1578 383 147 142 97 76
+193 Alda Sousa 24 1562 173 120 98 94 85
+194 Alípio Jorge 20 1555 184 124 74 70 40
+195 João Tomé Saraiva 21 1522 158 95 85 82 73
+196 Luísa Bastos 20 1514 125 107 94 83 72
+197 Andre Marcal 17 1506 215 182 181 83 51
+198 Claudia Camila Dias 20 1500 294 152 144 70 61
+199 Campos, J.B.L.M. 21 1500 135 102 87 85 82
+200 Paulo Pinho e Costa 20 1494 230 146 86 45 43
+201 João Mário Pedro 8 1482 687 296 162 97 89
+202 Joana Figueiredo 21 1461 176 167 96 85 78
+203 Raquel Godinho 23 1454 98 92 84 83 82
+204 Marina Dolbeth 21 1451 145 131 99 92 72
+205 Rosaldo J. F. Rossetti 21 1449 113 54 50 47 42
+206 Neftalí Sillero 20 1448 173 128 115 84 81
+207 Susana Caldas Fonseca 14 1443 610 127 122 79 78
+208 Carlos Afonso 21 1439 81 76 70 66 61
+209 José Melo-Ferreira 20 1418 181 124 101 99 98
+210 Sérgia Velho 16 1401 332 172 146 142 74
+211 José Luís Cabral de Moura Borges 13 1391 577 125 117 87 72
+212 Paulo J.V. Garcia 20 1382 175 113 95 81 79
+213 João Teixeira Lopes 17 1376 132 116 112 80 52
+214 Mario Cunha 20 1376 76 69 67 51 45
+215 Manuel Barbosa 20 1370 253 207 98 58 54
+216 Carlos Brito 19 1365 158 104 93 87 87
+217 Rui Pereira 17 1364 232 156 136 109 73
+218 Filipe Pereira 20 1333 238 149 103 89 68
+219 Alexandre M Carmo 19 1333 283 134 92 82 71
+220 Pedro Quelhas 14 1333 426 238 111 99 78
+221 Fernando Silva 19 1329 114 65 63 63 55
+222 Catarina Pinho 18 1322 251 112 105 91 85
+223 Elsa Froufe 20 1316 128 88 70 68 65
+224 Duarte Torres 17 1312 311 176 144 92 82
+225 Alexandra Gaspar 21 1312 210 114 96 68 67
+226 Joana Abrantes 19 1300 189 97 88 64 52
+227 Rita Covas 19 1292 203 105 105 89 75
+228 Rui Esteves Araújo 18 1291 88 82 75 54 48
+229 Fernanda Ribeiro 19 1285 284 284 114 78 57
+230 Marco Parente 18 1282 241 105 93 61 46
+231 Hugo Osorio 18 1280 304 76 75 75 69
+232 Miguel Coimbra 17 1278 179 154 110 86 72
+233 Joaquim Luís Coimbra 18 1274 91 78 71 70 40
+234 Ricardo Rocha 13 1269 139 126 112 68 63
+235 Gonçalo Cardoso 21 1260 169 120 85 60 54
+236 Francisco M. Andrade Pires 15 1259 137 127 111 91 72
+237 Alberto Adrego Pinto 19 1258 64 52 41 40 35
+238 A F M Azevedo 17 1254 193 173 90 50 45
+239 Rui Miranda Guedes 21 1254 129 66 65 61 52
+240 José Ferreira Alves 15 1237 325 146 103 98 83
+241 Ines C. Goncalves 18 1220 223 176 109 76 50
+242 Sara Ricardo 17 1220 331 146 93 75 62
+243 Pedro Alves Costa  18 1216 181 127 113 106 62
+244 Joao Vinagre 16 1215 403 254 78 75 53
+245 Vasco Galhardo 15 1206 282 203 86 84 83
+246 Paulo Oliveira 15 1193 302 206 145 69 68
+247 Irene Martins 16 1173 176 148 114 102 78
+248 Nuno Cruz 19 1170 94 87 40 40 40
+249 Clara Pereira 21 1164 208 85 83 67 61
+250 Laura Guimaraes 19 1145 188 106 80 50 44
+251 Duarte Costa Pereira 15 1133 454 67 43 41 38
+252 Miguel Miranda 17 1124 99 91 90 79 71
+253 Miguel Carneiro 17 1096 147 101 92 80 70
+254 Jose Manuel Laginha Mestre da Palma 15 1091 169 156 110 89 61
+255 Helena Cristina Brites Martins 13 1081 629 86 41 39 31
+256 Carla Sofia Garcia Fernandes 16 1079 366 80 76 54 45
+257 Paulo Portugal 17 1077 122 113 63 40 36
+258 Nuno Borges 20 1076 143 67 64 57 54
+259 Ana Perera 20 1068 69 53 50 47 40
+260 Vítor Leal 17 1068 136 101 80 74 53
+261 Hugo Rebelo 18 1060 156 151 84 67 61
+262 Aníbal J S Ferreira 16 1059 227 60 41 41 40
+263 Carlos Conde 11 1057 492 179 89 77 44
+264 Clara Vasconcelos 16 1053 137 54 45 33 29
+265 Catarina Eloy 15 1048 254 116 75 58 46
+266 Marisa Freitas 22 1047 145 73 65 48 48
+267 João Pedro Silva 19 1039 113 108 100 91 60
+268 Ramiro Martins 19 1035 100 69 55 46 42
+269 Ana M Nobre 15 1022 187 106 96 96 90
+270 Ramon O'Callaghan 14 1020 379 128 70 64 54
+271 Fernando A.C.C. Fontes 15 981 297 97 51 38 32
+272 Maria João Santos 17 968 108 48 44 38 33
+273 Americo Lopes Azevedo 15 968 79 66 65 57 44
+274 Peter Gothen 16 965 130 92 81 75 68
+275 "F. Ferreira-Monteiro" or "F. F. Monteiro" 9 962 440 144 84 79 71
+276 Andre Lourenco 16 945 104 104 82 70 64
+277 José Carlos B. Lopes 19 941 105 82 73 61 44
+278 Isabel Cunha 15 940 228 93 90 71 59
+279 Cristina Queiros 15 933 63 53 42 38 38
+280 Fernanda Fidalgo 15 922 142 94 69 62 49
+281 Luis Reino 18 919 106 81 59 49 46
+282 Ricardo Ribeiro, M.D., Ph.D. 17 919 107 101 74 72 57
+283 Ana Filipa Filipe 11 913 417 102 76 70 53
+284 Victor Viana PhD 12 911 201 163 85 58 57
+285 Anabela Ferro 13 910 188 131 106 94 89
+286 Jorge G. Barbosa 16 908 179 58 52 46 45
+287 Alexandra Gouveia 17 904 115 87 87 82 80
+288 Maria Gomez Lazaro 13 903 134 130 126 117 62
+289 Cristina Ribeiro 15 894 89 82 40 39 37
+290 Gabriela Beirão 7 890 676 79 55 37 16
+291 Jorge Fernandes Alves 14 882 183 25 24 23 21
+292 José Pedro L. Nunes 15 881 174 76 63 52 44
+293 Pedro M.D. Moreno 13 881 221 186 101 64 35
+294 Paula Brito 15 880 115 75 75 61 42
+295 Raquel Lucas 17 876 70 64 55 51 43
+296 Manuel Lopes-Lima 17 870 88 65 51 48 34
+297 Catarina Ginja 16 869 90 84 65 62 55
+298 Luís Antunes 15 866 122 95 64 63 60
+299 Afonso Pinhão Ferreira 17 865 52 42 37 32 32
+300 Pedro Quaresma 10 860 439 85 66 52 51
+301 Ana C. R. Paiva 18 856 79 55 47 46 45
+302 Christian Lomp 12 856 381 94 67 43 28
+303 Vitor Hugo Teixeira 16 855 104 98 90 68 48
+304 Luis Palma 16 853 167 60 60 50 46
+305 Americo Afonso 16 850 322 52 42 34 27
+306 Guillermo Velo-Antón 17 846 84 79 49 40 39
+307 Vasco Neves 10 846 160 135 104 103 86
+308 Angelica Crottini 15 846 87 52 49 42 36
+309 Agostinho Almeida 17 841 63 57 50 37 31
+310 Sara Rodrigues 12 833 303 122 65 39 35
+311 António J. Bastos Leite 15 829 118 100 73 68 67
+312 Manuela Ferreira 12 823 249 249 108 59 57
+313 Helder Crespo 15 817 99 79 79 60 48
+314 José M. Campiña 14 817 297 182 62 48 33
+316 Laura Oliveira 16 816 74 57 53 45 39
+317 Joao Pedro Pedroso 15 812 183 89 61 43 32
+318 Adelino Filipe C. Cunha, Dr. -Ing. 17 812 75 74 66 55 46
+319 Silvia B. Carvalho 14 812 131 110 93 84 76
+320 Alexandre Afonso 16 810 144 82 67 49 45
+321 J Chousal 8 810 237 172 167 72 47
+322 Fernando Sequeira 15 809 115 111 62 61 57
+323 João Mendes-Moreira 14 808 184 138 60 32 30
+324 Rui Batista 6 805 403 254 53 21 21
+325 Álvaro Costa 11 801 231 158 132 36 36
+326 Nelma Moreira 16 797 57 49 44 37 32
+327 Francisca C. Moreira 13 795 226 101 84 65 53
+328 Elisabete Silva 12 794 264 145 64 48 37
+329 M. Mendes de Oliveira 7 777 402 202 77 33 30
+330 Carla S. Lopes 11 776 232 118 91 62 46
+331 Amélia Veiga 16 775 114 100 54 42 41
+332 Miguel V. Correia 13 772 82 60 51 45 30
+333 Mariana Proença 14 769 111 81 70 66 60
+334 Armando Jorge Miranda de Sousa 13 766 132 49 38 36 35
+335 Pedro Madeira 18 752 46 46 43 38 35
+336 Joana Araújo 10 752 454 46 35 34 34
+337 Amancio Pinto 13 751 147 81 69 36 35
+338 José Paulo Leal 13 750 114 91 39 37 32
+339 Henrique Lopes Cardoso 15 748 93 45 34 30 26
+340 António Lucas Soares 12 741 88 70 66 57 53
+341 Joao F. Proenca 16 739 90 55 47 39 36
+342 Joao R Gomes 11 734 443 69 44 41 37
+343 Aldo Barreiro Felpeto 14 731 277 54 44 37 31
+344 Nuno Miguel Monteiro 17 729 76 45 36 35 32
+345 Sofia Correia 15 728 164 50 49 48 44
+346 Sónia Ferreira 10 722 181 174 84 77 27
+347 Paula Batista 15 714 139 61 53 53 35
+348 Paulo de Castro Aguiar 14 711 77 60 58 56 51
+349 Rita Araujo 16 708 83 66 35 35 34
+350 Jorge Milhazes Freitas 15 704 106 75 61 53 49
+351 A. Miguel Gomes 8 703 203 160 126 40 40
+352 Graciliana Lopes 13 700 83 80 73 71 63
+353 Jose Pissarra 15 696 88 67 62 58 50
+354 Eva Barreira 13 688 196 43 38 36 35
+355 Claudia R. Serra 8 683 326 234 43 15 12
+356 maria joão martins 16 682 89 56 44 42 40
+357 MCS Ribeiro 14 682 82 73 52 44 44
+358 Guillermin Agüero-Chapin, Ph.D. 12 678 114 90 66 66 58
+359 Marta C Soares 17 677 98 63 38 32 31
+360 Diana Moreira 14 674 122 45 44 37 30
+361 Filipa Grosso 15 674 167 55 53 44 43
+362 Maria Eduarda Silva 16 670 65 55 33 32 26
+363 Teresa Amaro 13 670 140 118 87 65 37
+364 Luisa Sousa 12 669 141 91 45 43 37
+365 Manuela Oliveira 14 667 108 93 51 49 46
+366 F.J. Galindo-Rosales 14 666 76 70 61 52 50
+367 Rogerio Reis 15 664 82 44 37 32 24
+368 Jose Varejao 12 664 105 86 73 70 57
+369 Maria Antónia Carravilla 13 659 123 85 60 40 40
+370 Ana Catarina Silva 11 659 171 75 71 70 56
+371 António Porto 11 651 180 73 54 47 41
+372 Pedro Leao 13 650 94 89 84 61 53
+373 António Costa-Ferreira 12 648 100 98 81 55 46
+374 Catarina F. Castro 14 645 141 49 45 43 32
+375 João Pascoal Faria 14 641 79 55 46 36 34
+376 Manuel M. F. Martins 16 641 73 60 50 45 40
+377 Antonio Taveira Gomes 10 630 223 176 31 30 27
+378 Rui M Ferreira 15 628 98 69 50 48 47
+379 Luisa Azevedo 14 621 98 43 43 37 33
+380 Alexandra O. Silva 9 619 215 97 87 64 43
+381 Joana Fernandes 15 618 97 42 29 29 28
+382 Cesar Capinha 12 617 129 86 66 51 45
+383 Emilio Civantos 12 616 121 64 54 44 43
+384 Maria do Rosário de Pinho 14 616 73 57 50 44 34
+385 Rui Alexandre Alves 13 614 68 65 56 54 51
+386 Guillaume Erny 13 612 78 57 57 53 51
+387 Paula Guerra 14 602 61 34 28 24 24
+388 Carlos Pinho 12 600 67 63 61 61 43
+389 Jorge Farinha 8 599 325 111 46 35 25
+390 Pedro Amorim 12 597 138 84 57 50 35
+391 Manuela Terraseca 8 596 404 36 21 18 12
+392 Ana Goios 10 596 174 93 57 48 48
+393 Ana Costa 14 595 60 56 52 41 41
+394 Olga Maria Lage 16 594 57 53 45 44 38
+395 Iuliu Bobos 11 589 125 61 60 39 36
+396 Rui Magalhães 11 585 198 106 46 39 38
+397 Luciana Ferreira 10 585 127 117 95 86 41
+398 Cristina Parente 14 583 46 42 36 36 29
+399 José Miguel Castro 14 582 78 67 42 38 33
+400 Cristiana Ferreira 12 582 124 71 45 42 31
+401 Gil Gonçalves 13 579 65 51 41 40 37
+402 Rui Carneiro Barros 11 576 61 33 21 15 15
+403 Teresa Sá Marques 13 574 99 77 27 27 25
+404 Daniela Ribeiro 16 574 48 47 39 38 33
+405 D.S. Falcão 13 573 125 76 57 49 43
+406 Ana Aguiar 12 571 81 72 31 27 26
+407 Joana Ascenso 9 570 124 82 75 72 66
+408 Ademar Aguiar 12 567 74 46 35 29 26
+409 António Ferreira 15 565 87 43 42 38 28
+410 Isabel Pereira-Castro 7 563 325 65 48 45 13
+411 Joana Cadima 11 560 152 50 48 39 30
+412 Ricardo Fontes-Carvalho 12 559 58 50 47 42 37
+413 Gabriel David 13 554 89 74 39 30 29
+414 Antonio Coelho 13 551 36 35 31 30 26
+415 Ricardo Martins 13 550 77 56 48 41 41
+416 Carla Sofia Cardoso 13 550 74 63 61 52 38
+417 Fiuza Antonio 12 542 75 44 35 35 35
+418 Rubim Almeida 11 542 68 55 42 37 31
+419 teresa Neuparth 13 539 77 63 62 47 39
+420 Rúben F. Pereira 11 536 120 111 61 46 33
+422 João F. Gonçalves 11 530 173 57 44 42 34
+423 Jorge Freire de Sousa 12 528 184 60 30 24 21
+424 Ana Sofia Ferro 6 516 302 146 22 18 11
+425 Ângela Lomba 12 514 93 57 53 42 24
+426 Argentino Pessoa 11 511 73 62 57 40 35
+427 Cláudia de Freitas 13 509 119 90 31 24 22
+428 Manuel Delgado 12 509 135 71 41 39 37
+429 S.M.O. Tavares 10 508 165 38 38 26 22
+430 Ana Paula Rocha 11 505 134 89 43 34 30
+431 Joana R. Vicente 12 502 93 57 47 34 31
+432 Helder Bastos 10 500 123 73 51 51 36
+433 Janete Santos 12 499 115 78 47 34 23
+434 Rui Prior 11 499 117 73 54 52 33
+435 Filipe Pinto 9 493 302 71 31 20 16
+436 António José Pereira 12 492 88 83 68 58 45
+437 Eduardo R. B. Marques 12 491 77 56 48 41 41
+438 Alberto Gomes 12 487 44 33 22 21 20
+439 José Duarte Marafona 6 485 183 172 50 46 15
+440 Isabel Margarida Duarte 12 478 54 43 40 35 33
+441 Laura Campo Deaño 11 477 58 56 52 50 43
+442 Casimiro de Andrade 13 474 52 37 34 33 32
+443 Helder Leite 10 467 128 73 54 23 22
+444 Luis Carvalho 11 464 74 68 63 38 36
+445 Renato Bessa de Melo 13 464 64 57 53 47 38
+446 Alice Ramos 10 463 111 95 62 58 37
+447 Ana C Reis 12 462 55 47 46 35 34
+448 Vitor Ramos 12 461 88 49 41 37 31
+449 Dalila Benedita Machado Martins Fontes 12 461 39 36 35 32 29
+450 Carla Carmelo Rosa 11 461 93 81 57 39 32
+451 Helena Hespanhol 11 452 62 50 42 42 41
+452 Michael Jowers 12 450 58 39 33 32 23
+453 Cristiana Vieira 11 448 61 53 47 25 25
+454 Alexandra M. Lopes 11 446 88 73 44 41 34
+455 João Carneiro 10 445 103 45 37 35 35
+456 Nuno Corte-Real 12 445 122 25 22 22 21
+457 Paulo Melo 13 441 52 47 39 37 32
+458 Cecília Durães 12 441 91 55 52 39 37
+459 Mário Amado Alves 10 440 103 96 25 21 19
+460 Carlos F. Alves 9 440 134 72 46 23 20
+461 Verónica Orvalho 11 439 52 41 27 27 25
+462 Emanuel Maldonado 6 438 366 20 17 10 6
+463 António Abel Ribeiro Henriques 11 436 56 40 34 29 26
+464 António Brandão 8 434 141 51 43 41 39
+465 Sandra Ramos 10 433 101 68 50 42 32
+466 Alejandro Santos 12 431 52 38 35 35 27
+467 Alexandre Silva Lopes 8 426 169 89 42 42 42
+468 Marcos Rubal 12 426 59 43 26 24 23
+469 Luis F. Teixeira 10 425 102 74 66 32 18
+470 João Lobato Oliveira 11 425 75 55 34 27 25
+471 Anabela Carneiro 8 421 152 56 42 37 30
+472 Francisca Rodrigues 12 421 67 39 33 30 24
+473 Isabel M. Horta 9 418 90 72 66 36 32
+474 Joana Santana 11 417 49 43 39 38 37
+475 Hamid Arabnejad 9 416 179 58 42 37 24
+476 João Veloso 12 415 75 40 27 17 16
+477 Pedro M Martins 13 415 47 38 29 25 19
+478 Raquel Vasconcelos 14 414 47 38 26 26 26
+479 Paulo Lopes dos Santos 11 413 44 43 43 31 28
+480 Pedro Ribeiro 11 412 65 55 31 25 20
+481 Rui A. Costa 9 409 120 66 58 57 19
+482 Luis Filipe Oliva Teles 8 407 148 116 36 32 15
+483 João Azevedo, PhD 11 407 132 57 46 31 24
+484 Patrícia Ramos 8 406 152 96 57 26 13
+485 Vasco Gonçalves 8 403 145 78 52 35 32
+486 Jorge Marques Gonçalves 12 401 52 35 32 29 29
+487 Leonardo J. Magnoni 11 401 66 51 47 46 29
+488 Helder P. Oliveira 12 400 36 33 33 27 24
+489 José Machado da Silva 10 400 56 43 40 18 14
+490 Mário Florido 11 400 32 29 25 24 24
+491 Gabriel Bernardo 11 399 43 28 22 21 19
+492 Maria dos Anjos Ribeiro 10 396 48 46 27 20 15
+493 Teresa Galvão Dias 11 395 43 34 24 24 21
+494 João Claro 12 392 66 46 31 30 25
+495 Xavier Romão 10 390 69 57 21 21 20
+496 Fatima Marinho Saraiva 9 386 153 32 19 19 14
+497 Sérgio Nunes 11 385 89 39 31 30 25
+498 Catarina J. M. Delgado 8 380 105 43 36 36 31
+499 Maria José Magalhães 10 380 92 22 22 20 17
+501 Catarina Rato 12 376 69 41 32 26 26
+502 Ana Cláudia Teodoro 11 376 40 33 25 25 18
+503 Ricardo Morla 10 375 59 57 19 17 17
+504 Hugo Almeida 8 375 88 74 60 37 34
+505 Jisha C P 11 371 48 30 29 23 22
+506 João Canas Ferreira 12 370 30 29 21 21 17
+507 Rui S. Ribeiro 10 370 66 50 47 41 30
+508 Catarina Teixeira 12 369 58 33 33 31 29
+509 Pedro Alberto da Graça Pereira 12 369 43 34 29 29 27
+510 João Poças Martins 9 368 127 48 43 22 17
+511 Iuliia V. Voroshylova 7 367 113 83 45 43 26
+512 Augusto Rodrigues 10 365 78 53 49 40 22
+513 Francesco Renna 10 359 82 34 28 28 28
+514 Ana Gomes 8 358 81 73 37 34 34
+515 Pedro M. d'Orey 9 351 89 58 57 27 18
+516 Helena Sant'Ovaia 10 351 41 27 27 25 21
+517 Sandra Miranda 9 351 101 62 55 37 27
+518 Margarida Louro Felgueiras 10 350 42 34 28 26 25
+519 Elizabeth S. Vieira 7 344 157 99 22 18 16
+520 Helena Madureira 9 343 105 54 42 38 22
+521 José Manuel Grosso-Silva 10 343 30 27 26 21 18
+522 Rui Seabra 11 342 59 48 37 36 33
+523 Carlos Fernandes 11 340 35 32 29 28 28
+524 Tiago Neves 9 340 78 78 21 19 14
+525 Jorge Martins Ribeiro 9 340 108 53 32 19 14
+526 Paulo Simeão Carvalho 10 339 89 44 22 20 12
+527 Carlos Vaz 8 339 117 57 37 29 27
+528 Mónica Pereira Garcia 10 337 87 61 31 31 26
+529 A. Jesus Muñoz-Pajares 9 336 87 49 36 30 29
+530 Nuno Dinis Couto 11 331 69 35 28 27 26
+531 Cátia Oliveira 10 328 75 34 29 23 22
+532 Joao Rodrigo Santos 11 327 45 40 30 29 24
+533 Pedro Monterroso 10 326 67 40 38 32 30
+534 Luís Gordinho 8 326 81 59 44 43 30
+535 José Alberto Rio Fernandes 10 325 30 30 22 21 21
+536 Inês Guerreiro 11 325 50 46 30 27 27
+537 Rita P. Ribeiro 8 324 95 37 31 31 27
+538 Rui Rodrigues 10 321 45 26 22 21 17
+539 André Furtado 11 320 40 34 30 30 18
+540 Castorina Silva Vieira 9 319 50 31 25 18 15
+541 Tavares, Paulo J. 11 317 65 34 27 21 19
+542 Tiago Sotto Mayor 10 316 34 34 33 33 19
+543 V Vasumathi 10 315 78 41 32 26 25
+544 M. J.Sottomayor 10 315 94 29 29 29 26
+545 Jose Teixeira 11 314 23 22 18 16 15
+546 Raquel Ruivo 8 313 96 66 33 26 19
+547 Rosa Portela Forte 8 312 86 64 31 24 17
+548 André Correia Sousa 9 309 127 33 23 21 19
+549 Bruno Mateus Ferreira 10 307 37 25 24 24 23
+550 José Melo 12 306 53 30 20 18 16
+551 Isabel Martins Ribeiro 9 306 59 46 41 29 25
+552 Gonçalo Figueira 7 305 123 90 28 20 18
+553 M.L. Dinis 9 305 35 34 32 25 24
+554 Renato Sousa 10 304 102 40 26 25 21
+555 Natalia Rey-Raap 11 304 50 41 29 27 20
+556 Nuno Neves 9 303 75 59 27 20 18
+557 Celeste Dias 10 300 44 36 36 23 15
+558 Joana Reis Almeida 10 300 72 48 39 22 22
+559 Raquel Xavier 9 299 59 35 32 30 20
+560 Nelson G. M. Gomes 7 298 86 48 44 41 33
+561 Guillem Pérez i de Lanuza 11 293 42 39 30 26 22
+562 Daniel Pereira 3 292 261 23 3 3 1
+564 J M G Sarraguça 10 287 68 44 34 22 20
+565 Albertino Arteiro 8 285 61 41 36 26 22
+566 Daniel Cerqueira Ribeiro 7 285 127 43 31 30 7
+567 Teresa Limpo 8 282 65 51 39 39 26
+568 Miguel M. Fonseca 10 282 52 41 31 29 26
+569 Paulo B Vasconcelos 9 282 51 23 15 14 13
+570 Fernando Zamith 8 282 74 66 47 35 12
+571 Belmira Neto 8 282 64 47 38 22 18
+572 Luis Martelo 6 277 117 68 40 24 14
+573 ANDREIA FILIPA RIBEIRO DE OLIVEIRA PEIXOTO 11 276 53 33 25 24 20
+574 Bruno Loff 10 275 51 30 25 24 23
+575 Márcio Borgonovo dos Santos 11 275 33 29 27 22 20
+576 Luis Filipe Pereira Juvandes 8 274 64 33 31 14 14
+577 José Pedro Correia 7 274 106 38 33 33 25
+578 Marina Pinheiro 11 272 56 27 22 17 17
+579 Amelia Polónia 8 268 19 14 14 13 12
+580 Marc Franch 9 268 42 32 32 27 21
+581 Pedro Sousa 9 267 67 55 27 22 21
+582 Daniel Castro Silva 9 263 27 23 22 20 14
+583 Ricardo Vardasca 8 263 71 30 21 12 11
+584 Isabel M. Matas Casado 8 261 85 43 37 24 19
+585 Joao Rio 6 260 91 50 30 24 18
+586 Hadi Mazaheripour 6 260 123 50 20 10 9
+587 Ana Mouraz 8 259 21 17 15 15 12
+588 Antonio Muñoz Mérida 9 259 49 33 32 22 21
+589 Frederico Francisco 7 256 68 56 42 42 13
+590 Teresa Luísa Silva 9 256 84 37 29 28 15
+591 Paula Silva 10 254 40 18 17 14 13
+592 Vera Miguéis 9 254 59 46 36 26 26
+593 André Fonseca 7 253 82 36 34 33 17
+594 Teresa Fernandes 10 248 39 29 24 24 19
+595 Pedro Daniel Ferreira 9 247 53 25 18 18 15
+596 Fantina Tedim 8 247 43 20 17 16 11
+597 Alexandre Perez 9 245 71 29 29 23 18
+598 Maria Manuela Pinto 8 244 54 25 19 18 16
+599 Samuel Lins 7 244 65 43 43 23 12
+600 Dora Pinho 9 244 43 36 28 22 14
+601 Joana Urbano 9 243 43 17 15 14 14
+602 Joao Correia-da-Silva 9 243 40 33 20 16 13
+603 Fernando Ferreira-Santos 10 243 45 31 31 22 19
+604 Zafeiris Kokkinogenis 8 243 42 41 26 26 21
+605 Cecília Silva 8 243 41 38 27 25 24
+606 Micaela Vale 9 243 58 42 33 22 21
+607 Jorge Grenha Teixeira 3 241 208 21 5 3 2
+608 João Correia Lopes 7 241 42 16 15 13 10
+609 Ana Isabel Reis 8 240 37 28 23 17 12
+610 Álvaro Mendes 8 238 47 25 19 14 13
+611 Alice Semedo 9 238 21 19 18 15 12
+612 Rogelio Ponce de León Romeo 9 235 23 23 16 15 14
+613 Manuel Eduardo Correia 8 234 22 19 15 12 11
+614 António Ferreira 8 233 42 35 25 25 24
+615 Marco Almeida 9 231 44 37 32 21 19
+616 Jose S. Matos 9 231 32 32 29 18 15
+617 Isabel S.S. Pinto 8 230 54 44 26 23 23
+618 Elisabete Alves 9 228 34 32 26 20 18
+619 Patricia Romeiro 7 225 54 50 37 27 22
+620 Mariana V. Martins 6 224 83 45 28 19 16
+621 José Meirinhos 7 224 46 36 15 14 8
+622 José Manuel Peixoto Caldas 8 223 73 17 17 17 12
+623 Duarte V. Gonçalves 6 221 84 40 27 22 10
+624 Marilene Estanqueiro 5 220 125 45 17 10 6
+625 Jorge Teixeira 8 218 55 43 19 16 11
+626 Perpetua Pinto-do-Ó 8 217 74 50 25 21 12
+627 Alvaro Figueira 8 216 15 13 12 11 9
+628 Tiago Cousseau 7 214 49 39 33 30 14
+629 Jaime Rodrigues 7 214 76 71 23 18 10
+631 José Matos 5 212 81 41 36 23 21
+632 Maria Barbosa Ducharne 8 211 28 26 17 15 12
+633 Elsa Pacheco 7 208 48 32 30 15 13
+634 Antonio J. M. Castro 9 207 23 22 20 19 12
+635 Carina A. Esteves Costa 8 207 50 41 40 18 18
+636 João Manuel Viana Parente Lopes 8 206 47 30 24 23 14
+637 José Machado da Silva 8 206 43 15 13 13 11
+638 Behrouz Arabi 7 203 56 39 37 31 15
+639 Rui P P Neves 6 202 119 22 17 14 9
+640 Filipa M. Ribeiro 6 201 54 41 33 23 11
+641 Madalena Pires da Fonseca 9 201 20 14 13 13 12
+642 Rui MF Gomes 7 201 65 40 36 17 14
+643 Nuno Henrique Franco 7 200 54 36 23 21 17
+644 Hugo Sereno Ferreira 9 199 26 25 25 21 18
+645 Fernando Almeida 8 199 27 20 19 18 15
+646 Ana R.M. Carvalho 9 199 27 24 23 18 18
+647 renata Souza 6 198 125 28 10 8 8
+648 Madalena Lemos 7 197 45 37 34 24 19
+649 Filipa Fontes 8 197 40 39 34 17 15
+650 Sérgio Crisóstomo 6 195 54 29 26 23 16
+651 Tiago J Dantas,  PhD 7 195 38 31 31 29 18
+652 Mario Marques 8 195 38 31 18 12 11
+653 Pereira B 8 191 67 31 26 14 13
+654 Carla Pinto Moura 8 190 50 32 17 16 11
+655 Paula Boaventura 6 190 78 53 16 11 11
+656 Catarina Leite Pereira 7 189 62 46 17 12 11
+657 Alexandra Guedes Pinto 3 186 161 6 6 2 2
+658 Lígia Moreira Almeida 7 184 73 17 17 13 12
+659 Cecília Vale 7 184 46 32 25 17 16
+660 Pedro Miguel Castro 8 183 37 37 25 21 16
+661 Joselina Barbosa 6 183 67 23 15 13 13
+662 João Queirós 8 182 34 22 16 13 12
+663 Sergey Bunyaev 9 182 27 19 16 11 11
+664 Pedro Brandao 6 181 54 21 16 10 10
+666 Pedro Nogueira 7 180 26 22 17 12 10
+667 António Guedes de Oliveira 6 180 73 21 20 18 7
+668 Maria Joao Gregorio 9 177 24 19 15 12 11
+669 Estrela Neto 7 177 62 40 18 17 12
+670 George Sioros 9 174 22 21 20 20 19
+671 Luís Oliveira 7 172 34 25 22 16 11
+672 Pedro Ferreira 6 172 63 23 18 14 9
+673 Sá, Susana Isabel 8 170 28 23 22 20 20
+675 Paulo de Morais 7 169 66 29 21 13 12
+676 Andres Rodriguez-Seijo (ORCID: 0000-0003-4868-3069) 8 168 50 20 14 14 12
+677 Purificação Silvano 8 167 32 17 17 14 13
+678 Tiago Taveira-Gomes 7 166 38 30 28 23 17
+679 Joao Rocha da Silva 8 162 18 17 16 15 15
+680 Luisa Agante 5 158 84 26 14 12 12
+681 Sara Alves 5 156 74 42 19 13 5
+682 João Bernardo 5 155 83 41 14 7 6
+683 ripoll-rozada jorge 6 154 68 34 15 14 9
+684 Patrícia Marques 6 153 86 15 15 12 11
+685 Pinto, Andry Maykol 7 153 34 21 14 11 11
+686 Carlos Machado 5 153 86 13 9 6 5
+687 Sílvia Lourenço 7 153 40 31 24 16 13
+688 Amin Abrishambaf 5 152 74 26 11 9 7
+689 Miguel Dias Costa 8 151 45 23 18 16 15
+691 Nuno Flores 6 150 46 26 18 8 7
+692 Maria Rosário Alves Moreira 7 150 38 23 15 14 10
+693 Luís Tiago Paiva 6 149 44 21 21 13 12
+694 Tiago Carvalho 6 148 71 11 11 11 6
+695 Sergio Monteiro-Rodrigues 8 148 20 17 13 13 12
+696 Luis Guimarães 7 147 35 29 21 18 11
+697 Liliana Grenho 8 147 22 19 17 16 14
+698 Tito T. Jesus 7 147 30 18 17 17 15
+699 Francisco Mesquita 5 147 89 25 13 9 6
+700 Carla Teixeira Lopes 6 146 33 25 15 11 9
+701 Filipe Figueiredo Correia 7 146 26 25 18 12 10
+702 Rui Nóbrega 7 145 45 30 12 8 7
+703 LPS Martins 7 145 21 19 16 14 10
+704 Luisa Helena Pinto 6 145 51 36 16 7 7
+705 Khadananda Paudel 4 145 91 36 7 6 4
+706 Antonio Carvalho Brito 7 143 19 16 15 13 10
+707 Carlos M. M. da Silva Corrêa 8 143 26 22 22 22 20
+708 Hugo Ribeiro 6 142 44 28 22 19 12
+709 Rolando da Silva Martins 6 137 57 13 10 10 10
+710 Roberta Oliveira 5 136 45 24 23 16 5
+711 Paulo J. Pereira 7 134 25 20 19 18 8
+712 Flavia Sousa 5 134 52 24 22 13 10
+713 Carla Morais 5 134 21 17 15 11 6
+714 Andrea Alessandretti 6 133 40 14 12 9 8
+715 Pedro Sousa 6 132 32 28 26 25 7
+716 Miguel Ricou 7 132 28 21 12 12 10
+717 Lúcio Sanchez Passos 7 131 26 19 15 12 8
+718 João Pedro Sousa Ferreira 6 131 19 12 11 11 9
+719 Marcelo Correia 7 131 31 22 20 19 10
+720 João Guilherme Pereira Rodrigues 7 127 26 22 18 15 13
+721 Rui Adão 6 127 69 14 11 11 10
+722 Ana Catarina Vieira de Castro 5 125 84 12 9 6 5
+723 sule canberk 6 124 26 22 8 8 7
+724 Mário Amorim Lopes 5 124 42 36 18 11 7
+725 Isabel Mota 5 123 46 15 15 9 7
+727 Joao Queiros 6 120 48 18 12 10 10
+728 Sara  Soares 5 118 33 33 15 14 12
+729 Graça Lobo 5 117 74 12 10 8 6
+730 Sara I. Magalhães 5 116 44 23 20 12 6
+731 Heber Sobreira 7 115 18 16 11 9 8
+732 Abílio Pereira Pacheco 6 114 66 13 12 10 7
+733 Carina Pinto Kozmus 6 114 35 17 13 12 11
+734 Ana S. M. C. Rodrigues 6 114 27 23 10 10 10
+735 Paula Alexandra Gonçalves 7 113 39 16 12 12 9
+736 Carlos Vila-Viçosa 6 113 34 8 7 7 7
+739 Irene Ureña 3 111 87 14 6 2 1
+740 Luise Lopes Chaves 5 109 24 24 17 10 8
+741 Isabel Iglesias 5 109 46 46 22 21 10
+742 Sónia Valente Rodrigues 5 108 32 17 13 10 8
+743 Ana Sá 4 108 85 8 7 5 2
+744 Heitor Alvelos 4 107 43 41 4 4 4
+745 Zélia da Rocha 6 107 34 12 12 10 8
+746 Rui Lopes 6 106 17 14 14 14 12
+747 Ivone Duarte 5 106 54 12 10 9 8
+748 Sara Moutinho 7 104 20 10 9 8 7
+749 Pedro Tiago Gomes 5 103 31 23 11 7 7
+750 Vasco Ribeiro 6 103 32 32 25 9 9
+751 Tiago Paiva 5 101 45 19 15 10 5
+752 Gabriela M Morello 6 100 38 15 7 7 6
+753 Filipe Rocha 4 100 25 25 20 18 4
+754 Marta Laranjeira 5 99 28 23 15 13 7
+755 Ana Priscila Alves 5 99 28 19 17 14 5
+756 Mattia Riccardi 5 99 28 20 16 12 7
+757 João Carlos Monteiro 5 96 33 20 7 7 6
+758 Clara Quintas 7 96 17 14 14 13 10
+760 Catarina Dias 4 96 28 23 11 10 4
+761 Sara Gomes 7 95 21 13 13 12 11
+763 Bárbara Rangel 4 94 62 11 7 5 3
+764 António Polónia 4 94 58 13 12 5 2
+765 António Leal 5 93 16 13 12 8 6
+766 Rita Vilaça 7 93 20 18 16 11 10
+767 Mushtaq Raza 6 92 23 23 10 7 6
+768 Sandra Vilarinho 4 90 34 19 17 15 3
+769 Kerwin Livingstone 5 90 25 25 12 7 7
+770 Miguel Ferraz 4 87 54 14 7 5 3
+771 Patrícia Fernandes 6 87 23 20 15 11 9
+773 Norberto Ribeiro 6 85 18 14 11 9 8
+774 Carlos Veiga Rodrigues 5 85 23 18 12 10 5
+775 Hugo Pires 6 83 15 11 10 9 8
+776 António Sérgio Ferreira 6 83 14 12 11 9 9
+777 Ana Sofia Vaz 6 82 26 11 10 10 8
+778 Ricardo Baptista 4 80 21 20 5 4 3
+779 Samantha Morais 6 80 22 18 11 11 7
+780 Cátia Santos-Pereira 5 79 27 15 11 7 6
+781 Roman Chertovskih 3 79 41 14 7 3 3
+782 Zelia Ferreira 7 79 16 14 11 11 7
+783 António José Soares 3 77 50 15 8 3 1
+786 José Macedo 5 77 26 21 7 7 5
+787 Rui Alexandre Novais 5 76 30 16 10 8 6
+788 Pedro Mesquita 5 76 19 13 9 6 6
+789 David Gonçalves 6 76 17 13 10 10 8
+790 Alberto Romele 6 76 15 9 7 7 6
+791 Nelson Gonçalves 4 75 31 20 9 6 4
+792 Miguel Carvalhais 5 71 13 10 8 7 5
+793 Diogo Varajão 5 71 28 12 8 8 5
+795 Rui Jorge Garcia Ramos 5 70 13 7 7 5 5
+796 Cândido Duarte 5 70 10 9 7 5 5
+797 Araliya Mosleh 5 70 18 14 12 11 8
+798 Hugo Santos-Sousa 2 69 52 14 2 1 0
+799 Miguel Areias 6 69 12 10 9 9 6
+800 Jose Pedro Sousa 5 67 10 8 8 6 5
+801 Behzad Vasheghani Farahani 4 67 12 10 8 7 4
+804 Fernando Miguel de Sousa Marques 5 66 18 9 9 7 6
+805 Helena Rio Maior 5 66 18 16 10 5 5
+806 Claudia Carvalho-Santos 4 66 21 20 8 5 4
+807 Rui Penha 5 66 15 10 9 6 6
+808 Bruno  Oliveira 4 65 41 5 4 4 2
+809 Sara Joana Dias 4 65 16 14 13 6 4
+810 Tiago Boldt Sousa 4 64 32 16 7 4 3
+812 Miguel Serra 5 64 19 8 6 5 5
+813 Carla Malafaia 5 63 18 9 9 6 5
+816 Helder Santos 4 62 21 8 8 5 4
+817 António Lobo 4 61 25 10 9 7 4
+819 Evelina Shamarova 4 60 32 5 5 4 4
+821 C D F Lopes 4 59 25 10 6 5 4
+822 Hodjat Mariji 5 59 12 10 8 7 5
+824 Marta Campos Ferreira 5 58 18 8 7 6 6
+825 Ricardo Amorim 3 56 18 15 9 3 3
+827 Filipe Alves Moreira 4 55 20 9 9 8 4
+828 Vanda Urzal 3 55 27 18 4 2 2
+829 Ana Cristina Torres 4 55 20 7 6 5 4
+830 Marco Sannolo 5 55 11 11 9 7 6
+832 Carla Sequeira 4 53 20 20 9 7 6
+833 Daniela Fonseca de Freitas 5 53 22 10 9 5 5
+834 Gabriela Ruphuy 4 53 21 11 7 7 4
+835 João Soares 3 53 28 10 10 3 1
+836 Cecilia Rocha 3 52 18 8 7 3 2
+837 Mohammad Nozari Zarmehri 4 51 16 14 5 5 3
+838 Rita Pasion 3 51 38 6 5 1 1
+839 Carmen Ferreira 5 51 18 11 7 6 5
+841 André Restivo 3 50 23 10 4 3 3
+843 Verónica Gomes 3 49 18 9 4 3 3
+846 Ruzbeh Babaee 3 49 13 5 4 3 2
+849 Pouyan Abbasi Maedeh 4 47 13 11 11 4 2
+850 José A. M. Macedo 3 47 24 9 8 3 2
+851 Carlos Delgado 4 46 15 8 8 5 3
+852 Pedro Aires Montenegro 3 46 18 13 7 3 3
+855 Clara Pimenta do Vale 4 45 5 5 5 4 4
+856 Catarina Brandão 4 45 12 7 5 4 4
+859 Hélio Mendonça 3 44 16 10 4 3 3
+860 Elham Shakibapour 5 44 9 8 6 6 5
+861 Ana Rita Farias 4 43 21 12 4 4 1
+864 José Ferreira Gomes 4 41 10 8 5 5 3
+867 MALIK SAAD SULTAN 4 40 6 5 4 4 4
+869 Abel Laureano 3 39 5 4 3 3 3
+871 André Guerra 2 39 32 5 1 1 0
+872 José Carlos Paiva 4 39 8 7 7 6 3
+873 Juliana Almeida 4 38 9 6 6 4 2
+875 Maria João Rodrigues 4 37 13 6 5 5 2
+879 Hooshiar Zolfagharnasab 4 35 16 8 4 4 1
+880 Ismael Miranda 4 34 10 7 6 6 3
+881 Pedro M. Santos 3 34 15 6 5 3 2
+882 Eva Maia 4 34 8 7 6 5 3
+883 Marco Amorim 3 34 7 6 5 3 3
+889 Tiago Cunha 3 31 7 6 4 3 3
+890 Paulo Pereira 3 30 10 9 9 2 0
+894 Luciano Moreira 4 29 5 4 4 4 3
+897 Patrícia Raposo 3 29 13 6 4 3 1
+898 Ali Azarian 3 28 17 5 4 1 1
+899 Ana Bela Ribeiro 3 28 16 6 4 2 0
+903 Thiago RPM Rúbio 3 27 8 5 4 3 2
+905 Frederico Santarém 2 27 10 7 2 2 2
+907 Alexandre Matos 3 26 9 7 4 3 3
+909 Olívia Pestana 2 26 13 7 2 2 1
+911 Helena Salgado 3 25 13 6 4 1 1
+913 Paula Meireles 3 25 12 5 4 2 1
+915 Smail Kechidi 2 24 15 7 1 1 0
+917 Claudia Moreira 3 24 12 3 3 2 1
+919 Duarte Ferreira 3 23 10 8 3 1 1
+921 Queiroz Domingues M. S. 3 21 5 5 4 3 2
+923 Vítor Hugo Pinto 3 21 7 4 4 2 2
+924 Ana Henriques 3 21 6 6 4 2 1
+926 Elisa Noronha Nascimento 4 20 6 5 4 4 1
+927 Jonas Queiroz 3 20 7 4 3 2 1
+931 Cláudio Gomes 3 19 7 5 4 3 0
+936 Carlos Miguel Correia da Costa 3 17 3 3 3 3 1
+937 Bruno Lima 2 17 8 2 2 2 1
+938 Érico Gaspar Lisbôa 3 17 4 3 3 3 2
+944 Pedro Gil Marques de Queirós Ferreira 3 16 4 4 3 2 2
+945 Cristina Elisabete Araújo de Sousa 3 16 6 3 3 2 1
+947 Paulo Frias 2 15 8 3 2 1 1
+948 Beatriz Casais 2 15 10 4 1 0 0
+949 Michelle Kasprzak 1 15 15 0 0 0 0
+951 Ângela Cristina Ferreira de Carvalho 3 14 4 3 3 3 1
+955 Vera Costa 3 14 3 3 3 2 1
+958 Hugo Rodrigues 2 13 8 2 1 1 1
+959 Bruno Giesteira 2 13 4 2 2 1 1
+961 Pooya Soltani 2 12 6 3 2 1 0
+962 António Costa 2 12 5 2 1 1 1
+965 Filipe Silva 2 11 5 5 1 0 0
+971 Guilherme Alencar 2 11 4 3 1 1 1
+973 Pedro Amado 2 10 4 3 2 1 0
+974 Vítor Carvalho 2 10 3 2 1 1 1
+975 Luís Daniel Machado Crisóstomo 1 10 8 1 1 0 0
+987 Sabine Ritter De Paris 2 8 3 2 1 1 1
+991 Victor H. Granados 1 7 6 1 0 0 0
+999 Francisco Bischoff 1 6 5 1 0 0 0
+1014 João F. Teixeira 1 4 2 1 1 0 0
+1018 Aydin Homay 1 4 1 1 1 1 0
+1029 Nuno Resende 1 3 3 0 0 0 0
+1030 Rodrigo Coelho 1 3 2 1 0 0 0
+1035 Guilherme Augusto Souza Godoy 1 2 1 1 0 0 0
+1057 Thiago Meneses Alves 1 1 1 0 0 0 0
+1058 Jamil Farkatt 1 1 1 0 0 0 0
+1059 Clotildes Madalena de Avelar Teixeira 1 1 1 0 0 0 0
